@@ -28,7 +28,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-5ec846350a-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
             "sha256": "5ec846350a4dbf637de0c9e6548fd4e4be46d949f3859163156d72ccdc78bdf0",
             "tamanho_bytes": 12417899,
-            "duracao_segundos": 37.567
+            "duracao_segundos": 37.567,
+            "removido_da_release_em": "2026-09-27T15:15:53.706516-03:00"
           },
           "instagram": {
             "status": "publicado",
