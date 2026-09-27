@@ -12,7 +12,7 @@
       "id": "story-20260927-5ec846350a",
       "data": "2026-09-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "5ec846350a4dbf637de0c9e6548fd4e4be46d949f3859163156d72ccdc78bdf0",
@@ -22,7 +22,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-5ec846350a-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-5ec846350a-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
@@ -31,13 +31,30 @@
             "duracao_segundos": 37.567
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18138868402534618",
+            "publish_iniciado_em": "2026-09-27T15:14:53-03:00",
+            "id": "18370319449211491",
+            "publicado_em": "2026-09-27T15:15:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1766746164247486",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-27T15:15:09-03:00",
+            "post_id_candidato": "1093938250082075",
+            "finish_em": "2026-09-27T15:15:14-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjEwOTM5MzgyNTY3NDg3NDE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1093938250082075",
+            "publicado_em": "2026-09-27T15:15:50-03:00"
+          },
+          "concluido_em": "2026-09-27T15:15:50-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-27T15:15:50-03:00"
     },
     {
       "id": "story-20260928-52aa318bfa",
