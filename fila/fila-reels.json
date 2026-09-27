@@ -1,5 +1,1398 @@
 {
   "canal": "instagram-facebook-reels",
   "timezone": "America/Sao_Paulo",
-  "conteudos": []
+  "conteudos": [
+    {
+      "id": "reel-20260927-1457-b24cd5a4df",
+      "data": "2026-09-27",
+      "horario": "14:57",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
+        "sha256": "b24cd5a4dfd4b359db7ad15848f83aa936a16dcbd4028817322a3b7b7d680b03"
+      },
+      "midia": {
+        "asset": "reel-b24cd5a4df-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-b24cd5a4df-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+        "sha256": "b24cd5a4dfd4b359db7ad15848f83aa936a16dcbd4028817322a3b7b7d680b03",
+        "tamanho_bytes": 12367328
+      },
+      "instagram": {
+        "legenda": "Um exército cercou a cidade mais rica do mundo e não conseguiu derrubar as muralhas. Essa história está no livro O Homem Mais Rico da Babilônia. A lição é simples: você também precisa de uma muralha, uma reserva pra atravessar os imprevistos. Quem tem proteção passa pelo cerco, quem não tem perde o que levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Um exército cercou a cidade mais rica do mundo e não conseguiu derrubar as muralhas. Essa história está no livro O Homem Mais Rico da Babilônia. A lição é simples: você também precisa de uma muralha, uma reserva pra atravessar os imprevistos. Quem tem proteção passa pelo cerco, quem não tem perde o que levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260927-1900-a817bc0bbe",
+      "data": "2026-09-27",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
+        "sha256": "a817bc0bbe9db24fc03fcd308d149681d66529bb1e1eae6b2910b90f76ba7e81"
+      },
+      "midia": {
+        "asset": "reel-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+        "sha256": "a817bc0bbe9db24fc03fcd308d149681d66529bb1e1eae6b2910b90f76ba7e81",
+        "tamanho_bytes": 14330515
+      },
+      "instagram": {
+        "legenda": "Tem gente que ganha pouco e enriquece, e gente que ganha muito e vive lascada. O livro Pai Rico, Pai Pobre explica: a diferença não está no salário, está no jeito que cada um pensa o dinheiro. Quem pensa certo compra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Tem gente que ganha pouco e enriquece, e gente que ganha muito e vive lascada. O livro Pai Rico, Pai Pobre explica: a diferença não está no salário, está no jeito que cada um pensa o dinheiro. Quem pensa certo compra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260928-1100-a75c10386c",
+      "data": "2026-09-28",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
+        "sha256": "a75c10386c28164ce7d3a1c45882a87c744cae4da05780debbe38d74d8877b2f"
+      },
+      "midia": {
+        "asset": "reel-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
+        "sha256": "a75c10386c28164ce7d3a1c45882a87c744cae4da05780debbe38d74d8877b2f",
+        "tamanho_bytes": 13795916
+      },
+      "instagram": {
+        "legenda": "Bansir e Kobbi trabalharam a vida inteira e não tinham nada guardado. Essa é a abertura do livro O Homem Mais Rico da Babilônia. A resposta não era falta de trabalho nem de salário: ninguém tinha ensinado pra eles as regras do jogo do dinheiro. E pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Bansir e Kobbi trabalharam a vida inteira e não tinham nada guardado. Essa é a abertura do livro O Homem Mais Rico da Babilônia. A resposta não era falta de trabalho nem de salário: ninguém tinha ensinado pra eles as regras do jogo do dinheiro. E pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260928-1900-6314fea5df",
+      "data": "2026-09-28",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
+        "sha256": "6314fea5dff223d9a04ac472e4e91e87a0b7eb7c1088c18dd6f3d94a57f3640f"
+      },
+      "midia": {
+        "asset": "reel-6314fea5df-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-6314fea5df-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+        "sha256": "6314fea5dff223d9a04ac472e4e91e87a0b7eb7c1088c18dd6f3d94a57f3640f",
+        "tamanho_bytes": 9253565
+      },
+      "instagram": {
+        "legenda": "Para de falar \"eu não posso pagar isso\". Essa frase desliga o seu cérebro e fecha a conversa. No livro Pai Rico, Pai Pobre, o pai rico perguntava diferente: como eu posso pagar isso? Quem pensa num jeito, uma hora acha.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Para de falar \"eu não posso pagar isso\". Essa frase desliga o seu cérebro e fecha a conversa. No livro Pai Rico, Pai Pobre, o pai rico perguntava diferente: como eu posso pagar isso? Quem pensa num jeito, uma hora acha.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260929-1100-faa26c04d1",
+      "data": "2026-09-29",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
+        "sha256": "faa26c04d1a9ed64b7995638c30b9a30ecd731774d68c2ae88fbec9c181a61bc"
+      },
+      "midia": {
+        "asset": "reel-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+        "sha256": "faa26c04d1a9ed64b7995638c30b9a30ecd731774d68c2ae88fbec9c181a61bc",
+        "tamanho_bytes": 20205065
+      },
+      "instagram": {
+        "legenda": "Arkad guardou dinheiro, investiu e ganhou juros, só que torrou tudo numa festa. No livro O Homem Mais Rico da Babilônia, o mestre dele avisa: você comeu os filhos do seu ouro. Os juros são os filhos do dinheiro, e se você gasta eles, nunca vão trabalhar pra você. Rendimento bom é aquele que volta a render.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Arkad guardou dinheiro, investiu e ganhou juros, só que torrou tudo numa festa. No livro O Homem Mais Rico da Babilônia, o mestre dele avisa: você comeu os filhos do seu ouro. Os juros são os filhos do dinheiro, e se você gasta eles, nunca vão trabalhar pra você. Rendimento bom é aquele que volta a render.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260929-1900-6689f41a42",
+      "data": "2026-09-29",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
+        "sha256": "6689f41a425319e7f1b50013273a45d3aaa52c8170fa383e6825c2a6bd000d90"
+      },
+      "midia": {
+        "asset": "reel-6689f41a42-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-6689f41a42-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+        "sha256": "6689f41a425319e7f1b50013273a45d3aaa52c8170fa383e6825c2a6bd000d90",
+        "tamanho_bytes": 10030672
+      },
+      "instagram": {
+        "legenda": "Trabalhar mais não vai te deixar rico. Os resultados que você tem com dinheiro são o fruto, e quem cria o fruto é a raiz: o que você pensa sobre dinheiro. É isso que o livro Os Segredos da Mente Milionária ensina. Quer mudar o fruto? Muda a raiz.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Trabalhar mais não vai te deixar rico. Os resultados que você tem com dinheiro são o fruto, e quem cria o fruto é a raiz: o que você pensa sobre dinheiro. É isso que o livro Os Segredos da Mente Milionária ensina. Quer mudar o fruto? Muda a raiz.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260930-1100-7f4b4b90e3",
+      "data": "2026-09-30",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
+        "sha256": "7f4b4b90e3987a323c702c49cfc69c009985463992d962c4338db5e151153086"
+      },
+      "midia": {
+        "asset": "reel-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+        "sha256": "7f4b4b90e3987a323c702c49cfc69c009985463992d962c4338db5e151153086",
+        "tamanho_bytes": 10474589
+      },
+      "instagram": {
+        "legenda": "Estudar e arrumar um emprego seguro pode te deixar pobre. No livro Pai Rico, Pai Pobre, o autor teve dois pais: um queria segurança, o outro queria liberdade. Qual dessas duas vozes você escuta hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Estudar e arrumar um emprego seguro pode te deixar pobre. No livro Pai Rico, Pai Pobre, o autor teve dois pais: um queria segurança, o outro queria liberdade. Qual dessas duas vozes você escuta hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260930-1900-698d2022a0",
+      "data": "2026-09-30",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
+        "sha256": "698d2022a040cbdbde9836a0ac385dc3a6b2ca0f66269da33e07f28ef74511cf"
+      },
+      "midia": {
+        "asset": "reel-698d2022a0-Babilonia-04---Voce-paga-todo-mundo.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-698d2022a0-Babilonia-04---Voce-paga-todo-mundo.mp4",
+        "sha256": "698d2022a040cbdbde9836a0ac385dc3a6b2ca0f66269da33e07f28ef74511cf",
+        "tamanho_bytes": 10676027
+      },
+      "instagram": {
+        "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo. No livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta. Você tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo. No livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta. Você tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261001-1100-43a4cbc7ee",
+      "data": "2026-10-01",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 04 - 7 dias sem reclamar.mp4",
+        "sha256": "43a4cbc7ee0afb0d9eff9002b732dab959f48dd895563a17f96b8641b0865611"
+      },
+      "midia": {
+        "asset": "reel-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+        "sha256": "43a4cbc7ee0afb0d9eff9002b732dab959f48dd895563a17f96b8641b0865611",
+        "tamanho_bytes": 11990024
+      },
+      "instagram": {
+        "legenda": "Tenta ficar sete dias sem reclamar de nada, você vai se assustar. Esse é um desafio do livro Os Segredos da Mente Milionária, porque reclamar funciona como um ímã que atrai mais coisa ruim. Toda vez que vier uma reclamação, troca por uma pergunta: o que eu posso fazer pra resolver isso?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Tenta ficar sete dias sem reclamar de nada, você vai se assustar. Esse é um desafio do livro Os Segredos da Mente Milionária, porque reclamar funciona como um ímã que atrai mais coisa ruim. Toda vez que vier uma reclamação, troca por uma pergunta: o que eu posso fazer pra resolver isso?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261001-1900-43e889dcc2",
+      "data": "2026-10-01",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
+        "sha256": "43e889dcc2e2852ebfb820281415c6a36fec0c2a014e91c8317aff670d566000"
+      },
+      "midia": {
+        "asset": "reel-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
+        "sha256": "43e889dcc2e2852ebfb820281415c6a36fec0c2a014e91c8317aff670d566000",
+        "tamanho_bytes": 14831201
+      },
+      "instagram": {
+        "legenda": "Um menino de nove anos trabalhou quase de graça numa mercearia e aprendeu mais do que na escola. É uma história do livro Pai Rico, Pai Pobre: o pai rico parou de pagar de propósito, pra ele não virar mais um esperando aumento. Sem pagamento, o menino teve que procurar outra saída, e achou.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Um menino de nove anos trabalhou quase de graça numa mercearia e aprendeu mais do que na escola. É uma história do livro Pai Rico, Pai Pobre: o pai rico parou de pagar de propósito, pra ele não virar mais um esperando aumento. Sem pagamento, o menino teve que procurar outra saída, e achou.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261002-1100-ebc6d6dfee",
+      "data": "2026-10-02",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 05 - As joias de vidro.mp4",
+        "sha256": "ebc6d6dfeeb893aad74dcd3bf96c16ffded02f2120512186bd6414ad4d2fdcc2"
+      },
+      "midia": {
+        "asset": "reel-ebc6d6dfee-Babilonia-05---As-joias-de-vidro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-ebc6d6dfee-Babilonia-05---As-joias-de-vidro.mp4",
+        "sha256": "ebc6d6dfeeb893aad74dcd3bf96c16ffded02f2120512186bd6414ad4d2fdcc2",
+        "tamanho_bytes": 16110078
+      },
+      "instagram": {
+        "legenda": "Ele juntou dinheiro por um ano e perdeu tudo numa viagem. No livro O Homem Mais Rico da Babilônia, Arkad confia as economias a um fabricante de tijolos que ia comprar joias pra revender, e volta só com pedaços de vidro. A lição: se quer investir, pergunta pra quem realmente entende do assunto, nunca pro achismo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Ele juntou dinheiro por um ano e perdeu tudo numa viagem. No livro O Homem Mais Rico da Babilônia, Arkad confia as economias a um fabricante de tijolos que ia comprar joias pra revender, e volta só com pedaços de vidro. A lição: se quer investir, pergunta pra quem realmente entende do assunto, nunca pro achismo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261002-1900-c45d3e15d3",
+      "data": "2026-10-02",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
+        "sha256": "c45d3e15d3c79334cd4d641212c5ec871c2febda6f54ea4b203cbf02d1c3fd52"
+      },
+      "midia": {
+        "asset": "reel-c45d3e15d3-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-c45d3e15d3-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+        "sha256": "c45d3e15d3c79334cd4d641212c5ec871c2febda6f54ea4b203cbf02d1c3fd52",
+        "tamanho_bytes": 13281563
+      },
+      "instagram": {
+        "legenda": "Quem mira só em pagar as contas do mês é exatamente aí que chega. O livro Os Segredos da Mente Milionária chama isso de jogar pra não perder, enquanto quem enriquece joga pra ganhar e mira alto. Mesmo errando no caminho, quem mira alto termina acima de quem mirou baixo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Quem mira só em pagar as contas do mês é exatamente aí que chega. O livro Os Segredos da Mente Milionária chama isso de jogar pra não perder, enquanto quem enriquece joga pra ganhar e mira alto. Mesmo errando no caminho, quem mira alto termina acima de quem mirou baixo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261003-1100-1508107b88",
+      "data": "2026-10-03",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
+        "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7"
+      },
+      "midia": {
+        "asset": "reel-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+        "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7",
+        "tamanho_bytes": 11661774
+      },
+      "instagram": {
+        "legenda": "Dois meninos ganharam dinheiro com o lixo de uma mercearia. No livro Pai Rico, Pai Pobre, eles montaram uma biblioteca de gibis usados no porão e cobravam das outras crianças pra ler. Pela primeira vez, o dinheiro entrava sem eles trocarem hora por moeda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Dois meninos ganharam dinheiro com o lixo de uma mercearia. No livro Pai Rico, Pai Pobre, eles montaram uma biblioteca de gibis usados no porão e cobravam das outras crianças pra ler. Pela primeira vez, o dinheiro entrava sem eles trocarem hora por moeda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261003-1900-1ce77807f1",
+      "data": "2026-10-03",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
+        "sha256": "1ce77807f13477757e27715bad196c77079a312cb8e671ad184ff91824c652c7"
+      },
+      "midia": {
+        "asset": "reel-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
+        "sha256": "1ce77807f13477757e27715bad196c77079a312cb8e671ad184ff91824c652c7",
+        "tamanho_bytes": 16519038
+      },
+      "instagram": {
+        "legenda": "Seu parente já pediu dinheiro emprestado pra abrir um negócio? No livro O Homem Mais Rico da Babilônia, um emprestador de ouro dá um conselho de cem anos: antes de emprestar, veja se existe um jeito seguro de o dinheiro voltar. Quer ajudar a família? Ótimo, mas procure outro jeito que não seja arriscar o que você levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Seu parente já pediu dinheiro emprestado pra abrir um negócio? No livro O Homem Mais Rico da Babilônia, um emprestador de ouro dá um conselho de cem anos: antes de emprestar, veja se existe um jeito seguro de o dinheiro voltar. Quer ajudar a família? Ótimo, mas procure outro jeito que não seja arriscar o que você levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261004-1100-140ae6d95a",
+      "data": "2026-10-04",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
+        "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4"
+      },
+      "midia": {
+        "asset": "reel-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+        "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4",
+        "tamanho_bytes": 10047350
+      },
+      "instagram": {
+        "legenda": "Todo mundo quer ser rico, mas quase ninguém se compromete de verdade. O livro Os Segredos da Mente Milionária mostra a diferença: quem só quer age no dia de sol, quem se compromete continua guardando e estudando até no mês apertado. Querer não custa nada, por isso não entrega nada.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Todo mundo quer ser rico, mas quase ninguém se compromete de verdade. O livro Os Segredos da Mente Milionária mostra a diferença: quem só quer age no dia de sol, quem se compromete continua guardando e estudando até no mês apertado. Querer não custa nada, por isso não entrega nada.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261004-1900-607f3f11f9",
+      "data": "2026-10-04",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
+        "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0"
+      },
+      "midia": {
+        "asset": "reel-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
+        "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0",
+        "tamanho_bytes": 11316285
+      },
+      "instagram": {
+        "legenda": "Você corre o mês inteiro e não sai do lugar? O livro Pai Rico, Pai Pobre chama isso de corrida dos ratos: o medo de ficar sem dinheiro te faz aceitar qualquer emprego, e a vontade de ter coisas te faz gastar tudo. Pra sair da roda, não basta correr mais rápido, tem que mudar o jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Você corre o mês inteiro e não sai do lugar? O livro Pai Rico, Pai Pobre chama isso de corrida dos ratos: o medo de ficar sem dinheiro te faz aceitar qualquer emprego, e a vontade de ter coisas te faz gastar tudo. Pra sair da roda, não basta correr mais rápido, tem que mudar o jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261005-1100-dd9fbb49c7",
+      "data": "2026-10-05",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
+        "sha256": "dd9fbb49c7a3ef3f28be0e66c3d588a304f99ebf92c14b829aa1ca95039eba61"
+      },
+      "midia": {
+        "asset": "reel-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+        "sha256": "dd9fbb49c7a3ef3f28be0e66c3d588a304f99ebf92c14b829aa1ca95039eba61",
+        "tamanho_bytes": 9750175
+      },
+      "instagram": {
+        "legenda": "Ganhou aumento e continua sem sobrar nada no fim do mês? O livro O Homem Mais Rico da Babilônia explica que o gasto cresce do tamanho do salário, e muita coisa que a gente chama de necessidade é só vontade. A dica é escrever tudo o que você gasta e perguntar, item por item: isso é necessidade ou vontade? Sem controlar, nunca sobra, nem ganhando o dobro.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Ganhou aumento e continua sem sobrar nada no fim do mês? O livro O Homem Mais Rico da Babilônia explica que o gasto cresce do tamanho do salário, e muita coisa que a gente chama de necessidade é só vontade. A dica é escrever tudo o que você gasta e perguntar, item por item: isso é necessidade ou vontade? Sem controlar, nunca sobra, nem ganhando o dobro.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261005-1900-9975526fc2",
+      "data": "2026-10-05",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "9975526fc2f600d02e2499e6733827c64c52d2eae33a74d8fbdb402367f7149e"
+      },
+      "midia": {
+        "asset": "reel-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "sha256": "9975526fc2f600d02e2499e6733827c64c52d2eae33a74d8fbdb402367f7149e",
+        "tamanho_bytes": 13750398
+      },
+      "instagram": {
+        "legenda": "A sua renda tem o tamanho do problema que você resolve, e pra quantas pessoas, não do seu esforço. É a conta de padeiro que o livro Os Segredos da Mente Milionária ensina: quem atende dez pessoas ganha como quem atende dez, quem atende dez mil ganha como quem atende dez mil. A pergunta que muda o caminho é: como eu vendo pra mais gente?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sua renda tem o tamanho do problema que você resolve, e pra quantas pessoas, não do seu esforço. É a conta de padeiro que o livro Os Segredos da Mente Milionária ensina: quem atende dez pessoas ganha como quem atende dez, quem atende dez mil ganha como quem atende dez mil. A pergunta que muda o caminho é: como eu vendo pra mais gente?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261006-1100-46d4f267bf",
+      "data": "2026-10-06",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 07 - O aumento que some.mp4",
+        "sha256": "46d4f267bf0ddb404203855d925a78efd034901d4708f130ece8909387291aa7"
+      },
+      "midia": {
+        "asset": "reel-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
+        "sha256": "46d4f267bf0ddb404203855d925a78efd034901d4708f130ece8909387291aa7",
+        "tamanho_bytes": 15012682
+      },
+      "instagram": {
+        "legenda": "Por que o aumento some em três meses? O livro Pai Rico, Pai Pobre explica: quando o salário sobe, os gastos sobem junto, e você continua trabalhando só pra pagar conta. O que resolve não é ganhar mais, é o que você faz com o dinheiro a mais.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Por que o aumento some em três meses? O livro Pai Rico, Pai Pobre explica: quando o salário sobe, os gastos sobem junto, e você continua trabalhando só pra pagar conta. O que resolve não é ganhar mais, é o que você faz com o dinheiro a mais.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261006-1900-7d8911ff36",
+      "data": "2026-10-06",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
+        "sha256": "7d8911ff367f049d61fc589f58860046d0e17f7455e4c8621ccb2d1cc7fb3ea3"
+      },
+      "midia": {
+        "asset": "reel-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
+        "sha256": "7d8911ff367f049d61fc589f58860046d0e17f7455e4c8621ccb2d1cc7fb3ea3",
+        "tamanho_bytes": 14683350
+      },
+      "instagram": {
+        "legenda": "Cada moeda que você guarda pode virar uma funcionária sua. É a terceira regra do livro O Homem Mais Rico da Babilônia: faça o seu dinheiro trabalhar. Dinheiro parado não cresce, mas dinheiro trabalhando traz outras moedas junto, e elas também começam a trabalhar. A pergunta é: quantas funcionárias você tem hoje, e quantas estão só paradas esperando?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cada moeda que você guarda pode virar uma funcionária sua. É a terceira regra do livro O Homem Mais Rico da Babilônia: faça o seu dinheiro trabalhar. Dinheiro parado não cresce, mas dinheiro trabalhando traz outras moedas junto, e elas também começam a trabalhar. A pergunta é: quantas funcionárias você tem hoje, e quantas estão só paradas esperando?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261007-1100-a6b08e3f70",
+      "data": "2026-10-07",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 08 - Oportunidade x obstaculo.mp4",
+        "sha256": "a6b08e3f70c7fecb5139e713b3d5f2d744e0dc07fab3758f1f53c5cb2389dc27"
+      },
+      "midia": {
+        "asset": "reel-a6b08e3f70-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a6b08e3f70-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
+        "sha256": "a6b08e3f70c7fecb5139e713b3d5f2d744e0dc07fab3758f1f53c5cb2389dc27",
+        "tamanho_bytes": 10768000
+      },
+      "instagram": {
+        "legenda": "Quem fala que não funciona, quase sempre, nunca tentou. O livro Os Segredos da Mente Milionária explica que, diante da mesma situação, quem vive no aperto vê o obstáculo e quem enriquece vê a oportunidade, sem deixar de fazer a conta antes de agir. Quem só enxerga problema nunca começa, e quem nunca começa continua dizendo que não funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Quem fala que não funciona, quase sempre, nunca tentou. O livro Os Segredos da Mente Milionária explica que, diante da mesma situação, quem vive no aperto vê o obstáculo e quem enriquece vê a oportunidade, sem deixar de fazer a conta antes de agir. Quem só enxerga problema nunca começa, e quem nunca começa continua dizendo que não funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261007-1900-c20562606a",
+      "data": "2026-10-07",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
+        "sha256": "c20562606a78f4e5197f178ec5db4cf6df80a1b7c6aa01544e3d8399d601ad36"
+      },
+      "midia": {
+        "asset": "reel-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
+        "sha256": "c20562606a78f4e5197f178ec5db4cf6df80a1b7c6aa01544e3d8399d601ad36",
+        "tamanho_bytes": 11864636
+      },
+      "instagram": {
+        "legenda": "A lição mais importante de finanças do livro Pai Rico, Pai Pobre cabe em duas frases: ativo é tudo que coloca dinheiro no seu bolso, passivo é tudo que tira. A maioria compra passivo achando que é ativo, e o mais comum de todos pode ser a casa onde você mora.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A lição mais importante de finanças do livro Pai Rico, Pai Pobre cabe em duas frases: ativo é tudo que coloca dinheiro no seu bolso, passivo é tudo que tira. A maioria compra passivo achando que é ativo, e o mais comum de todos pode ser a casa onde você mora.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261008-1100-229b84732b",
+      "data": "2026-10-08",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
+        "sha256": "229b84732b0f1f8039b2f80c161ab017fc10fcac6baf07eaa3ba33c200f2aa91"
+      },
+      "midia": {
+        "asset": "reel-229b84732b-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-229b84732b-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+        "sha256": "229b84732b0f1f8039b2f80c161ab017fc10fcac6baf07eaa3ba33c200f2aa91",
+        "tamanho_bytes": 9636937
+      },
+      "instagram": {
+        "legenda": "Já te prometeram lucro fácil e rápido? Presta atenção. O livro O Homem Mais Rico da Babilônia ensina a proteger o seu dinheiro de perdas antes de pensar em ganhar muito, porque perder é fácil e recuperar é difícil. Promessa de lucro fácil, quase sempre, é armadilha. Devagar e sempre ganha de rápido e quebrado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Já te prometeram lucro fácil e rápido? Presta atenção. O livro O Homem Mais Rico da Babilônia ensina a proteger o seu dinheiro de perdas antes de pensar em ganhar muito, porque perder é fácil e recuperar é difícil. Promessa de lucro fácil, quase sempre, é armadilha. Devagar e sempre ganha de rápido e quebrado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261008-1900-a5ee7dd405",
+      "data": "2026-10-08",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 09 - Admirar quem chegou la.mp4",
+        "sha256": "a5ee7dd405a267c36e0f6540ef4fab1cf13bb43598242d876d400590c1b3bde9"
+      },
+      "midia": {
+        "asset": "reel-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
+        "sha256": "a5ee7dd405a267c36e0f6540ef4fab1cf13bb43598242d876d400590c1b3bde9",
+        "tamanho_bytes": 9295747
+      },
+      "instagram": {
+        "legenda": "Já viu um carro bonito e pensou \"roubou\"? Segundo o livro Os Segredos da Mente Milionária, sua cabeça não deixa você virar aquilo que você critica, então quem cresce admira e aprende com quem chegou lá em vez de julgar. Em vez de criticar, pergunta: o que essa pessoa fez que eu não faço?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Já viu um carro bonito e pensou \"roubou\"? Segundo o livro Os Segredos da Mente Milionária, sua cabeça não deixa você virar aquilo que você critica, então quem cresce admira e aprende com quem chegou lá em vez de julgar. Em vez de criticar, pergunta: o que essa pessoa fez que eu não faço?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261009-1100-9fbc6ab85b",
+      "data": "2026-10-09",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
+        "sha256": "9fbc6ab85b5f6bbeeff49fc793ee0180899cb86d344e2341602b067e9dab81a1"
+      },
+      "midia": {
+        "asset": "reel-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+        "sha256": "9fbc6ab85b5f6bbeeff49fc793ee0180899cb86d344e2341602b067e9dab81a1",
+        "tamanho_bytes": 16531191
+      },
+      "instagram": {
+        "legenda": "A sua casa não é investimento, pelo menos não pelo livro Pai Rico, Pai Pobre. Todo mês ela cobra parcela, imposto, luz, água e manutenção, então é dinheiro saindo do bolso, não entrando. Isso não quer dizer que você não deva ter a sua casa, só que ela não vai te deixar rico sozinha.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sua casa não é investimento, pelo menos não pelo livro Pai Rico, Pai Pobre. Todo mês ela cobra parcela, imposto, luz, água e manutenção, então é dinheiro saindo do bolso, não entrando. Isso não quer dizer que você não deva ter a sua casa, só que ela não vai te deixar rico sozinha.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261009-1900-8ac23edb8b",
+      "data": "2026-10-09",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
+        "sha256": "8ac23edb8bb27c7bbfceda53698a28a33f48c9cc058e6e88d5b961b7482abb8e"
+      },
+      "midia": {
+        "asset": "reel-8ac23edb8b-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-8ac23edb8b-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+        "sha256": "8ac23edb8bb27c7bbfceda53698a28a33f48c9cc058e6e88d5b961b7482abb8e",
+        "tamanho_bytes": 10361600
+      },
+      "instagram": {
+        "legenda": "Pagar aluguel a vida inteira é pagar a casa de outra pessoa. A quinta regra do livro O Homem Mais Rico da Babilônia ensina a fazer da sua casa um investimento: o dinheiro que ia embora todo mês vai virando patrimônio, e no fim das contas a casa é sua.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Pagar aluguel a vida inteira é pagar a casa de outra pessoa. A quinta regra do livro O Homem Mais Rico da Babilônia ensina a fazer da sua casa um investimento: o dinheiro que ia embora todo mês vai virando patrimônio, e no fim das contas a casa é sua.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261010-1100-6b39f69113",
+      "data": "2026-10-10",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 10 - As 5 pessoas.mp4",
+        "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539"
+      },
+      "midia": {
+        "asset": "reel-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
+        "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539",
+        "tamanho_bytes": 12131216
+      },
+      "instagram": {
+        "legenda": "Olha as cinco pessoas com quem você mais conversa na semana: é bem provável que a sua vida esteja parecida com a delas. O livro Os Segredos da Mente Milionária mostra que você fica parecido com quem mais convive, pra bem ou pra mal. Pensa de novo nas cinco: elas te puxam pra cima ou pra baixo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Olha as cinco pessoas com quem você mais conversa na semana: é bem provável que a sua vida esteja parecida com a delas. O livro Os Segredos da Mente Milionária mostra que você fica parecido com quem mais convive, pra bem ou pra mal. Pensa de novo nas cinco: elas te puxam pra cima ou pra baixo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261010-1900-aff6203bbb",
+      "data": "2026-10-10",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
+        "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d"
+      },
+      "midia": {
+        "asset": "reel-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
+        "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d",
+        "tamanho_bytes": 14034920
+      },
+      "instagram": {
+        "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada. No livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada. No livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261011-1100-48d7af8227",
+      "data": "2026-10-11",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
+        "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e"
+      },
+      "midia": {
+        "asset": "reel-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+        "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e",
+        "tamanho_bytes": 9716842
+      },
+      "instagram": {
+        "legenda": "Um dia você vai parar de trabalhar. Quem paga as suas contas depois disso? A sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos. Quanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Um dia você vai parar de trabalhar. Quem paga as suas contas depois disso? A sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos. Quanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261011-1900-f9a0b67520",
+      "data": "2026-10-11",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
+        "sha256": "f9a0b67520f9d89ad06ba8337dab7b8cca5d0566f425e96e7f52067fd81dd84f"
+      },
+      "midia": {
+        "asset": "reel-f9a0b67520-Mente-Milionaria-11---Vergonha-de-vender.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-f9a0b67520-Mente-Milionaria-11---Vergonha-de-vender.mp4",
+        "sha256": "f9a0b67520f9d89ad06ba8337dab7b8cca5d0566f425e96e7f52067fd81dd84f",
+        "tamanho_bytes": 9157412
+      },
+      "instagram": {
+        "legenda": "Ter vergonha de vender está te fazendo deixar dinheiro na mesa. O livro Os Segredos da Mente Milionária mostra que, se o que você faz ajuda alguém, esconder isso é deixar de ajudar, e quem não é lembrado não vende. O cliente vai comprar de alguém, a pergunta é se vai ser de você ou do seu concorrente.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Ter vergonha de vender está te fazendo deixar dinheiro na mesa. O livro Os Segredos da Mente Milionária mostra que, se o que você faz ajuda alguém, esconder isso é deixar de ajudar, e quem não é lembrado não vende. O cliente vai comprar de alguém, a pergunta é se vai ser de você ou do seu concorrente.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261012-1100-7e068a41f1",
+      "data": "2026-10-12",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
+        "sha256": "7e068a41f1ecfb1a25e5f50a32efd63649baf840b8b21867bd60e7e5902f610c"
+      },
+      "midia": {
+        "asset": "reel-7e068a41f1-Pai-Rico-11---Passivos-disfarcados.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-7e068a41f1-Pai-Rico-11---Passivos-disfarcados.mp4",
+        "sha256": "7e068a41f1ecfb1a25e5f50a32efd63649baf840b8b21867bd60e7e5902f610c",
+        "tamanho_bytes": 11368801
+      },
+      "instagram": {
+        "legenda": "O carro zero, a moto e o celular do ano parecem conquista, mas no livro Pai Rico, Pai Pobre todos são passivo: perdem valor no dia da compra e ainda tiram dinheiro seu todo mês. Antes de comprar, faz a pergunta do pai rico: isso coloca ou tira dinheiro do meu bolso?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "O carro zero, a moto e o celular do ano parecem conquista, mas no livro Pai Rico, Pai Pobre todos são passivo: perdem valor no dia da compra e ainda tiram dinheiro seu todo mês. Antes de comprar, faz a pergunta do pai rico: isso coloca ou tira dinheiro do meu bolso?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261012-1900-48559018b8",
+      "data": "2026-10-12",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
+        "sha256": "48559018b89c0e5637c177ed734527c18f6041b4606f8e073930e3d49c444e47"
+      },
+      "midia": {
+        "asset": "reel-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+        "sha256": "48559018b89c0e5637c177ed734527c18f6041b4606f8e073930e3d49c444e47",
+        "tamanho_bytes": 11126458
+      },
+      "instagram": {
+        "legenda": "Quer ganhar mais? Esse livro não manda pedir aumento. A sétima regra do livro O Homem Mais Rico da Babilônia é aumentar a sua capacidade de ganhar: quanto mais você sabe, melhor você faz, e quem faz melhor vale mais. Pedir aumento depende do chefe, aprender depende só de você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Quer ganhar mais? Esse livro não manda pedir aumento. A sétima regra do livro O Homem Mais Rico da Babilônia é aumentar a sua capacidade de ganhar: quanto mais você sabe, melhor você faz, e quem faz melhor vale mais. Pedir aumento depende do chefe, aprender depende só de você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261013-1100-c1deb6313c",
+      "data": "2026-10-13",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
+        "sha256": "c1deb6313c98b644de18733bc601d9bdf9d57437cbb0883fffa6762ed0737737"
+      },
+      "midia": {
+        "asset": "reel-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
+        "sha256": "c1deb6313c98b644de18733bc601d9bdf9d57437cbb0883fffa6762ed0737737",
+        "tamanho_bytes": 10435602
+      },
+      "instagram": {
+        "legenda": "Para de pedir menos problema e pede pra ser uma pessoa maior que o problema. O livro Os Segredos da Mente Milionária diz que problema sempre vai existir, pra rico e pra pobre, e a diferença é o tamanho da pessoa na frente dele. Pra uma pessoa grande, a mesma pedra que parece montanha é só um degrau.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Para de pedir menos problema e pede pra ser uma pessoa maior que o problema. O livro Os Segredos da Mente Milionária diz que problema sempre vai existir, pra rico e pra pobre, e a diferença é o tamanho da pessoa na frente dele. Pra uma pessoa grande, a mesma pedra que parece montanha é só um degrau.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261013-1900-19269918ed",
+      "data": "2026-10-13",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
+        "sha256": "19269918ed7c77bd92cd9d1432a873a70c8795ba34e2014a821e84d4a5164f99"
+      },
+      "midia": {
+        "asset": "reel-19269918ed-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-19269918ed-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+        "sha256": "19269918ed7c77bd92cd9d1432a873a70c8795ba34e2014a821e84d4a5164f99",
+        "tamanho_bytes": 14645253
+      },
+      "instagram": {
+        "legenda": "A classe média parece rica, mas vive presa. O livro Pai Rico, Pai Pobre mostra pra onde vai o dinheiro de cada um: no pobre e na classe média, o salário some em contas e parcelas, no rico são os ativos que trazem o dinheiro. Qual dos três é o seu?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A classe média parece rica, mas vive presa. O livro Pai Rico, Pai Pobre mostra pra onde vai o dinheiro de cada um: no pobre e na classe média, o salário some em contas e parcelas, no rico são os ativos que trazem o dinheiro. Qual dos três é o seu?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261014-1100-4b23ad22bc",
+      "data": "2026-10-14",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
+        "sha256": "4b23ad22bcac9b316b83d01b3df3c012179ce58cfc12258bf0425fe359764bcd"
+      },
+      "midia": {
+        "asset": "reel-4b23ad22bc-Babilonia-13---O-plano-do-Dabasir.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-4b23ad22bc-Babilonia-13---O-plano-do-Dabasir.mp4",
+        "sha256": "4b23ad22bcac9b316b83d01b3df3c012179ce58cfc12258bf0425fe359764bcd",
+        "tamanho_bytes": 10481686
+      },
+      "instagram": {
+        "legenda": "Afundado em dívidas, Dabasir virou escravo e saiu do buraco com um plano, no livro O Homem Mais Rico da Babilônia. Dez por cento pra guardar, vinte por cento pra pagar as dívidas e setenta por cento pra viver, tudo ao mesmo tempo, com disciplina. Assim ele pagou cada credor, um por um.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Afundado em dívidas, Dabasir virou escravo e saiu do buraco com um plano, no livro O Homem Mais Rico da Babilônia. Dez por cento pra guardar, vinte por cento pra pagar as dívidas e setenta por cento pra viver, tudo ao mesmo tempo, com disciplina. Assim ele pagou cada credor, um por um.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261014-1900-f8deb7563e",
+      "data": "2026-10-14",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
+        "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026"
+      },
+      "midia": {
+        "asset": "reel-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
+        "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026",
+        "tamanho_bytes": 10470718
+      },
+      "instagram": {
+        "legenda": "Não sabe receber um elogio? Então o dinheiro também não fica. O livro Os Segredos da Mente Milionária diz que quem enriquece sabe receber, sem culpa e sem vergonha, enquanto quem sente culpa vê o dinheiro escorrer como balde furado. Comece simples: te elogiaram, só fala obrigado, e cobra o preço justo pelo seu trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Não sabe receber um elogio? Então o dinheiro também não fica. O livro Os Segredos da Mente Milionária diz que quem enriquece sabe receber, sem culpa e sem vergonha, enquanto quem sente culpa vê o dinheiro escorrer como balde furado. Comece simples: te elogiaram, só fala obrigado, e cobra o preço justo pelo seu trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261015-1100-26a19fd594",
+      "data": "2026-10-15",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
+        "sha256": "26a19fd5947c3d601794aa8ce1d6697e2e28dde63cf586dcb47033e5d5f64eb1"
+      },
+      "midia": {
+        "asset": "reel-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
+        "sha256": "26a19fd5947c3d601794aa8ce1d6697e2e28dde63cf586dcb47033e5d5f64eb1",
+        "tamanho_bytes": 11656924
+      },
+      "instagram": {
+        "legenda": "O seu emprego não é o seu negócio, é o negócio do seu patrão. No livro Pai Rico, Pai Pobre, o negócio de verdade é a sua lista de ativos, aquilo que coloca dinheiro no seu bolso mesmo sem você trabalhar. Quantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "O seu emprego não é o seu negócio, é o negócio do seu patrão. No livro Pai Rico, Pai Pobre, o negócio de verdade é a sua lista de ativos, aquilo que coloca dinheiro no seu bolso mesmo sem você trabalhar. Quantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261015-1900-d429d4fbbe",
+      "data": "2026-10-15",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 14 - A sorte.mp4",
+        "sha256": "d429d4fbbef694c2eb216dde50584919a4a7a87014eaa2a6e076deea6ea6d767"
+      },
+      "midia": {
+        "asset": "reel-d429d4fbbe-Babilonia-14---A-sorte.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-d429d4fbbe-Babilonia-14---A-sorte.mp4",
+        "sha256": "d429d4fbbef694c2eb216dde50584919a4a7a87014eaa2a6e076deea6ea6d767",
+        "tamanho_bytes": 8015171
+      },
+      "instagram": {
+        "legenda": "A sorte não aparece pra quem fica esperando por ela. O livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso, e a conclusão é clara: a sorte gosta de quem age. A oportunidade aparece, quem age na hora entra, quem deixa pra depois perde. Muitas vezes não é falta de sorte, é falta de ação.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sorte não aparece pra quem fica esperando por ela. O livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso, e a conclusão é clara: a sorte gosta de quem age. A oportunidade aparece, quem age na hora entra, quem deixa pra depois perde. Muitas vezes não é falta de sorte, é falta de ação.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261016-1100-6bfb5079ae",
+      "data": "2026-10-16",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 14 - Agir com medo.mp4",
+        "sha256": "6bfb5079aea7a800f1ffbe0f3b6bab5bce182842d066425d9e5e285985865249"
+      },
+      "midia": {
+        "asset": "reel-6bfb5079ae-Mente-Milionaria-14---Agir-com-medo.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-6bfb5079ae-Mente-Milionaria-14---Agir-com-medo.mp4",
+        "sha256": "6bfb5079aea7a800f1ffbe0f3b6bab5bce182842d066425d9e5e285985865249",
+        "tamanho_bytes": 10409400
+      },
+      "instagram": {
+        "legenda": "Esperar o medo passar é a maior armadilha que existe, porque ele nunca passa. O livro Os Segredos da Mente Milionária diz que o medo não some porque você esperou, some porque você fez, e quem enriquece age mesmo com medo. Qual medo tá te segurando hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Esperar o medo passar é a maior armadilha que existe, porque ele nunca passa. O livro Os Segredos da Mente Milionária diz que o medo não some porque você esperou, some porque você fez, e quem enriquece age mesmo com medo. Qual medo tá te segurando hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261016-1900-a1d171d3ae",
+      "data": "2026-10-16",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
+        "sha256": "a1d171d3ae57508dc99a9717670ca174d77eb5f7482326c9fcec26d7110603fd"
+      },
+      "midia": {
+        "asset": "reel-a1d171d3ae-Pai-Rico-14---O-decimo-terceiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a1d171d3ae-Pai-Rico-14---O-decimo-terceiro.mp4",
+        "sha256": "a1d171d3ae57508dc99a9717670ca174d77eb5f7482326c9fcec26d7110603fd",
+        "tamanho_bytes": 10692385
+      },
+      "instagram": {
+        "legenda": "O que você faz com o décimo terceiro mostra se vai ficar rico. O livro Pai Rico, Pai Pobre ensina: primeiro compra ativo, o luxo vem depois, pago pelo próprio ativo. Quem compra o luxo primeiro fica só com a parcela.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "O que você faz com o décimo terceiro mostra se vai ficar rico. O livro Pai Rico, Pai Pobre ensina: primeiro compra ativo, o luxo vem depois, pago pelo próprio ativo. Quem compra o luxo primeiro fica só com a parcela.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261017-1100-e76f88bd89",
+      "data": "2026-10-17",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
+        "sha256": "e76f88bd895152c5b7139b479f648e8214cbd1ccaba7e588d22119d340deb82d"
+      },
+      "midia": {
+        "asset": "reel-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
+        "sha256": "e76f88bd895152c5b7139b479f648e8214cbd1ccaba7e588d22119d340deb82d",
+        "tamanho_bytes": 13157430
+      },
+      "instagram": {
+        "legenda": "Guardando dez por cento de cinco mil reais por mês, quanto você tem em dez anos? Faz a conta: são sessenta mil reais, e olha que nem contei rendimento nenhum. Essa é a primeira regra do livro O Homem Mais Rico da Babilônia, de cada dez moedas que entram, uma fica guardada. Agora imagina esse dinheiro trabalhando pra você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Guardando dez por cento de cinco mil reais por mês, quanto você tem em dez anos? Faz a conta: são sessenta mil reais, e olha que nem contei rendimento nenhum. Essa é a primeira regra do livro O Homem Mais Rico da Babilônia, de cada dez moedas que entram, uma fica guardada. Agora imagina esse dinheiro trabalhando pra você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261017-1900-196940290a",
+      "data": "2026-10-17",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 15 - A xicara cheia.mp4",
+        "sha256": "196940290a0349dc25ea000d27a15c6404e0bf2db7211474626ded7c2a96f787"
+      },
+      "midia": {
+        "asset": "reel-196940290a-Mente-Milionaria-15---A-xicara-cheia.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-196940290a-Mente-Milionaria-15---A-xicara-cheia.mp4",
+        "sha256": "196940290a0349dc25ea000d27a15c6404e0bf2db7211474626ded7c2a96f787",
+        "tamanho_bytes": 11085985
+      },
+      "instagram": {
+        "legenda": "O problema não é não saber, é uma coisa bem pior: não saber e achar que sabe. O livro Os Segredos da Mente Milionária compara isso a uma xícara cheia até a borda, que não recebe nada de novo enquanto não for esvaziada. Quem enriquece nunca para de aprender, um pouco todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "O problema não é não saber, é uma coisa bem pior: não saber e achar que sabe. O livro Os Segredos da Mente Milionária compara isso a uma xícara cheia até a borda, que não recebe nada de novo enquanto não for esvaziada. Quem enriquece nunca para de aprender, um pouco todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261018-1100-f749499cc4",
+      "data": "2026-10-18",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
+        "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a"
+      },
+      "midia": {
+        "asset": "reel-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+        "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a",
+        "tamanho_bytes": 11937549
+      },
+      "instagram": {
+        "legenda": "Empregado e empresa pagam imposto em ordens diferentes, e isso muda tudo. No livro Pai Rico, Pai Pobre, quem tem empresa gasta pelo negócio antes de pagar imposto sobre o que sobra, sempre dentro da lei. Porque Deus perdoa, a Receita Federal não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Empregado e empresa pagam imposto em ordens diferentes, e isso muda tudo. No livro Pai Rico, Pai Pobre, quem tem empresa gasta pelo negócio antes de pagar imposto sobre o que sobra, sempre dentro da lei. Porque Deus perdoa, a Receita Federal não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261018-1900-0ec61bb922",
+      "data": "2026-10-18",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
+        "sha256": "0ec61bb9225cae9e8798abdec1f1c03dc0b5c2fda5f10f3ba7ab3b6727b5f31e"
+      },
+      "midia": {
+        "asset": "reel-0ec61bb922-Babilonia-16---A-maioria-nunca-comeca.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-0ec61bb922-Babilonia-16---A-maioria-nunca-comeca.mp4",
+        "sha256": "0ec61bb9225cae9e8798abdec1f1c03dc0b5c2fda5f10f3ba7ab3b6727b5f31e",
+        "tamanho_bytes": 13986523
+      },
+      "instagram": {
+        "legenda": "Esperar ganhar mais pra começar a guardar é armadilha, porque quando o salário sobe, o gasto sobe junto e a sobra nunca aparece. No livro O Homem Mais Rico da Babilônia, Arkad ganhava pouco como escrivão e começou a guardar mesmo assim, sem esperar a vida melhorar. Quem espera sobrar nunca vê sobrar: o hábito vale mais que o valor.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Esperar ganhar mais pra começar a guardar é armadilha, porque quando o salário sobe, o gasto sobe junto e a sobra nunca aparece. No livro O Homem Mais Rico da Babilônia, Arkad ganhava pouco como escrivão e começou a guardar mesmo assim, sem esperar a vida melhorar. Quem espera sobrar nunca vê sobrar: o hábito vale mais que o valor.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261019-1100-4159a90bbc",
+      "data": "2026-10-19",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 16 - Salario tem teto.mp4",
+        "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6"
+      },
+      "midia": {
+        "asset": "reel-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
+        "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6",
+        "tamanho_bytes": 10685893
+      },
+      "instagram": {
+        "legenda": "Salário te dá segurança, mas cobra um preço que quase ninguém percebe: um teto na sua renda. O livro Os Segredos da Mente Milionária mostra que a maioria ganha pelo tempo, por hora ou por mês, enquanto quem enriquece busca ganhar pelo resultado, que tem risco mas não tem teto. Não precisa largar o emprego amanhã, pode começar com um projeto extra ou um negócio no fim de semana.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Salário te dá segurança, mas cobra um preço que quase ninguém percebe: um teto na sua renda. O livro Os Segredos da Mente Milionária mostra que a maioria ganha pelo tempo, por hora ou por mês, enquanto quem enriquece busca ganhar pelo resultado, que tem risco mas não tem teto. Não precisa largar o emprego amanhã, pode começar com um projeto extra ou um negócio no fim de semana.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261019-1900-541f4406e7",
+      "data": "2026-10-19",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
+        "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4"
+      },
+      "midia": {
+        "asset": "reel-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
+        "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4",
+        "tamanho_bytes": 11322646
+      },
+      "instagram": {
+        "legenda": "Na crise, enquanto todo mundo fugia, o autor do livro Pai Rico, Pai Pobre comprou casas baratas e depois vendeu com lucro. Não foi sorte: ele estudou o mercado e teve coragem na hora certa. A oportunidade aparece pra todo mundo, só entra quem tá preparado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Na crise, enquanto todo mundo fugia, o autor do livro Pai Rico, Pai Pobre comprou casas baratas e depois vendeu com lucro. Não foi sorte: ele estudou o mercado e teve coragem na hora certa. A oportunidade aparece pra todo mundo, só entra quem tá preparado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261020-1100-34e5d9ff23",
+      "data": "2026-10-20",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
+        "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66"
+      },
+      "midia": {
+        "asset": "reel-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
+        "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66",
+        "tamanho_bytes": 10522634
+      },
+      "instagram": {
+        "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem hoje, do livro O Homem Mais Rico da Babilônia. O dinheiro vem pra quem guarda pelo menos um décimo do que ganha, trabalha pra quem acha um uso que dá lucro e fica com quem investe com conselho de quem entende. Mas ele foge de quem investe no que não entende e de quem busca lucro impossível. O dinheiro não some por azar, ele foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem hoje, do livro O Homem Mais Rico da Babilônia. O dinheiro vem pra quem guarda pelo menos um décimo do que ganha, trabalha pra quem acha um uso que dá lucro e fica com quem investe com conselho de quem entende. Mas ele foge de quem investe no que não entende e de quem busca lucro impossível. O dinheiro não some por azar, ele foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261020-1900-b112797062",
+      "data": "2026-10-20",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
+        "sha256": "b112797062c3b8d29d617ac68d5419dd37af51e28d6ce2a535dc452ffa72724a"
+      },
+      "midia": {
+        "asset": "reel-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
+        "sha256": "b112797062c3b8d29d617ac68d5419dd37af51e28d6ce2a535dc452ffa72724a",
+        "tamanho_bytes": 11627535
+      },
+      "instagram": {
+        "legenda": "Ganhar muito não é ser rico, tem uma conta que importa mais: o patrimônio. O livro Os Segredos da Mente Milionária define patrimônio como o que você tem menos o que você deve, e por isso tem gente que ganha muito e não tem nada, e gente que acumula em silêncio. O que importa não é quanto entra, é quanto fica.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Ganhar muito não é ser rico, tem uma conta que importa mais: o patrimônio. O livro Os Segredos da Mente Milionária define patrimônio como o que você tem menos o que você deve, e por isso tem gente que ganha muito e não tem nada, e gente que acumula em silêncio. O que importa não é quanto entra, é quanto fica.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261021-1100-9808db47d0",
+      "data": "2026-10-21",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
+        "sha256": "9808db47d0afd211114e4153360be95c15e983f48eba9492ea454976afae0ae3"
+      },
+      "midia": {
+        "asset": "reel-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
+        "sha256": "9808db47d0afd211114e4153360be95c15e983f48eba9492ea454976afae0ae3",
+        "tamanho_bytes": 14071331
+      },
+      "instagram": {
+        "legenda": "Onde você vê um problema, alguém tá vendo um negócio. O livro Pai Rico, Pai Pobre chama isso de criar dinheiro: a maior ferramenta pra garimpar oportunidade não é dinheiro, é conhecimento. Quem sabe olha um terreno largado e vê casas vendidas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Onde você vê um problema, alguém tá vendo um negócio. O livro Pai Rico, Pai Pobre chama isso de criar dinheiro: a maior ferramenta pra garimpar oportunidade não é dinheiro, é conhecimento. Quem sabe olha um terreno largado e vê casas vendidas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261021-1900-0d6ebe22e8",
+      "data": "2026-10-21",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
+        "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383"
+      },
+      "midia": {
+        "asset": "reel-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+        "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383",
+        "tamanho_bytes": 12785132
+      },
+      "instagram": {
+        "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia: o trabalho. No livro O Homem Mais Rico da Babilônia, ele aprende a fazer do trabalho o seu amigo, aprende a fazer bolo de mel e sai vendendo pelas ruas, juntando moeda por moeda. O jeito dele trabalhar conquistou um cliente, que um dia comprou a liberdade dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia: o trabalho. No livro O Homem Mais Rico da Babilônia, ele aprende a fazer do trabalho o seu amigo, aprende a fazer bolo de mel e sai vendendo pelas ruas, juntando moeda por moeda. O jeito dele trabalhar conquistou um cliente, que um dia comprou a liberdade dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261022-1100-a78c2c5633",
+      "data": "2026-10-22",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
+        "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa"
+      },
+      "midia": {
+        "asset": "reel-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
+        "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa",
+        "tamanho_bytes": 13232049
+      },
+      "instagram": {
+        "legenda": "Você fala que vai organizar o dinheiro quando tiver mais? O livro Os Segredos da Mente Milionária diz que é o contrário: quando você organiza, começa a ter mais. Anota tudo o que entra e tudo o que sai por um mês, sem precisar de planilha bonita, porque quem não cuida do pouco não recebe o muito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Você fala que vai organizar o dinheiro quando tiver mais? O livro Os Segredos da Mente Milionária diz que é o contrário: quando você organiza, começa a ter mais. Anota tudo o que entra e tudo o que sai por um mês, sem precisar de planilha bonita, porque quem não cuida do pouco não recebe o muito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261022-1900-ae9236ecfa",
+      "data": "2026-10-22",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
+        "sha256": "ae9236ecfaa96c28f109ba935968a3ac847cd177ea65df50c4eae3fdebfd1c79"
+      },
+      "midia": {
+        "asset": "reel-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+        "sha256": "ae9236ecfaa96c28f109ba935968a3ac847cd177ea65df50c4eae3fdebfd1c79",
+        "tamanho_bytes": 11150152
+      },
+      "instagram": {
+        "legenda": "O autor do livro Pai Rico, Pai Pobre era tímido e foi vender de porta em porta de propósito, não pelo salário, mas pra aprender a vender e perder o medo de ouvir não. Pensa no seu emprego como uma escola paga: a pergunta certa não é quanto eu ganho aqui, é o que eu estou aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "O autor do livro Pai Rico, Pai Pobre era tímido e foi vender de porta em porta de propósito, não pelo salário, mas pra aprender a vender e perder o medo de ouvir não. Pensa no seu emprego como uma escola paga: a pergunta certa não é quanto eu ganho aqui, é o que eu estou aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261023-1100-60ceb458fb",
+      "data": "2026-10-23",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 19 - Desejo definido.mp4",
+        "sha256": "60ceb458fb0810365d600e4de59e50ccff03491a31c099226bca8bc5343d7c29"
+      },
+      "midia": {
+        "asset": "reel-60ceb458fb-Babilonia-19---Desejo-definido.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-60ceb458fb-Babilonia-19---Desejo-definido.mp4",
+        "sha256": "60ceb458fb0810365d600e4de59e50ccff03491a31c099226bca8bc5343d7c29",
+        "tamanho_bytes": 11068500
+      },
+      "instagram": {
+        "legenda": "Só querer ficar rico não serve pra nada. No livro O Homem Mais Rico da Babilônia, Arkad ensina que o desejo precisa ser simples e ter número: primeiro juntar cinco moedas de ouro, depois dez, depois vinte, cada meta pequena te treina pra próxima. Troca o quero ficar rico por um número. Qual é o seu primeiro?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Só querer ficar rico não serve pra nada. No livro O Homem Mais Rico da Babilônia, Arkad ensina que o desejo precisa ser simples e ter número: primeiro juntar cinco moedas de ouro, depois dez, depois vinte, cada meta pequena te treina pra próxima. Troca o quero ficar rico por um número. Qual é o seu primeiro?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261023-1900-ee3a20eb06",
+      "data": "2026-10-23",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
+        "sha256": "ee3a20eb06e03f19b8085e0620d2d5d95c47d6e2a9bcd102e711c5d8eb2ed58f"
+      },
+      "midia": {
+        "asset": "reel-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+        "sha256": "ee3a20eb06e03f19b8085e0620d2d5d95c47d6e2a9bcd102e711c5d8eb2ed58f",
+        "tamanho_bytes": 14388640
+      },
+      "instagram": {
+        "legenda": "Cada real que você guarda pode virar um funcionário seu. É isso que o livro Os Segredos da Mente Milionária ensina: a maioria trabalha duro pelo dinheiro, mas quem enriquece faz o dinheiro trabalhar por ele, até enquanto dorme. Quando o rendimento paga as contas, isso tem nome: liberdade financeira.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cada real que você guarda pode virar um funcionário seu. É isso que o livro Os Segredos da Mente Milionária ensina: a maioria trabalha duro pelo dinheiro, mas quem enriquece faz o dinheiro trabalhar por ele, até enquanto dorme. Quando o rendimento paga as contas, isso tem nome: liberdade financeira.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261024-1100-a3a03304c5",
+      "data": "2026-10-24",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
+        "sha256": "a3a03304c56511cf1a2c55edd7f4452704894d7f2fe7af83823e3a32bc302289"
+      },
+      "midia": {
+        "asset": "reel-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
+        "sha256": "a3a03304c56511cf1a2c55edd7f4452704894d7f2fe7af83823e3a32bc302289",
+        "tamanho_bytes": 12007170
+      },
+      "instagram": {
+        "legenda": "Você paga todo mundo e investe o que sobra? Por isso nunca sobra. O livro Pai Rico, Pai Pobre ensina o contrário: paga você primeiro, separa a parte de investir antes de qualquer conta, e deixa a pressão te empurrar pra buscar renda nova.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Você paga todo mundo e investe o que sobra? Por isso nunca sobra. O livro Pai Rico, Pai Pobre ensina o contrário: paga você primeiro, separa a parte de investir antes de qualquer conta, e deixa a pressão te empurrar pra buscar renda nova.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261024-1900-1ac13377a2",
+      "data": "2026-10-24",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
+        "sha256": "1ac13377a2392d1c2f66c9d85363a1b3e9a963e4190b1e31a433fc852472131a"
+      },
+      "midia": {
+        "asset": "reel-1ac13377a2-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-1ac13377a2-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+        "sha256": "1ac13377a2392d1c2f66c9d85363a1b3e9a963e4190b1e31a433fc852472131a",
+        "tamanho_bytes": 11656115
+      },
+      "instagram": {
+        "legenda": "Esse livro não ensina a ficar rico rápido, ensina uma coisa melhor. O Homem Mais Rico da Babilônia tem cem anos e continua vendendo porque a receita nunca mudou: se paga primeiro, controla os gastos, pede conselho pra quem entende, protege o que juntou e deixa o dinheiro trabalhar. Pode demorar mais, mas chega e fica. Rico rápido é promessa, rico devagar é método.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Esse livro não ensina a ficar rico rápido, ensina uma coisa melhor. O Homem Mais Rico da Babilônia tem cem anos e continua vendendo porque a receita nunca mudou: se paga primeiro, controla os gastos, pede conselho pra quem entende, protege o que juntou e deixa o dinheiro trabalhar. Pode demorar mais, mas chega e fica. Rico rápido é promessa, rico devagar é método.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261025-1100-fc4ce2a95e",
+      "data": "2026-10-25",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 20 - Os 6 potes.mp4",
+        "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd"
+      },
+      "midia": {
+        "asset": "reel-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
+        "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd",
+        "tamanho_bytes": 14264260
+      },
+      "instagram": {
+        "legenda": "Entraram dois mil reais? O livro Os Segredos da Mente Milionária ensina a dividir em seis potes: necessidades, liberdade financeira, compras maiores, educação, diversão e doação. O pote da liberdade você só investe e nunca gasta, usando apenas o que ele rende. Parece muito, mas pode começar com um real por pote.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Entraram dois mil reais? O livro Os Segredos da Mente Milionária ensina a dividir em seis potes: necessidades, liberdade financeira, compras maiores, educação, diversão e doação. O pote da liberdade você só investe e nunca gasta, usando apenas o que ele rende. Parece muito, mas pode começar com um real por pote.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261025-1900-a3772d6f48",
+      "data": "2026-10-25",
+      "horario": "19:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
+        "sha256": "a3772d6f4874efc421269d79a331554ce9360aaefd3c187cdfc4ed6675072988"
+      },
+      "midia": {
+        "asset": "reel-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+        "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+        "sha256": "a3772d6f4874efc421269d79a331554ce9360aaefd3c187cdfc4ed6675072988",
+        "tamanho_bytes": 8154656
+      },
+      "instagram": {
+        "legenda": "Cinco coisas travam quem quer ficar rico, segundo o livro Pai Rico, Pai Pobre: medo de perder dinheiro, desconfiança, preguiça, maus hábitos e orgulho. O rico não é quem não tem medo, é quem age mesmo com medo e aprende com o erro. Qual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cinco coisas travam quem quer ficar rico, segundo o livro Pai Rico, Pai Pobre: medo de perder dinheiro, desconfiança, preguiça, maus hábitos e orgulho. O rico não é quem não tem medo, é quem age mesmo com medo e aprende com o erro. Qual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
+        "status": "pendente"
+      }
+    }
+  ]
 }

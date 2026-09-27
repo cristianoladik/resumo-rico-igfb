@@ -7,5 +7,68 @@
   "estoque_minimo_dias": 30,
   "estoque_alvo_dias": 30,
   "reposicao_em_andamento": false,
-  "pacotes": []
+  "pacotes": [
+    {
+      "id": "story-20260927-5ec846350a",
+      "data": "2026-09-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 01 - Termostato do dinheiro.mp4",
+        "sha256": "5ec846350a4dbf637de0c9e6548fd4e4be46d949f3859163156d72ccdc78bdf0",
+        "pacote": "Mente Milionaria 01 - Termostato do dinheiro",
+        "pacote_id": "story-5ec846350a4d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-5ec846350a-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-5ec846350a-Mente-Milionaria-01---Termostato-do-dinheiro.mp4",
+            "sha256": "5ec846350a4dbf637de0c9e6548fd4e4be46d949f3859163156d72ccdc78bdf0",
+            "tamanho_bytes": 12417899,
+            "duracao_segundos": 37.567
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260928-52aa318bfa",
+      "data": "2026-09-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 02 - Frases de infancia.mp4",
+        "sha256": "52aa318bfa4961a724514b731baebfe79987a75a7ed945b29d5734f670e48647",
+        "pacote": "Mente Milionaria 02 - Frases de infancia",
+        "pacote_id": "story-52aa318bfa49"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-52aa318bfa-Mente-Milionaria-02---Frases-de-infancia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-52aa318bfa-Mente-Milionaria-02---Frases-de-infancia.mp4",
+            "sha256": "52aa318bfa4961a724514b731baebfe79987a75a7ed945b29d5734f670e48647",
+            "tamanho_bytes": 9701421,
+            "duracao_segundos": 35.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    }
+  ]
 }
