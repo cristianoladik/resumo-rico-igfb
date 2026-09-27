@@ -87,6 +87,1804 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20260929-b24cd5a4df",
+      "data": "2026-09-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
+        "sha256": "b24cd5a4dfd4b359db7ad15848f83aa936a16dcbd4028817322a3b7b7d680b03",
+        "pacote": "Babilonia 01 - As muralhas da Babilonia",
+        "pacote_id": "story-b24cd5a4dfd4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b24cd5a4df-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b24cd5a4df-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "sha256": "b24cd5a4dfd4b359db7ad15848f83aa936a16dcbd4028817322a3b7b7d680b03",
+            "tamanho_bytes": 12367328,
+            "duracao_segundos": 31.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260930-a817bc0bbe",
+      "data": "2026-09-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
+        "sha256": "a817bc0bbe9db24fc03fcd308d149681d66529bb1e1eae6b2910b90f76ba7e81",
+        "pacote": "Pai Rico 01 - Salario nao e o problema",
+        "pacote_id": "story-a817bc0bbe9d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+            "sha256": "a817bc0bbe9db24fc03fcd308d149681d66529bb1e1eae6b2910b90f76ba7e81",
+            "tamanho_bytes": 14330515,
+            "duracao_segundos": 30.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261001-a75c10386c",
+      "data": "2026-10-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
+        "sha256": "a75c10386c28164ce7d3a1c45882a87c744cae4da05780debbe38d74d8877b2f",
+        "pacote": "Babilonia 02 - Bansir e Kobbi",
+        "pacote_id": "story-a75c10386c28"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
+            "sha256": "a75c10386c28164ce7d3a1c45882a87c744cae4da05780debbe38d74d8877b2f",
+            "tamanho_bytes": 13795916,
+            "duracao_segundos": 37.2
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261002-6314fea5df",
+      "data": "2026-10-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
+        "sha256": "6314fea5dff223d9a04ac472e4e91e87a0b7eb7c1088c18dd6f3d94a57f3640f",
+        "pacote": "Pai Rico 02 - Eu nao posso pagar",
+        "pacote_id": "story-6314fea5dff2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6314fea5df-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6314fea5df-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+            "sha256": "6314fea5dff223d9a04ac472e4e91e87a0b7eb7c1088c18dd6f3d94a57f3640f",
+            "tamanho_bytes": 9253565,
+            "duracao_segundos": 29.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261003-faa26c04d1",
+      "data": "2026-10-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
+        "sha256": "faa26c04d1a9ed64b7995638c30b9a30ecd731774d68c2ae88fbec9c181a61bc",
+        "pacote": "Babilonia 03 - Comeu os filhos do ouro",
+        "pacote_id": "story-faa26c04d1a9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+            "sha256": "faa26c04d1a9ed64b7995638c30b9a30ecd731774d68c2ae88fbec9c181a61bc",
+            "tamanho_bytes": 20205065,
+            "duracao_segundos": 32.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261004-6689f41a42",
+      "data": "2026-10-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
+        "sha256": "6689f41a425319e7f1b50013273a45d3aaa52c8170fa383e6825c2a6bd000d90",
+        "pacote": "Mente Milionaria 03 - A raiz e o fruto",
+        "pacote_id": "story-6689f41a4253"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6689f41a42-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6689f41a42-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+            "sha256": "6689f41a425319e7f1b50013273a45d3aaa52c8170fa383e6825c2a6bd000d90",
+            "tamanho_bytes": 10030672,
+            "duracao_segundos": 35.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261005-7f4b4b90e3",
+      "data": "2026-10-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
+        "sha256": "7f4b4b90e3987a323c702c49cfc69c009985463992d962c4338db5e151153086",
+        "pacote": "Pai Rico 03 - O conselho do emprego seguro",
+        "pacote_id": "story-7f4b4b90e398"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+            "sha256": "7f4b4b90e3987a323c702c49cfc69c009985463992d962c4338db5e151153086",
+            "tamanho_bytes": 10474589,
+            "duracao_segundos": 35.033
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261006-698d2022a0",
+      "data": "2026-10-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
+        "sha256": "698d2022a040cbdbde9836a0ac385dc3a6b2ca0f66269da33e07f28ef74511cf",
+        "pacote": "Babilonia 04 - Voce paga todo mundo",
+        "pacote_id": "story-698d2022a040"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-698d2022a0-Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-698d2022a0-Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "sha256": "698d2022a040cbdbde9836a0ac385dc3a6b2ca0f66269da33e07f28ef74511cf",
+            "tamanho_bytes": 10676027,
+            "duracao_segundos": 31.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261007-43a4cbc7ee",
+      "data": "2026-10-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 04 - 7 dias sem reclamar.mp4",
+        "sha256": "43a4cbc7ee0afb0d9eff9002b732dab959f48dd895563a17f96b8641b0865611",
+        "pacote": "Mente Milionaria 04 - 7 dias sem reclamar",
+        "pacote_id": "story-43a4cbc7ee0a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
+            "sha256": "43a4cbc7ee0afb0d9eff9002b732dab959f48dd895563a17f96b8641b0865611",
+            "tamanho_bytes": 11990024,
+            "duracao_segundos": 38.433
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261008-43e889dcc2",
+      "data": "2026-10-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
+        "sha256": "43e889dcc2e2852ebfb820281415c6a36fec0c2a014e91c8317aff670d566000",
+        "pacote": "Pai Rico 04 - Trabalhando de graca",
+        "pacote_id": "story-43e889dcc2e2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "sha256": "43e889dcc2e2852ebfb820281415c6a36fec0c2a014e91c8317aff670d566000",
+            "tamanho_bytes": 14831201,
+            "duracao_segundos": 35.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261009-ebc6d6dfee",
+      "data": "2026-10-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 05 - As joias de vidro.mp4",
+        "sha256": "ebc6d6dfeeb893aad74dcd3bf96c16ffded02f2120512186bd6414ad4d2fdcc2",
+        "pacote": "Babilonia 05 - As joias de vidro",
+        "pacote_id": "story-ebc6d6dfeeb8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ebc6d6dfee-Babilonia-05---As-joias-de-vidro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ebc6d6dfee-Babilonia-05---As-joias-de-vidro.mp4",
+            "sha256": "ebc6d6dfeeb893aad74dcd3bf96c16ffded02f2120512186bd6414ad4d2fdcc2",
+            "tamanho_bytes": 16110078,
+            "duracao_segundos": 33.233
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261010-c45d3e15d3",
+      "data": "2026-10-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
+        "sha256": "c45d3e15d3c79334cd4d641212c5ec871c2febda6f54ea4b203cbf02d1c3fd52",
+        "pacote": "Mente Milionaria 05 - Jogar pra ganhar",
+        "pacote_id": "story-c45d3e15d3c7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c45d3e15d3-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c45d3e15d3-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
+            "sha256": "c45d3e15d3c79334cd4d641212c5ec871c2febda6f54ea4b203cbf02d1c3fd52",
+            "tamanho_bytes": 13281563,
+            "duracao_segundos": 39.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261011-1508107b88",
+      "data": "2026-10-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
+        "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7",
+        "pacote": "Pai Rico 05 - A biblioteca de gibis",
+        "pacote_id": "story-1508107b883d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+            "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7",
+            "tamanho_bytes": 11661774,
+            "duracao_segundos": 33.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261012-1ce77807f1",
+      "data": "2026-10-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
+        "sha256": "1ce77807f13477757e27715bad196c77079a312cb8e671ad184ff91824c652c7",
+        "pacote": "Babilonia 06 - Emprestar pra parente",
+        "pacote_id": "story-1ce77807f134"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
+            "sha256": "1ce77807f13477757e27715bad196c77079a312cb8e671ad184ff91824c652c7",
+            "tamanho_bytes": 16519038,
+            "duracao_segundos": 36.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261013-140ae6d95a",
+      "data": "2026-10-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
+        "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4",
+        "pacote": "Mente Milionaria 06 - Querer x se comprometer",
+        "pacote_id": "story-140ae6d95a2e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
+            "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4",
+            "tamanho_bytes": 10047350,
+            "duracao_segundos": 31.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261014-607f3f11f9",
+      "data": "2026-10-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
+        "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0",
+        "pacote": "Pai Rico 06 - Corrida dos ratos",
+        "pacote_id": "story-607f3f11f96b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0",
+            "tamanho_bytes": 11316285,
+            "duracao_segundos": 30.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261015-dd9fbb49c7",
+      "data": "2026-10-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
+        "sha256": "dd9fbb49c7a3ef3f28be0e66c3d588a304f99ebf92c14b829aa1ca95039eba61",
+        "pacote": "Babilonia 07 - Ganhou mais gastou mais",
+        "pacote_id": "story-dd9fbb49c7a3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+            "sha256": "dd9fbb49c7a3ef3f28be0e66c3d588a304f99ebf92c14b829aa1ca95039eba61",
+            "tamanho_bytes": 9750175,
+            "duracao_segundos": 32.467
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261016-9975526fc2",
+      "data": "2026-10-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "9975526fc2f600d02e2499e6733827c64c52d2eae33a74d8fbdb402367f7149e",
+        "pacote": "Mente Milionaria 07 - Conta de padeiro",
+        "pacote_id": "story-9975526fc2f6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
+            "sha256": "9975526fc2f600d02e2499e6733827c64c52d2eae33a74d8fbdb402367f7149e",
+            "tamanho_bytes": 13750398,
+            "duracao_segundos": 38.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261017-46d4f267bf",
+      "data": "2026-10-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 07 - O aumento que some.mp4",
+        "sha256": "46d4f267bf0ddb404203855d925a78efd034901d4708f130ece8909387291aa7",
+        "pacote": "Pai Rico 07 - O aumento que some",
+        "pacote_id": "story-46d4f267bf0d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
+            "sha256": "46d4f267bf0ddb404203855d925a78efd034901d4708f130ece8909387291aa7",
+            "tamanho_bytes": 15012682,
+            "duracao_segundos": 33.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261018-7d8911ff36",
+      "data": "2026-10-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
+        "sha256": "7d8911ff367f049d61fc589f58860046d0e17f7455e4c8621ccb2d1cc7fb3ea3",
+        "pacote": "Babilonia 08 - Moeda funcionaria",
+        "pacote_id": "story-7d8911ff367f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
+            "sha256": "7d8911ff367f049d61fc589f58860046d0e17f7455e4c8621ccb2d1cc7fb3ea3",
+            "tamanho_bytes": 14683350,
+            "duracao_segundos": 34.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261019-a6b08e3f70",
+      "data": "2026-10-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 08 - Oportunidade x obstaculo.mp4",
+        "sha256": "a6b08e3f70c7fecb5139e713b3d5f2d744e0dc07fab3758f1f53c5cb2389dc27",
+        "pacote": "Mente Milionaria 08 - Oportunidade x obstaculo",
+        "pacote_id": "story-a6b08e3f70c7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a6b08e3f70-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a6b08e3f70-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
+            "sha256": "a6b08e3f70c7fecb5139e713b3d5f2d744e0dc07fab3758f1f53c5cb2389dc27",
+            "tamanho_bytes": 10768000,
+            "duracao_segundos": 33.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261020-c20562606a",
+      "data": "2026-10-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
+        "sha256": "c20562606a78f4e5197f178ec5db4cf6df80a1b7c6aa01544e3d8399d601ad36",
+        "pacote": "Pai Rico 08 - Ativo x passivo",
+        "pacote_id": "story-c20562606a78"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
+            "sha256": "c20562606a78f4e5197f178ec5db4cf6df80a1b7c6aa01544e3d8399d601ad36",
+            "tamanho_bytes": 11864636,
+            "duracao_segundos": 32.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261021-229b84732b",
+      "data": "2026-10-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
+        "sha256": "229b84732b0f1f8039b2f80c161ab017fc10fcac6baf07eaa3ba33c200f2aa91",
+        "pacote": "Babilonia 09 - Lucro facil e armadilha",
+        "pacote_id": "story-229b84732b0f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-229b84732b-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-229b84732b-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+            "sha256": "229b84732b0f1f8039b2f80c161ab017fc10fcac6baf07eaa3ba33c200f2aa91",
+            "tamanho_bytes": 9636937,
+            "duracao_segundos": 33.466
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261022-a5ee7dd405",
+      "data": "2026-10-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 09 - Admirar quem chegou la.mp4",
+        "sha256": "a5ee7dd405a267c36e0f6540ef4fab1cf13bb43598242d876d400590c1b3bde9",
+        "pacote": "Mente Milionaria 09 - Admirar quem chegou la",
+        "pacote_id": "story-a5ee7dd405a2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
+            "sha256": "a5ee7dd405a267c36e0f6540ef4fab1cf13bb43598242d876d400590c1b3bde9",
+            "tamanho_bytes": 9295747,
+            "duracao_segundos": 29.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261023-9fbc6ab85b",
+      "data": "2026-10-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
+        "sha256": "9fbc6ab85b5f6bbeeff49fc793ee0180899cb86d344e2341602b067e9dab81a1",
+        "pacote": "Pai Rico 09 - A casa onde voce mora",
+        "pacote_id": "story-9fbc6ab85b5f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "sha256": "9fbc6ab85b5f6bbeeff49fc793ee0180899cb86d344e2341602b067e9dab81a1",
+            "tamanho_bytes": 16531191,
+            "duracao_segundos": 36.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261024-8ac23edb8b",
+      "data": "2026-10-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
+        "sha256": "8ac23edb8bb27c7bbfceda53698a28a33f48c9cc058e6e88d5b961b7482abb8e",
+        "pacote": "Babilonia 10 - Tijolo e moeda forte",
+        "pacote_id": "story-8ac23edb8bb2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8ac23edb8b-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-8ac23edb8b-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+            "sha256": "8ac23edb8bb27c7bbfceda53698a28a33f48c9cc058e6e88d5b961b7482abb8e",
+            "tamanho_bytes": 10361600,
+            "duracao_segundos": 32.2
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261025-6b39f69113",
+      "data": "2026-10-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 10 - As 5 pessoas.mp4",
+        "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539",
+        "pacote": "Mente Milionaria 10 - As 5 pessoas",
+        "pacote_id": "story-6b39f691135f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
+            "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539",
+            "tamanho_bytes": 12131216,
+            "duracao_segundos": 37.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261026-aff6203bbb",
+      "data": "2026-10-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
+        "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d",
+        "pacote": "Pai Rico 10 - A casa que te paga",
+        "pacote_id": "story-aff6203bbb31"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
+            "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d",
+            "tamanho_bytes": 14034920,
+            "duracao_segundos": 31.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261027-48d7af8227",
+      "data": "2026-10-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
+        "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e",
+        "pacote": "Babilonia 11 - Quem paga suas contas no futuro",
+        "pacote_id": "story-48d7af8227ed"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+            "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e",
+            "tamanho_bytes": 9716842,
+            "duracao_segundos": 32.866
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261028-f9a0b67520",
+      "data": "2026-10-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
+        "sha256": "f9a0b67520f9d89ad06ba8337dab7b8cca5d0566f425e96e7f52067fd81dd84f",
+        "pacote": "Mente Milionaria 11 - Vergonha de vender",
+        "pacote_id": "story-f9a0b67520f9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f9a0b67520-Mente-Milionaria-11---Vergonha-de-vender.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f9a0b67520-Mente-Milionaria-11---Vergonha-de-vender.mp4",
+            "sha256": "f9a0b67520f9d89ad06ba8337dab7b8cca5d0566f425e96e7f52067fd81dd84f",
+            "tamanho_bytes": 9157412,
+            "duracao_segundos": 28.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261029-7e068a41f1",
+      "data": "2026-10-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
+        "sha256": "7e068a41f1ecfb1a25e5f50a32efd63649baf840b8b21867bd60e7e5902f610c",
+        "pacote": "Pai Rico 11 - Passivos disfarcados",
+        "pacote_id": "story-7e068a41f1ec"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7e068a41f1-Pai-Rico-11---Passivos-disfarcados.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7e068a41f1-Pai-Rico-11---Passivos-disfarcados.mp4",
+            "sha256": "7e068a41f1ecfb1a25e5f50a32efd63649baf840b8b21867bd60e7e5902f610c",
+            "tamanho_bytes": 11368801,
+            "duracao_segundos": 34.633
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261030-48559018b8",
+      "data": "2026-10-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
+        "sha256": "48559018b89c0e5637c177ed734527c18f6041b4606f8e073930e3d49c444e47",
+        "pacote": "Babilonia 12 - Sabe mais ganha mais",
+        "pacote_id": "story-48559018b89c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+            "sha256": "48559018b89c0e5637c177ed734527c18f6041b4606f8e073930e3d49c444e47",
+            "tamanho_bytes": 11126458,
+            "duracao_segundos": 32.867
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261031-c1deb6313c",
+      "data": "2026-10-31",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
+        "sha256": "c1deb6313c98b644de18733bc601d9bdf9d57437cbb0883fffa6762ed0737737",
+        "pacote": "Mente Milionaria 12 - Maior que o problema",
+        "pacote_id": "story-c1deb6313c98"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
+            "sha256": "c1deb6313c98b644de18733bc601d9bdf9d57437cbb0883fffa6762ed0737737",
+            "tamanho_bytes": 10435602,
+            "duracao_segundos": 32.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261101-19269918ed",
+      "data": "2026-11-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
+        "sha256": "19269918ed7c77bd92cd9d1432a873a70c8795ba34e2014a821e84d4a5164f99",
+        "pacote": "Pai Rico 12 - Pobre classe media rico",
+        "pacote_id": "story-19269918ed7c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-19269918ed-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-19269918ed-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+            "sha256": "19269918ed7c77bd92cd9d1432a873a70c8795ba34e2014a821e84d4a5164f99",
+            "tamanho_bytes": 14645253,
+            "duracao_segundos": 37.633
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261102-4b23ad22bc",
+      "data": "2026-11-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
+        "sha256": "4b23ad22bcac9b316b83d01b3df3c012179ce58cfc12258bf0425fe359764bcd",
+        "pacote": "Babilonia 13 - O plano do Dabasir",
+        "pacote_id": "story-4b23ad22bcac"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4b23ad22bc-Babilonia-13---O-plano-do-Dabasir.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-4b23ad22bc-Babilonia-13---O-plano-do-Dabasir.mp4",
+            "sha256": "4b23ad22bcac9b316b83d01b3df3c012179ce58cfc12258bf0425fe359764bcd",
+            "tamanho_bytes": 10481686,
+            "duracao_segundos": 34.933
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261103-f8deb7563e",
+      "data": "2026-11-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
+        "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026",
+        "pacote": "Mente Milionaria 13 - Saber receber",
+        "pacote_id": "story-f8deb7563ec4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
+            "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026",
+            "tamanho_bytes": 10470718,
+            "duracao_segundos": 32.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261104-26a19fd594",
+      "data": "2026-11-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
+        "sha256": "26a19fd5947c3d601794aa8ce1d6697e2e28dde63cf586dcb47033e5d5f64eb1",
+        "pacote": "Pai Rico 13 - O negocio de quem",
+        "pacote_id": "story-26a19fd5947c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
+            "sha256": "26a19fd5947c3d601794aa8ce1d6697e2e28dde63cf586dcb47033e5d5f64eb1",
+            "tamanho_bytes": 11656924,
+            "duracao_segundos": 32.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261105-d429d4fbbe",
+      "data": "2026-11-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 14 - A sorte.mp4",
+        "sha256": "d429d4fbbef694c2eb216dde50584919a4a7a87014eaa2a6e076deea6ea6d767",
+        "pacote": "Babilonia 14 - A sorte",
+        "pacote_id": "story-d429d4fbbef6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d429d4fbbe-Babilonia-14---A-sorte.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-d429d4fbbe-Babilonia-14---A-sorte.mp4",
+            "sha256": "d429d4fbbef694c2eb216dde50584919a4a7a87014eaa2a6e076deea6ea6d767",
+            "tamanho_bytes": 8015171,
+            "duracao_segundos": 32.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261106-6bfb5079ae",
+      "data": "2026-11-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 14 - Agir com medo.mp4",
+        "sha256": "6bfb5079aea7a800f1ffbe0f3b6bab5bce182842d066425d9e5e285985865249",
+        "pacote": "Mente Milionaria 14 - Agir com medo",
+        "pacote_id": "story-6bfb5079aea7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6bfb5079ae-Mente-Milionaria-14---Agir-com-medo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6bfb5079ae-Mente-Milionaria-14---Agir-com-medo.mp4",
+            "sha256": "6bfb5079aea7a800f1ffbe0f3b6bab5bce182842d066425d9e5e285985865249",
+            "tamanho_bytes": 10409400,
+            "duracao_segundos": 31.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261107-a1d171d3ae",
+      "data": "2026-11-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
+        "sha256": "a1d171d3ae57508dc99a9717670ca174d77eb5f7482326c9fcec26d7110603fd",
+        "pacote": "Pai Rico 14 - O decimo terceiro",
+        "pacote_id": "story-a1d171d3ae57"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a1d171d3ae-Pai-Rico-14---O-decimo-terceiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a1d171d3ae-Pai-Rico-14---O-decimo-terceiro.mp4",
+            "sha256": "a1d171d3ae57508dc99a9717670ca174d77eb5f7482326c9fcec26d7110603fd",
+            "tamanho_bytes": 10692385,
+            "duracao_segundos": 30.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261108-e76f88bd89",
+      "data": "2026-11-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
+        "sha256": "e76f88bd895152c5b7139b479f648e8214cbd1ccaba7e588d22119d340deb82d",
+        "pacote": "Babilonia 15 - A conta dos 60 mil",
+        "pacote_id": "story-e76f88bd8951"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
+            "sha256": "e76f88bd895152c5b7139b479f648e8214cbd1ccaba7e588d22119d340deb82d",
+            "tamanho_bytes": 13157430,
+            "duracao_segundos": 34.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261109-196940290a",
+      "data": "2026-11-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 15 - A xicara cheia.mp4",
+        "sha256": "196940290a0349dc25ea000d27a15c6404e0bf2db7211474626ded7c2a96f787",
+        "pacote": "Mente Milionaria 15 - A xicara cheia",
+        "pacote_id": "story-196940290a03"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-196940290a-Mente-Milionaria-15---A-xicara-cheia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-196940290a-Mente-Milionaria-15---A-xicara-cheia.mp4",
+            "sha256": "196940290a0349dc25ea000d27a15c6404e0bf2db7211474626ded7c2a96f787",
+            "tamanho_bytes": 11085985,
+            "duracao_segundos": 31.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261110-f749499cc4",
+      "data": "2026-11-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
+        "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a",
+        "pacote": "Pai Rico 15 - A ordem dos impostos",
+        "pacote_id": "story-f749499cc421"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a",
+            "tamanho_bytes": 11937549,
+            "duracao_segundos": 34.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261111-0ec61bb922",
+      "data": "2026-11-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
+        "sha256": "0ec61bb9225cae9e8798abdec1f1c03dc0b5c2fda5f10f3ba7ab3b6727b5f31e",
+        "pacote": "Babilonia 16 - A maioria nunca comeca",
+        "pacote_id": "story-0ec61bb9225c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0ec61bb922-Babilonia-16---A-maioria-nunca-comeca.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-0ec61bb922-Babilonia-16---A-maioria-nunca-comeca.mp4",
+            "sha256": "0ec61bb9225cae9e8798abdec1f1c03dc0b5c2fda5f10f3ba7ab3b6727b5f31e",
+            "tamanho_bytes": 13986523,
+            "duracao_segundos": 32.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261112-4159a90bbc",
+      "data": "2026-11-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 16 - Salario tem teto.mp4",
+        "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6",
+        "pacote": "Mente Milionaria 16 - Salario tem teto",
+        "pacote_id": "story-4159a90bbc8d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
+            "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6",
+            "tamanho_bytes": 10685893,
+            "duracao_segundos": 34.933
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261113-541f4406e7",
+      "data": "2026-11-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
+        "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4",
+        "pacote": "Pai Rico 16 - Comprar na crise",
+        "pacote_id": "story-541f4406e721"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
+            "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4",
+            "tamanho_bytes": 11322646,
+            "duracao_segundos": 33.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261114-34e5d9ff23",
+      "data": "2026-11-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
+        "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66",
+        "pacote": "Babilonia 17 - As 5 leis do ouro",
+        "pacote_id": "story-34e5d9ff23ff"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
+            "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66",
+            "tamanho_bytes": 10522634,
+            "duracao_segundos": 36.633
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261115-b112797062",
+      "data": "2026-11-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
+        "sha256": "b112797062c3b8d29d617ac68d5419dd37af51e28d6ce2a535dc452ffa72724a",
+        "pacote": "Mente Milionaria 17 - Patrimonio",
+        "pacote_id": "story-b112797062c3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
+            "sha256": "b112797062c3b8d29d617ac68d5419dd37af51e28d6ce2a535dc452ffa72724a",
+            "tamanho_bytes": 11627535,
+            "duracao_segundos": 29.933
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261116-9808db47d0",
+      "data": "2026-11-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
+        "sha256": "9808db47d0afd211114e4153360be95c15e983f48eba9492ea454976afae0ae3",
+        "pacote": "Pai Rico 17 - Garimpar oportunidade",
+        "pacote_id": "story-9808db47d0af"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
+            "sha256": "9808db47d0afd211114e4153360be95c15e983f48eba9492ea454976afae0ae3",
+            "tamanho_bytes": 14071331,
+            "duracao_segundos": 33.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261117-0d6ebe22e8",
+      "data": "2026-11-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
+        "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383",
+        "pacote": "Babilonia 18 - O escravo que gostava de trabalhar",
+        "pacote_id": "story-0d6ebe22e853"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
+            "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383",
+            "tamanho_bytes": 12785132,
+            "duracao_segundos": 34.933
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261118-a78c2c5633",
+      "data": "2026-11-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
+        "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa",
+        "pacote": "Mente Milionaria 18 - Quando eu tiver mais eu organizo",
+        "pacote_id": "story-a78c2c563338"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
+            "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa",
+            "tamanho_bytes": 13232049,
+            "duracao_segundos": 32.467
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261119-ae9236ecfa",
+      "data": "2026-11-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
+        "sha256": "ae9236ecfaa96c28f109ba935968a3ac847cd177ea65df50c4eae3fdebfd1c79",
+        "pacote": "Pai Rico 18 - O timido que foi vender",
+        "pacote_id": "story-ae9236ecfaa9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+            "sha256": "ae9236ecfaa96c28f109ba935968a3ac847cd177ea65df50c4eae3fdebfd1c79",
+            "tamanho_bytes": 11150152,
+            "duracao_segundos": 30.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261120-60ceb458fb",
+      "data": "2026-11-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 19 - Desejo definido.mp4",
+        "sha256": "60ceb458fb0810365d600e4de59e50ccff03491a31c099226bca8bc5343d7c29",
+        "pacote": "Babilonia 19 - Desejo definido",
+        "pacote_id": "story-60ceb458fb08"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-60ceb458fb-Babilonia-19---Desejo-definido.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-60ceb458fb-Babilonia-19---Desejo-definido.mp4",
+            "sha256": "60ceb458fb0810365d600e4de59e50ccff03491a31c099226bca8bc5343d7c29",
+            "tamanho_bytes": 11068500,
+            "duracao_segundos": 31.067
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261121-ee3a20eb06",
+      "data": "2026-11-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
+        "sha256": "ee3a20eb06e03f19b8085e0620d2d5d95c47d6e2a9bcd102e711c5d8eb2ed58f",
+        "pacote": "Mente Milionaria 19 - Dinheiro que trabalha",
+        "pacote_id": "story-ee3a20eb06e0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+            "sha256": "ee3a20eb06e03f19b8085e0620d2d5d95c47d6e2a9bcd102e711c5d8eb2ed58f",
+            "tamanho_bytes": 14388640,
+            "duracao_segundos": 36.0
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261122-a3a03304c5",
+      "data": "2026-11-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
+        "sha256": "a3a03304c56511cf1a2c55edd7f4452704894d7f2fe7af83823e3a32bc302289",
+        "pacote": "Pai Rico 19 - Paga voce primeiro",
+        "pacote_id": "story-a3a03304c565"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
+            "sha256": "a3a03304c56511cf1a2c55edd7f4452704894d7f2fe7af83823e3a32bc302289",
+            "tamanho_bytes": 12007170,
+            "duracao_segundos": 30.633
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261123-1ac13377a2",
+      "data": "2026-11-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 20 - Nao e ficar rico rapido.mp4",
+        "sha256": "1ac13377a2392d1c2f66c9d85363a1b3e9a963e4190b1e31a433fc852472131a",
+        "pacote": "Babilonia 20 - Nao e ficar rico rapido",
+        "pacote_id": "story-1ac13377a239"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1ac13377a2-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1ac13377a2-Babilonia-20---Nao-e-ficar-rico-rapido.mp4",
+            "sha256": "1ac13377a2392d1c2f66c9d85363a1b3e9a963e4190b1e31a433fc852472131a",
+            "tamanho_bytes": 11656115,
+            "duracao_segundos": 34.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261124-fc4ce2a95e",
+      "data": "2026-11-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Mente Milionaria 20 - Os 6 potes.mp4",
+        "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd",
+        "pacote": "Mente Milionaria 20 - Os 6 potes",
+        "pacote_id": "story-fc4ce2a95ea7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
+            "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd",
+            "tamanho_bytes": 14264260,
+            "duracao_segundos": 39.233
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261125-a3772d6f48",
+      "data": "2026-11-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
+        "sha256": "a3772d6f4874efc421269d79a331554ce9360aaefd3c187cdfc4ed6675072988",
+        "pacote": "Pai Rico 20 - O que trava as pessoas",
+        "pacote_id": "story-a3772d6f4874"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "sha256": "a3772d6f4874efc421269d79a331554ce9360aaefd3c187cdfc4ed6675072988",
+            "tamanho_bytes": 8154656,
+            "duracao_segundos": 32.867
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
