@@ -77,7 +77,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-52aa318bfa-Mente-Milionaria-02---Frases-de-infancia.mp4",
             "sha256": "52aa318bfa4961a724514b731baebfe79987a75a7ed945b29d5734f670e48647",
             "tamanho_bytes": 9701421,
-            "duracao_segundos": 35.8
+            "duracao_segundos": 35.8,
+            "removido_da_release_em": "2026-09-28T09:18:02.495289-03:00"
           },
           "instagram": {
             "status": "publicado",
