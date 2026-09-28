@@ -1903,6 +1903,68 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261126-7441996e8b",
+      "data": "2026-11-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 01 - A tacada no rosto.mp4",
+        "sha256": "7441996e8b865c8ed7583ac8011cc6d498af37c8b3294e40233a818931aa6729",
+        "pacote": "Habitos Atomicos 01 - A tacada no rosto",
+        "pacote_id": "story-7441996e8b86"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7441996e8b-Habitos-Atomicos-01---A-tacada-no-rosto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7441996e8b-Habitos-Atomicos-01---A-tacada-no-rosto.mp4",
+            "sha256": "7441996e8b865c8ed7583ac8011cc6d498af37c8b3294e40233a818931aa6729",
+            "tamanho_bytes": 16177296,
+            "duracao_segundos": 45.033
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261127-474b7f0058",
+      "data": "2026-11-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Babilonia 01 - As muralhas da Babilonia.mp4",
+        "sha256": "474b7f0058d014f3bdceb6dec611d243dba0209066fd4ac0e5d6b47e8db5ed99",
+        "pacote": "Tamanho 1m00 - Babilonia 01 - As muralhas da Babilonia",
+        "pacote_id": "story-474b7f0058d0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-474b7f0058-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-474b7f0058-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "sha256": "474b7f0058d014f3bdceb6dec611d243dba0209066fd4ac0e5d6b47e8db5ed99",
+            "tamanho_bytes": 20890214,
+            "duracao_segundos": 58.367
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
