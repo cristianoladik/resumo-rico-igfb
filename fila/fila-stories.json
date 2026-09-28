@@ -61,7 +61,7 @@
       "id": "story-20260928-52aa318bfa",
       "data": "2026-09-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 02 - Frases de infancia.mp4",
         "sha256": "52aa318bfa4961a724514b731baebfe79987a75a7ed945b29d5734f670e48647",
@@ -71,7 +71,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-52aa318bfa-Mente-Milionaria-02---Frases-de-infancia.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-52aa318bfa-Mente-Milionaria-02---Frases-de-infancia.mp4",
@@ -80,13 +80,30 @@
             "duracao_segundos": 35.8
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18139026472534618",
+            "publish_iniciado_em": "2026-09-28T09:16:54-03:00",
+            "id": "18138099742621650",
+            "publicado_em": "2026-09-28T09:17:03-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1089314360217263",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-28T09:17:14-03:00",
+            "post_id_candidato": "2613134529123658",
+            "finish_em": "2026-09-28T09:17:22-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjI2MTMxMzQ1MzU3OTAzMjQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2613134529123658",
+            "publicado_em": "2026-09-28T09:17:59-03:00"
+          },
+          "concluido_em": "2026-09-28T09:17:59-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-28T09:17:59-03:00"
     },
     {
       "id": "story-20260929-b24cd5a4df",
