@@ -1965,6 +1965,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261128-bd78b140cb",
+      "data": "2026-11-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Pai Rico 04 - Trabalhando de graca.mp4",
+        "sha256": "bd78b140cb66bde7e8e49125433a5044b72e479da47711ac88371daf3ba213e4",
+        "pacote": "Tamanho 1m00 - Pai Rico 04 - Trabalhando de graca",
+        "pacote_id": "story-bd78b140cb66"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-bd78b140cb-Tamanho-1m00---Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-bd78b140cb-Tamanho-1m00---Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "sha256": "bd78b140cb66bde7e8e49125433a5044b72e479da47711ac88371daf3ba213e4",
+            "tamanho_bytes": 20654928,
+            "duracao_segundos": 58.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
