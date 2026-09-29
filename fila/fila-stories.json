@@ -110,7 +110,7 @@
       "id": "story-20260929-b24cd5a4df",
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "b24cd5a4dfd4b359db7ad15848f83aa936a16dcbd4028817322a3b7b7d680b03",
@@ -120,7 +120,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-b24cd5a4df-Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b24cd5a4df-Babilonia-01---As-muralhas-da-Babilonia.mp4",
@@ -129,13 +129,30 @@
             "duracao_segundos": 31.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18139258312534618",
+            "publish_iniciado_em": "2026-09-29T09:16:27-03:00",
+            "id": "18186291916417227",
+            "publicado_em": "2026-09-29T09:16:43-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1085827357189422",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-29T09:16:54-03:00",
+            "post_id_candidato": "2286250518882654",
+            "finish_em": "2026-09-29T09:17:01-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIyODYyNTA1MjU1NDkzMjA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2286250518882654",
+            "publicado_em": "2026-09-29T09:17:37-03:00"
+          },
+          "concluido_em": "2026-09-29T09:17:37-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-29T09:17:37-03:00"
     },
     {
       "id": "story-20260930-a817bc0bbe",
