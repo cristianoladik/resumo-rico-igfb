@@ -175,7 +175,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
             "sha256": "a817bc0bbe9db24fc03fcd308d149681d66529bb1e1eae6b2910b90f76ba7e81",
             "tamanho_bytes": 14330515,
-            "duracao_segundos": 30.533
+            "duracao_segundos": 30.533,
+            "removido_da_release_em": "2026-09-30T09:17:55.364204-03:00"
           },
           "instagram": {
             "status": "publicado",
