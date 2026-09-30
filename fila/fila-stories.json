@@ -2014,6 +2014,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261129-67f1a72551",
+      "data": "2026-11-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 02 - O 1 por cento e as 37 vezes.mp4",
+        "sha256": "67f1a725511f9cfe963e4e83aff9300c08a3decbb229d79df6869b937b180e7e",
+        "pacote": "Habitos Atomicos 02 - O 1 por cento e as 37 vezes",
+        "pacote_id": "story-67f1a725511f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-67f1a72551-Habitos-Atomicos-02---O-1-por-cento-e-as-37-vezes.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-67f1a72551-Habitos-Atomicos-02---O-1-por-cento-e-as-37-vezes.mp4",
+            "sha256": "67f1a725511f9cfe963e4e83aff9300c08a3decbb229d79df6869b937b180e7e",
+            "tamanho_bytes": 15775181,
+            "duracao_segundos": 38.667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
