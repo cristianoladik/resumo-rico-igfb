@@ -159,7 +159,7 @@
       "id": "story-20260930-a817bc0bbe",
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
         "sha256": "a817bc0bbe9db24fc03fcd308d149681d66529bb1e1eae6b2910b90f76ba7e81",
@@ -169,7 +169,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a817bc0bbe-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
@@ -178,13 +178,30 @@
             "duracao_segundos": 30.533
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18139500526534618",
+            "publish_iniciado_em": "2026-09-30T09:16:48-03:00",
+            "id": "18108612320181266",
+            "publicado_em": "2026-09-30T09:16:55-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "956576150257071",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-30T09:17:07-03:00",
+            "post_id_candidato": "1575682527692952",
+            "finish_em": "2026-09-30T09:17:12-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE1NzU2ODI1Mzc2OTI5NTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1575682527692952",
+            "publicado_em": "2026-09-30T09:17:49-03:00"
+          },
+          "concluido_em": "2026-09-30T09:17:49-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-30T09:17:49-03:00"
     },
     {
       "id": "story-20261001-a75c10386c",
