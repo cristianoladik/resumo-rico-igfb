@@ -2063,6 +2063,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261130-8dfce2a2ac",
+      "data": "2026-11-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "8dfce2a2ac6a9e79dfd405da561e363039cfe60eb54f9e26e18d594851503451",
+        "pacote": "Tamanho 1m00 - Mente Milionaria 07 - Conta de padeiro",
+        "pacote_id": "story-8dfce2a2ac6a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8dfce2a2ac-Tamanho-1m00---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-8dfce2a2ac-Tamanho-1m00---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+            "sha256": "8dfce2a2ac6a9e79dfd405da561e363039cfe60eb54f9e26e18d594851503451",
+            "tamanho_bytes": 17960028,
+            "duracao_segundos": 52.233
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
