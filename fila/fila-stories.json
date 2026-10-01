@@ -208,7 +208,7 @@
       "id": "story-20261001-a75c10386c",
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "a75c10386c28164ce7d3a1c45882a87c744cae4da05780debbe38d74d8877b2f",
@@ -218,7 +218,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
@@ -227,13 +227,30 @@
             "duracao_segundos": 37.2
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18139754539534618",
+            "publish_iniciado_em": "2026-10-01T09:16:20-03:00",
+            "id": "17909958078544692",
+            "publicado_em": "2026-10-01T09:16:24-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1601459674152068",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-01T09:16:33-03:00",
+            "post_id_candidato": "1571069770906748",
+            "finish_em": "2026-10-01T09:16:38-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE1NzEwNjk3Nzc1NzM0MTQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1571069770906748",
+            "publicado_em": "2026-10-01T09:17:13-03:00"
+          },
+          "concluido_em": "2026-10-01T09:17:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-01T09:17:13-03:00"
     },
     {
       "id": "story-20261002-6314fea5df",
