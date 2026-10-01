@@ -224,7 +224,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a75c10386c-Babilonia-02---Bansir-e-Kobbi.mp4",
             "sha256": "a75c10386c28164ce7d3a1c45882a87c744cae4da05780debbe38d74d8877b2f",
             "tamanho_bytes": 13795916,
-            "duracao_segundos": 37.2
+            "duracao_segundos": 37.2,
+            "removido_da_release_em": "2026-10-01T09:17:16.246984-03:00"
           },
           "instagram": {
             "status": "publicado",
