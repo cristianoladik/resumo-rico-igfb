@@ -366,7 +366,7 @@
       "id": "reel-20261003-1100-1508107b88",
       "data": "2026-10-02",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
         "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7"
@@ -379,12 +379,17 @@
       },
       "instagram": {
         "legenda": "Dois meninos ganharam dinheiro com o lixo de uma mercearia.\n\nNo livro Pai Rico, Pai Pobre, eles montaram uma biblioteca de gibis usados no porão e cobravam das outras crianças pra ler.\n\nPela primeira vez, o dinheiro entrava sem eles trocarem hora por moeda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18093348563158567",
+        "publicado_em": "2026-10-02T11:11:02.353600-03:00"
       },
       "facebook": {
         "legenda": "Dois meninos ganharam dinheiro com o lixo de uma mercearia.\n\nNo livro Pai Rico, Pai Pobre, eles montaram uma biblioteca de gibis usados no porão e cobravam das outras crianças pra ler.\n\nPela primeira vez, o dinheiro entrava sem eles trocarem hora por moeda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1430749159150962",
+        "publicado_em": "2026-10-02T11:11:17.630291-03:00"
+      },
+      "concluido_em": "2026-10-02T11:11:17.639253-03:00"
     },
     {
       "id": "reel-20261003-1900-1ce77807f1",
