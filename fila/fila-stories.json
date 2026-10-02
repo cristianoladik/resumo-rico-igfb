@@ -257,7 +257,7 @@
       "id": "story-20261002-6314fea5df",
       "data": "2026-10-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
         "sha256": "6314fea5dff223d9a04ac472e4e91e87a0b7eb7c1088c18dd6f3d94a57f3640f",
@@ -267,7 +267,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-6314fea5df-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6314fea5df-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
@@ -276,13 +276,30 @@
             "duracao_segundos": 29.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18140016631534618",
+            "publish_iniciado_em": "2026-10-02T09:17:32-03:00",
+            "id": "18125191009909826",
+            "publicado_em": "2026-10-02T09:17:40-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1708098187986334",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-02T09:17:46-03:00",
+            "post_id_candidato": "1123152120069049",
+            "finish_em": "2026-10-02T09:17:51-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMjMxNTIxMzAwNjkwNDg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1123152120069049",
+            "publicado_em": "2026-10-02T09:18:27-03:00"
+          },
+          "concluido_em": "2026-10-02T09:18:27-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-02T09:18:27-03:00"
     },
     {
       "id": "story-20261003-faa26c04d1",
