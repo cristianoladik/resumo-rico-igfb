@@ -426,7 +426,7 @@
       "id": "reel-20261004-1100-140ae6d95a",
       "data": "2026-10-02",
       "horario": "19:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
         "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4"
@@ -439,12 +439,17 @@
       },
       "instagram": {
         "legenda": "Todo mundo quer ser rico, mas quase ninguém se compromete de verdade.\n\nO livro Os Segredos da Mente Milionária mostra a diferença: quem só quer age no dia de sol, quem se compromete continua guardando e estudando até no mês apertado.\n\nQuerer não custa nada, por isso não entrega nada.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17947790565305098",
+        "publicado_em": "2026-10-02T19:11:02.324703-03:00"
       },
       "facebook": {
         "legenda": "Todo mundo quer ser rico, mas quase ninguém se compromete de verdade.\n\nO livro Os Segredos da Mente Milionária mostra a diferença: quem só quer age no dia de sol, quem se compromete continua guardando e estudando até no mês apertado.\n\nQuerer não custa nada, por isso não entrega nada.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1048846834846518",
+        "publicado_em": "2026-10-02T19:11:12.860865-03:00"
+      },
+      "concluido_em": "2026-10-02T19:11:12.870345-03:00"
     },
     {
       "id": "reel-20261004-1900-607f3f11f9",
