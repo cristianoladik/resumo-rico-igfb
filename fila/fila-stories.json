@@ -2112,6 +2112,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261201-b0a54d905e",
+      "data": "2026-12-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 03 - O ciclismo britanico.mp4",
+        "sha256": "b0a54d905eb0c380aac8969f8554b321ab9f5bd9b9bd15fc2a5e23b1b28eb156",
+        "pacote": "Habitos Atomicos 03 - O ciclismo britanico",
+        "pacote_id": "story-b0a54d905eb0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b0a54d905e-Habitos-Atomicos-03---O-ciclismo-britanico.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b0a54d905e-Habitos-Atomicos-03---O-ciclismo-britanico.mp4",
+            "sha256": "b0a54d905eb0c380aac8969f8554b321ab9f5bd9b9bd15fc2a5e23b1b28eb156",
+            "tamanho_bytes": 13514634,
+            "duracao_segundos": 42.2
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
