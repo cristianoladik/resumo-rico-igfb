@@ -456,7 +456,7 @@
       "id": "reel-20261004-1900-607f3f11f9",
       "data": "2026-10-03",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
         "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0"
@@ -469,12 +469,17 @@
       },
       "instagram": {
         "legenda": "Você corre o mês inteiro e não sai do lugar?\n\nO livro Pai Rico, Pai Pobre chama isso de corrida dos ratos: o medo de ficar sem dinheiro te faz aceitar qualquer emprego, e a vontade de ter coisas te faz gastar tudo.\n\nPra sair da roda, não basta correr mais rápido, tem que mudar o jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18110590097352889",
+        "publicado_em": "2026-10-03T08:35:20.837867-03:00"
       },
       "facebook": {
         "legenda": "Você corre o mês inteiro e não sai do lugar?\n\nO livro Pai Rico, Pai Pobre chama isso de corrida dos ratos: o medo de ficar sem dinheiro te faz aceitar qualquer emprego, e a vontade de ter coisas te faz gastar tudo.\n\nPra sair da roda, não basta correr mais rápido, tem que mudar o jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1440720184584771",
+        "publicado_em": "2026-10-03T08:35:34.694314-03:00"
+      },
+      "concluido_em": "2026-10-03T08:35:34.704331-03:00"
     },
     {
       "id": "reel-20261005-1100-dd9fbb49c7",
