@@ -306,7 +306,7 @@
       "id": "story-20261003-faa26c04d1",
       "data": "2026-10-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "faa26c04d1a9ed64b7995638c30b9a30ecd731774d68c2ae88fbec9c181a61bc",
@@ -316,7 +316,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
@@ -325,13 +325,30 @@
             "duracao_segundos": 32.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18140298424534618",
+            "publish_iniciado_em": "2026-10-03T09:28:54-03:00",
+            "id": "18219540325356144",
+            "publicado_em": "2026-10-03T09:29:04-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "977327708005052",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-03T09:29:12-03:00",
+            "post_id_candidato": "1721040072322290",
+            "finish_em": "2026-10-03T09:29:17-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE3MjEwNDAwNzg5ODg5NTY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1721040072322290",
+            "publicado_em": "2026-10-03T09:29:53-03:00"
+          },
+          "concluido_em": "2026-10-03T09:29:53-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-03T09:29:53-03:00"
     },
     {
       "id": "story-20261004-6689f41a42",
