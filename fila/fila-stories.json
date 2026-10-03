@@ -2161,6 +2161,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261202-60e1de6a8b",
+      "data": "2026-12-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Babilonia 06 - Emprestar pra parente.mp4",
+        "sha256": "60e1de6a8b628e7e9a191a48a6982db26a0d41851dd13f3854eb53c06d1bb135",
+        "pacote": "Tamanho 1m00 - Babilonia 06 - Emprestar pra parente",
+        "pacote_id": "story-60e1de6a8b62"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-60e1de6a8b-Tamanho-1m00---Babilonia-06---Emprestar-pra-parente.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-60e1de6a8b-Tamanho-1m00---Babilonia-06---Emprestar-pra-parente.mp4",
+            "sha256": "60e1de6a8b628e7e9a191a48a6982db26a0d41851dd13f3854eb53c06d1bb135",
+            "tamanho_bytes": 20579639,
+            "duracao_segundos": 56.033
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
