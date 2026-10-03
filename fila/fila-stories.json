@@ -322,7 +322,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-faa26c04d1-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
             "sha256": "faa26c04d1a9ed64b7995638c30b9a30ecd731774d68c2ae88fbec9c181a61bc",
             "tamanho_bytes": 20205065,
-            "duracao_segundos": 32.6
+            "duracao_segundos": 32.6,
+            "removido_da_release_em": "2026-10-03T09:29:55.972406-03:00"
           },
           "instagram": {
             "status": "publicado",
