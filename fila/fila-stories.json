@@ -2210,6 +2210,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261203-039b634a3f",
+      "data": "2026-12-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 04 - O aviao de 3 graus e meio.mp4",
+        "sha256": "039b634a3fa651897d7e8de56c65f143192f93d579192aeda1d95f4947cca74d",
+        "pacote": "Habitos Atomicos 04 - O aviao de 3 graus e meio",
+        "pacote_id": "story-039b634a3fa6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-039b634a3f-Habitos-Atomicos-04---O-aviao-de-3-graus-e-meio.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-039b634a3f-Habitos-Atomicos-04---O-aviao-de-3-graus-e-meio.mp4",
+            "sha256": "039b634a3fa651897d7e8de56c65f143192f93d579192aeda1d95f4947cca74d",
+            "tamanho_bytes": 10979433,
+            "duracao_segundos": 40.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
