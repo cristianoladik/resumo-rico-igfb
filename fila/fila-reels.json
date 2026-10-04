@@ -645,7 +645,8 @@
         "asset": "reel-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
         "sha256": "c20562606a78f4e5197f178ec5db4cf6df80a1b7c6aa01544e3d8399d601ad36",
-        "tamanho_bytes": 11864636
+        "tamanho_bytes": 11864636,
+        "removido_da_release_em": "2026-10-04T11:11:12.219270-03:00"
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças do livro Pai Rico, Pai Pobre cabe em duas frases: ativo é tudo que coloca dinheiro no seu bolso, passivo é tudo que tira.\n\nA maioria compra passivo achando que é ativo, e o mais comum de todos pode ser a casa onde você mora.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
