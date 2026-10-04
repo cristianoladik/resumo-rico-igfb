@@ -355,7 +355,7 @@
       "id": "story-20261004-6689f41a42",
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
         "sha256": "6689f41a425319e7f1b50013273a45d3aaa52c8170fa383e6825c2a6bd000d90",
@@ -365,7 +365,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-6689f41a42-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6689f41a42-Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
@@ -374,13 +374,30 @@
             "duracao_segundos": 35.733
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18140579509534618",
+            "publish_iniciado_em": "2026-10-04T09:16:58-03:00",
+            "id": "18448585690132445",
+            "publicado_em": "2026-10-04T09:17:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1872647044117358",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-04T09:17:15-03:00",
+            "post_id_candidato": "2316808019117671",
+            "finish_em": "2026-10-04T09:17:25-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIzMTY4MDgwMjU3ODQzMzc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2316808019117671",
+            "publicado_em": "2026-10-04T09:18:02-03:00"
+          },
+          "concluido_em": "2026-10-04T09:18:02-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-04T09:18:02-03:00"
     },
     {
       "id": "story-20261005-7f4b4b90e3",
