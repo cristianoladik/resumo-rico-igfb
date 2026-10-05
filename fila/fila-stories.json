@@ -420,7 +420,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
             "sha256": "7f4b4b90e3987a323c702c49cfc69c009985463992d962c4338db5e151153086",
             "tamanho_bytes": 10474589,
-            "duracao_segundos": 35.033
+            "duracao_segundos": 35.033,
+            "removido_da_release_em": "2026-10-05T09:18:37.378183-03:00"
           },
           "instagram": {
             "status": "publicado",
