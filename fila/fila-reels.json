@@ -786,7 +786,7 @@
       "id": "reel-20261010-1100-6b39f69113",
       "data": "2026-10-05",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 10 - As 5 pessoas.mp4",
         "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539"
@@ -799,12 +799,17 @@
       },
       "instagram": {
         "legenda": "Olha as cinco pessoas com quem você mais conversa na semana: é bem provável que a sua vida esteja parecida com a delas.\n\nO livro Os Segredos da Mente Milionária mostra que você fica parecido com quem mais convive, pra bem ou pra mal.\n\nPensa de novo nas cinco: elas te puxam pra cima ou pra baixo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18011729063991249",
+        "publicado_em": "2026-10-05T11:11:29.590714-03:00"
       },
       "facebook": {
         "legenda": "Olha as cinco pessoas com quem você mais conversa na semana: é bem provável que a sua vida esteja parecida com a delas.\n\nO livro Os Segredos da Mente Milionária mostra que você fica parecido com quem mais convive, pra bem ou pra mal.\n\nPensa de novo nas cinco: elas te puxam pra cima ou pra baixo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1090320170547412",
+        "publicado_em": "2026-10-05T11:11:41.954949-03:00"
+      },
+      "concluido_em": "2026-10-05T11:11:41.963873-03:00"
     },
     {
       "id": "reel-20261010-1900-aff6203bbb",
