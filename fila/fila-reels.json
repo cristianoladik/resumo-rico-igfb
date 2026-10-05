@@ -816,7 +816,7 @@
       "id": "reel-20261010-1900-aff6203bbb",
       "data": "2026-10-05",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
         "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d"
@@ -829,18 +829,23 @@
       },
       "instagram": {
         "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada.\n\nNo livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18087184184264913",
+        "publicado_em": "2026-10-05T18:15:23.453765-03:00"
       },
       "facebook": {
         "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada.\n\nNo livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "964339022764238",
+        "publicado_em": "2026-10-05T18:15:39.568960-03:00"
+      },
+      "concluido_em": "2026-10-05T18:15:39.578677-03:00"
     },
     {
       "id": "reel-20261011-1100-48d7af8227",
       "data": "2026-10-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
         "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e"
@@ -853,12 +858,17 @@
       },
       "instagram": {
         "legenda": "Um dia você vai parar de trabalhar.\n\nQuem paga as suas contas depois disso?\n\nA sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos.\n\nQuanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17948846469312154",
+        "publicado_em": "2026-10-05T18:16:28.120245-03:00"
       },
       "facebook": {
         "legenda": "Um dia você vai parar de trabalhar.\n\nQuem paga as suas contas depois disso?\n\nA sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos.\n\nQuanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2589912808192571",
+        "publicado_em": "2026-10-05T18:16:41.038292-03:00"
+      },
+      "concluido_em": "2026-10-05T18:16:41.048093-03:00"
     },
     {
       "id": "reel-20261011-1900-f9a0b67520",
