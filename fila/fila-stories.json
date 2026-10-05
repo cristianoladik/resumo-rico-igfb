@@ -404,7 +404,7 @@
       "id": "story-20261005-7f4b4b90e3",
       "data": "2026-10-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "7f4b4b90e3987a323c702c49cfc69c009985463992d962c4338db5e151153086",
@@ -414,7 +414,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7f4b4b90e3-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
@@ -423,13 +423,30 @@
             "duracao_segundos": 35.033
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18140858305534618",
+            "publish_iniciado_em": "2026-10-05T09:17:30-03:00",
+            "id": "17971652178158817",
+            "publicado_em": "2026-10-05T09:17:37-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2360432814725997",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-05T09:17:49-03:00",
+            "post_id_candidato": "3158769184324267",
+            "finish_em": "2026-10-05T09:17:57-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjMxNTg3NjkxODc2NTc2MDA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3158769184324267",
+            "publicado_em": "2026-10-05T09:18:34-03:00"
+          },
+          "concluido_em": "2026-10-05T09:18:34-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-05T09:18:34-03:00"
     },
     {
       "id": "story-20261006-698d2022a0",
