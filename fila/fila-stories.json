@@ -2277,6 +2277,68 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261204-9f3a89c535",
+      "data": "2026-12-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Pai Rico 15 - A ordem dos impostos.mp4",
+        "sha256": "9f3a89c5358e38d71ca540c3fc945fbcf6125ddd970ca9af3ca72dd52a2eeef0",
+        "pacote": "Tamanho 1m00 - Pai Rico 15 - A ordem dos impostos",
+        "pacote_id": "story-9f3a89c5358e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-9f3a89c535-Tamanho-1m00---Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9f3a89c535-Tamanho-1m00---Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "sha256": "9f3a89c5358e38d71ca540c3fc945fbcf6125ddd970ca9af3ca72dd52a2eeef0",
+            "tamanho_bytes": 19847847,
+            "duracao_segundos": 56.067
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261205-1951fa0bbf",
+      "data": "2026-12-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Mente Milionaria 19 - Dinheiro que trabalha.mp4",
+        "sha256": "1951fa0bbf759ada15eaec768a11a36d39d3404047ee1852d723f1ba10c3c650",
+        "pacote": "Tamanho 1m00 - Mente Milionaria 19 - Dinheiro que trabalha",
+        "pacote_id": "story-1951fa0bbf75"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1951fa0bbf-Tamanho-1m00---Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1951fa0bbf-Tamanho-1m00---Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
+            "sha256": "1951fa0bbf759ada15eaec768a11a36d39d3404047ee1852d723f1ba10c3c650",
+            "tamanho_bytes": 23860593,
+            "duracao_segundos": 53.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
