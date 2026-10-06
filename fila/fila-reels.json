@@ -1026,7 +1026,7 @@
       "id": "reel-20261014-1100-4b23ad22bc",
       "data": "2026-10-06",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
         "sha256": "4b23ad22bcac9b316b83d01b3df3c012179ce58cfc12258bf0425fe359764bcd"
@@ -1039,12 +1039,17 @@
       },
       "instagram": {
         "legenda": "Afundado em dívidas, Dabasir virou escravo e saiu do buraco com um plano, no livro O Homem Mais Rico da Babilônia.\n\nDez por cento pra guardar, vinte por cento pra pagar as dívidas e setenta por cento pra viver, tudo ao mesmo tempo, com disciplina.\n\nAssim ele pagou cada credor, um por um.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18136377667629512",
+        "publicado_em": "2026-10-06T20:55:57.564869-03:00"
       },
       "facebook": {
         "legenda": "Afundado em dívidas, Dabasir virou escravo e saiu do buraco com um plano, no livro O Homem Mais Rico da Babilônia.\n\nDez por cento pra guardar, vinte por cento pra pagar as dívidas e setenta por cento pra viver, tudo ao mesmo tempo, com disciplina.\n\nAssim ele pagou cada credor, um por um.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2596603550855892",
+        "publicado_em": "2026-10-06T20:56:09.148646-03:00"
+      },
+      "concluido_em": "2026-10-06T20:56:09.158165-03:00"
     },
     {
       "id": "reel-20261014-1900-f8deb7563e",
