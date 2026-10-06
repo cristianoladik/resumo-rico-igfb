@@ -876,7 +876,7 @@
       "id": "reel-20261011-1900-f9a0b67520",
       "data": "2026-10-05",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
         "sha256": "f9a0b67520f9d89ad06ba8337dab7b8cca5d0566f425e96e7f52067fd81dd84f"
@@ -889,12 +889,17 @@
       },
       "instagram": {
         "legenda": "Ter vergonha de vender está te fazendo deixar dinheiro na mesa.\n\nO livro Os Segredos da Mente Milionária mostra que, se o que você faz ajuda alguém, esconder isso é deixar de ajudar, e quem não é lembrado não vende.\n\nO cliente vai comprar de alguém, a pergunta é se vai ser de você ou do seu concorrente.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18045781805819301",
+        "publicado_em": "2026-10-05T22:44:56.163732-03:00"
       },
       "facebook": {
         "legenda": "Ter vergonha de vender está te fazendo deixar dinheiro na mesa.\n\nO livro Os Segredos da Mente Milionária mostra que, se o que você faz ajuda alguém, esconder isso é deixar de ajudar, e quem não é lembrado não vende.\n\nO cliente vai comprar de alguém, a pergunta é se vai ser de você ou do seu concorrente.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1070884132244171",
+        "publicado_em": "2026-10-05T22:45:06.387404-03:00"
+      },
+      "concluido_em": "2026-10-05T22:45:06.397079-03:00"
     },
     {
       "id": "reel-20261012-1100-7e068a41f1",
