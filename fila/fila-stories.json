@@ -469,7 +469,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-698d2022a0-Babilonia-04---Voce-paga-todo-mundo.mp4",
             "sha256": "698d2022a040cbdbde9836a0ac385dc3a6b2ca0f66269da33e07f28ef74511cf",
             "tamanho_bytes": 10676027,
-            "duracao_segundos": 31.533
+            "duracao_segundos": 31.533,
+            "removido_da_release_em": "2026-10-06T09:18:21.024366-03:00"
           },
           "instagram": {
             "status": "publicado",
