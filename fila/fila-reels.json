@@ -996,7 +996,7 @@
       "id": "reel-20261013-1900-19269918ed",
       "data": "2026-10-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
         "sha256": "19269918ed7c77bd92cd9d1432a873a70c8795ba34e2014a821e84d4a5164f99"
@@ -1009,12 +1009,17 @@
       },
       "instagram": {
         "legenda": "A classe média parece rica, mas vive presa.\n\nO livro Pai Rico, Pai Pobre mostra pra onde vai o dinheiro de cada um: no pobre e na classe média, o salário some em contas e parcelas, no rico são os ativos que trazem o dinheiro.\n\nQual dos três é o seu?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17911334811507932",
+        "publicado_em": "2026-10-06T17:23:10.320430-03:00"
       },
       "facebook": {
         "legenda": "A classe média parece rica, mas vive presa.\n\nO livro Pai Rico, Pai Pobre mostra pra onde vai o dinheiro de cada um: no pobre e na classe média, o salário some em contas e parcelas, no rico são os ativos que trazem o dinheiro.\n\nQual dos três é o seu?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1564451738767141",
+        "publicado_em": "2026-10-06T17:23:18.508234-03:00"
+      },
+      "concluido_em": "2026-10-06T17:23:18.515923-03:00"
     },
     {
       "id": "reel-20261014-1100-4b23ad22bc",
