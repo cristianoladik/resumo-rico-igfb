@@ -2357,6 +2357,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261206-59940df5f7",
+      "data": "2026-12-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 05 - O cubo de gelo.mp4",
+        "sha256": "59940df5f7c5330709085153490ab7c1dd79b62256380bed19816d618d85c8ed",
+        "pacote": "Habitos Atomicos 05 - O cubo de gelo",
+        "pacote_id": "story-59940df5f7c5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-59940df5f7-Habitos-Atomicos-05---O-cubo-de-gelo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-59940df5f7-Habitos-Atomicos-05---O-cubo-de-gelo.mp4",
+            "sha256": "59940df5f7c5330709085153490ab7c1dd79b62256380bed19816d618d85c8ed",
+            "tamanho_bytes": 14085895,
+            "duracao_segundos": 41.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
