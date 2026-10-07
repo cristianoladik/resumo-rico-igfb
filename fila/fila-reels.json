@@ -1056,7 +1056,7 @@
       "id": "reel-20261014-1900-f8deb7563e",
       "data": "2026-10-07",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
         "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026"
@@ -1069,12 +1069,17 @@
       },
       "instagram": {
         "legenda": "Não sabe receber um elogio?\n\nEntão o dinheiro também não fica.\n\nO livro Os Segredos da Mente Milionária diz que quem enriquece sabe receber, sem culpa e sem vergonha, enquanto quem sente culpa vê o dinheiro escorrer como balde furado.\n\nComece simples: te elogiaram, só fala obrigado, e cobra o preço justo pelo seu trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17940775467101596",
+        "publicado_em": "2026-10-07T08:09:15.028391-03:00"
       },
       "facebook": {
         "legenda": "Não sabe receber um elogio?\n\nEntão o dinheiro também não fica.\n\nO livro Os Segredos da Mente Milionária diz que quem enriquece sabe receber, sem culpa e sem vergonha, enquanto quem sente culpa vê o dinheiro escorrer como balde furado.\n\nComece simples: te elogiaram, só fala obrigado, e cobra o preço justo pelo seu trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1123733606789963",
+        "publicado_em": "2026-10-07T08:09:29.364327-03:00"
+      },
+      "concluido_em": "2026-10-07T08:09:29.372540-03:00"
     },
     {
       "id": "reel-20261015-1100-26a19fd594",
