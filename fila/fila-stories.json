@@ -518,7 +518,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
             "sha256": "43a4cbc7ee0afb0d9eff9002b732dab959f48dd895563a17f96b8641b0865611",
             "tamanho_bytes": 11990024,
-            "duracao_segundos": 38.433
+            "duracao_segundos": 38.433,
+            "removido_da_release_em": "2026-10-07T09:17:27.238305-03:00"
           },
           "instagram": {
             "status": "publicado",
