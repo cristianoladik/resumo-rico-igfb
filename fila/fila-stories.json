@@ -502,7 +502,7 @@
       "id": "story-20261007-43a4cbc7ee",
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 04 - 7 dias sem reclamar.mp4",
         "sha256": "43a4cbc7ee0afb0d9eff9002b732dab959f48dd895563a17f96b8641b0865611",
@@ -512,7 +512,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-43a4cbc7ee-Mente-Milionaria-04---7-dias-sem-reclamar.mp4",
@@ -521,13 +521,30 @@
             "duracao_segundos": 38.433
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18141375592534618",
+            "publish_iniciado_em": "2026-10-07T09:16:28-03:00",
+            "id": "18116991734278698",
+            "publicado_em": "2026-10-07T09:16:37-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "3117230455148802",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-07T09:16:44-03:00",
+            "post_id_candidato": "1788734172278499",
+            "finish_em": "2026-10-07T09:16:48-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE3ODg3MzQxNzU2MTE4MzI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1788734172278499",
+            "publicado_em": "2026-10-07T09:17:24-03:00"
+          },
+          "concluido_em": "2026-10-07T09:17:24-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-07T09:17:24-03:00"
     },
     {
       "id": "story-20261008-43e889dcc2",
