@@ -1176,7 +1176,7 @@
       "id": "reel-20261016-1900-a1d171d3ae",
       "data": "2026-10-07",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
         "sha256": "a1d171d3ae57508dc99a9717670ca174d77eb5f7482326c9fcec26d7110603fd"
@@ -1189,12 +1189,17 @@
       },
       "instagram": {
         "legenda": "O que você faz com o décimo terceiro mostra se vai ficar rico.\n\nO livro Pai Rico, Pai Pobre ensina: primeiro compra ativo, o luxo vem depois, pago pelo próprio ativo.\n\nQuem compra o luxo primeiro fica só com a parcela.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18118589416920328",
+        "publicado_em": "2026-10-07T22:37:53.005359-03:00"
       },
       "facebook": {
         "legenda": "O que você faz com o décimo terceiro mostra se vai ficar rico.\n\nO livro Pai Rico, Pai Pobre ensina: primeiro compra ativo, o luxo vem depois, pago pelo próprio ativo.\n\nQuem compra o luxo primeiro fica só com a parcela.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1875062263861632",
+        "publicado_em": "2026-10-07T22:38:02.863300-03:00"
+      },
+      "concluido_em": "2026-10-07T22:38:02.872972-03:00"
     },
     {
       "id": "reel-20261017-1100-e76f88bd89",
