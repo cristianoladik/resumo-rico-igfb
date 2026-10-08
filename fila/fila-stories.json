@@ -551,7 +551,7 @@
       "id": "story-20261008-43e889dcc2",
       "data": "2026-10-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "43e889dcc2e2852ebfb820281415c6a36fec0c2a014e91c8317aff670d566000",
@@ -561,7 +561,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
@@ -570,13 +570,30 @@
             "duracao_segundos": 35.167
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18141662491534618",
+            "publish_iniciado_em": "2026-10-08T09:15:59-03:00",
+            "id": "18109486949228941",
+            "publicado_em": "2026-10-08T09:16:08-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4730474300522654",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-08T09:16:16-03:00",
+            "post_id_candidato": "1762793015547453",
+            "finish_em": "2026-10-08T09:16:21-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE3NjI3OTMwMjIyMTQxMTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1762793015547453",
+            "publicado_em": "2026-10-08T09:16:57-03:00"
+          },
+          "concluido_em": "2026-10-08T09:16:57-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-08T09:16:57-03:00"
     },
     {
       "id": "story-20261009-ebc6d6dfee",
