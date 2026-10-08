@@ -1236,7 +1236,7 @@
       "id": "reel-20261017-1900-196940290a",
       "data": "2026-10-08",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 15 - A xicara cheia.mp4",
         "sha256": "196940290a0349dc25ea000d27a15c6404e0bf2db7211474626ded7c2a96f787"
@@ -1249,12 +1249,17 @@
       },
       "instagram": {
         "legenda": "O problema não é não saber, é uma coisa bem pior: não saber e achar que sabe.\n\nO livro Os Segredos da Mente Milionária compara isso a uma xícara cheia até a borda, que não recebe nada de novo enquanto não for esvaziada.\n\nQuem enriquece nunca para de aprender, um pouco todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17911358205504444",
+        "publicado_em": "2026-10-08T11:11:16.061772-03:00"
       },
       "facebook": {
         "legenda": "O problema não é não saber, é uma coisa bem pior: não saber e achar que sabe.\n\nO livro Os Segredos da Mente Milionária compara isso a uma xícara cheia até a borda, que não recebe nada de novo enquanto não for esvaziada.\n\nQuem enriquece nunca para de aprender, um pouco todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1090992160498554",
+        "publicado_em": "2026-10-08T11:11:30.604365-03:00"
+      },
+      "concluido_em": "2026-10-08T11:11:30.611386-03:00"
     },
     {
       "id": "reel-20261018-1100-f749499cc4",
