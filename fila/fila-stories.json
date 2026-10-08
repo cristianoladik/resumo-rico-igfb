@@ -2406,6 +2406,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261207-d14f977d76",
+      "data": "2026-12-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Mente Milionaria 03 - A raiz e o fruto.mp4",
+        "sha256": "d14f977d763e8e18b37161c8d527ae1eff4844f6ae9efa1266cc48c3499723b1",
+        "pacote": "Tamanho 1m00 - Mente Milionaria 03 - A raiz e o fruto",
+        "pacote_id": "story-d14f977d763e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d14f977d76-Tamanho-1m00---Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-d14f977d76-Tamanho-1m00---Mente-Milionaria-03---A-raiz-e-o-fruto.mp4",
+            "sha256": "d14f977d763e8e18b37161c8d527ae1eff4844f6ae9efa1266cc48c3499723b1",
+            "tamanho_bytes": 16855677,
+            "duracao_segundos": 56.133
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
