@@ -567,7 +567,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-43e889dcc2-Pai-Rico-04---Trabalhando-de-graca.mp4",
             "sha256": "43e889dcc2e2852ebfb820281415c6a36fec0c2a014e91c8317aff670d566000",
             "tamanho_bytes": 14831201,
-            "duracao_segundos": 35.167
+            "duracao_segundos": 35.167,
+            "removido_da_release_em": "2026-10-08T09:16:59.586062-03:00"
           },
           "instagram": {
             "status": "publicado",
