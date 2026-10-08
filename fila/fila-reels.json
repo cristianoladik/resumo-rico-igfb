@@ -1266,7 +1266,7 @@
       "id": "reel-20261018-1100-f749499cc4",
       "data": "2026-10-08",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
         "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a"
@@ -1279,12 +1279,17 @@
       },
       "instagram": {
         "legenda": "Empregado e empresa pagam imposto em ordens diferentes, e isso muda tudo.\n\nNo livro Pai Rico, Pai Pobre, quem tem empresa gasta pelo negócio antes de pagar imposto sobre o que sobra, sempre dentro da lei.\n\nPorque Deus perdoa, a Receita Federal não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18102939158345127",
+        "publicado_em": "2026-10-08T15:26:46.796241-03:00"
       },
       "facebook": {
         "legenda": "Empregado e empresa pagam imposto em ordens diferentes, e isso muda tudo.\n\nNo livro Pai Rico, Pai Pobre, quem tem empresa gasta pelo negócio antes de pagar imposto sobre o que sobra, sempre dentro da lei.\n\nPorque Deus perdoa, a Receita Federal não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2002319250485630",
+        "publicado_em": "2026-10-08T15:27:03.768442-03:00"
+      },
+      "concluido_em": "2026-10-08T15:27:03.779429-03:00"
     },
     {
       "id": "reel-20261018-1900-0ec61bb922",
