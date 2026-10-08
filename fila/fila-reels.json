@@ -1275,7 +1275,8 @@
         "asset": "reel-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
         "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a",
-        "tamanho_bytes": 11937549
+        "tamanho_bytes": 11937549,
+        "removido_da_release_em": "2026-10-08T15:27:06.471231-03:00"
       },
       "instagram": {
         "legenda": "Empregado e empresa pagam imposto em ordens diferentes, e isso muda tudo.\n\nNo livro Pai Rico, Pai Pobre, quem tem empresa gasta pelo negócio antes de pagar imposto sobre o que sobra, sempre dentro da lei.\n\nPorque Deus perdoa, a Receita Federal não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
