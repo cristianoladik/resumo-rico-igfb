@@ -1476,7 +1476,7 @@
       "id": "reel-20261021-1900-0d6ebe22e8",
       "data": "2026-10-09",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383"
@@ -1489,12 +1489,17 @@
       },
       "instagram": {
         "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia: o trabalho.\n\nNo livro O Homem Mais Rico da Babilônia, ele aprende a fazer do trabalho o seu amigo, aprende a fazer bolo de mel e sai vendendo pelas ruas, juntando moeda por moeda.\n\nO jeito dele trabalhar conquistou um cliente, que um dia comprou a liberdade dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121772407978037",
+        "publicado_em": "2026-10-09T20:40:38.695751-03:00"
       },
       "facebook": {
         "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia: o trabalho.\n\nNo livro O Homem Mais Rico da Babilônia, ele aprende a fazer do trabalho o seu amigo, aprende a fazer bolo de mel e sai vendendo pelas ruas, juntando moeda por moeda.\n\nO jeito dele trabalhar conquistou um cliente, que um dia comprou a liberdade dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2585256171921253",
+        "publicado_em": "2026-10-09T20:40:50.852401-03:00"
+      },
+      "concluido_em": "2026-10-09T20:40:50.863076-03:00"
     },
     {
       "id": "reel-20261022-1100-a78c2c5633",
