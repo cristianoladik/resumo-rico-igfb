@@ -2455,6 +2455,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261208-393af7ccac",
+      "data": "2026-12-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 06 - Sistemas x metas.mp4",
+        "sha256": "393af7ccacb61943f4a1ccfd13fd1d99d215a2ef07447dfa07a98ede158fb6e6",
+        "pacote": "Habitos Atomicos 06 - Sistemas x metas",
+        "pacote_id": "story-393af7ccacb6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-393af7ccac-Habitos-Atomicos-06---Sistemas-x-metas.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-393af7ccac-Habitos-Atomicos-06---Sistemas-x-metas.mp4",
+            "sha256": "393af7ccacb61943f4a1ccfd13fd1d99d215a2ef07447dfa07a98ede158fb6e6",
+            "tamanho_bytes": 14399585,
+            "duracao_segundos": 39.067
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
