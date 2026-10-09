@@ -1386,7 +1386,7 @@
       "id": "reel-20261020-1100-34e5d9ff23",
       "data": "2026-10-09",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66"
@@ -1399,12 +1399,17 @@
       },
       "instagram": {
         "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem hoje, do livro O Homem Mais Rico da Babilônia.\n\nO dinheiro vem pra quem guarda pelo menos um décimo do que ganha, trabalha pra quem acha um uso que dá lucro e fica com quem investe com conselho de quem entende.\n\nMas ele foge de quem investe no que não entende e de quem busca lucro impossível.\n\nO dinheiro não some por azar, ele foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17922948210429265",
+        "publicado_em": "2026-10-09T11:11:05.227634-03:00"
       },
       "facebook": {
         "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem hoje, do livro O Homem Mais Rico da Babilônia.\n\nO dinheiro vem pra quem guarda pelo menos um décimo do que ganha, trabalha pra quem acha um uso que dá lucro e fica com quem investe com conselho de quem entende.\n\nMas ele foge de quem investe no que não entende e de quem busca lucro impossível.\n\nO dinheiro não some por azar, ele foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2175778956627079",
+        "publicado_em": "2026-10-09T11:11:18.672007-03:00"
+      },
+      "concluido_em": "2026-10-09T11:11:18.682607-03:00"
     },
     {
       "id": "reel-20261020-1900-b112797062",
