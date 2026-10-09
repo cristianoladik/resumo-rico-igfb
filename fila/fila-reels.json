@@ -1326,7 +1326,7 @@
       "id": "reel-20261019-1100-4159a90bbc",
       "data": "2026-10-08",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 16 - Salario tem teto.mp4",
         "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6"
@@ -1339,12 +1339,17 @@
       },
       "instagram": {
         "legenda": "Salário te dá segurança, mas cobra um preço que quase ninguém percebe: um teto na sua renda.\n\nO livro Os Segredos da Mente Milionária mostra que a maioria ganha pelo tempo, por hora ou por mês, enquanto quem enriquece busca ganhar pelo resultado, que tem risco mas não tem teto.\n\nNão precisa largar o emprego amanhã, pode começar com um projeto extra ou um negócio no fim de semana.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18255561991307901",
+        "publicado_em": "2026-10-08T22:20:12.537765-03:00"
       },
       "facebook": {
         "legenda": "Salário te dá segurança, mas cobra um preço que quase ninguém percebe: um teto na sua renda.\n\nO livro Os Segredos da Mente Milionária mostra que a maioria ganha pelo tempo, por hora ou por mês, enquanto quem enriquece busca ganhar pelo resultado, que tem risco mas não tem teto.\n\nNão precisa largar o emprego amanhã, pode começar com um projeto extra ou um negócio no fim de semana.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "27091062177258845",
+        "publicado_em": "2026-10-08T22:20:23.730106-03:00"
+      },
+      "concluido_em": "2026-10-08T22:20:23.740439-03:00"
     },
     {
       "id": "reel-20261019-1900-541f4406e7",
