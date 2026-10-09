@@ -1356,7 +1356,7 @@
       "id": "reel-20261019-1900-541f4406e7",
       "data": "2026-10-09",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
         "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4"
@@ -1369,12 +1369,17 @@
       },
       "instagram": {
         "legenda": "Na crise, enquanto todo mundo fugia, o autor do livro Pai Rico, Pai Pobre comprou casas baratas e depois vendeu com lucro.\n\nNão foi sorte: ele estudou o mercado e teve coragem na hora certa.\n\nA oportunidade aparece pra todo mundo, só entra quem tá preparado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119669330064962",
+        "publicado_em": "2026-10-09T10:10:27.052515-03:00"
       },
       "facebook": {
         "legenda": "Na crise, enquanto todo mundo fugia, o autor do livro Pai Rico, Pai Pobre comprou casas baratas e depois vendeu com lucro.\n\nNão foi sorte: ele estudou o mercado e teve coragem na hora certa.\n\nA oportunidade aparece pra todo mundo, só entra quem tá preparado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1833130327860054",
+        "publicado_em": "2026-10-09T10:10:53.215302-03:00"
+      },
+      "concluido_em": "2026-10-09T10:10:53.225893-03:00"
     },
     {
       "id": "reel-20261020-1100-34e5d9ff23",
