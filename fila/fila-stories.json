@@ -616,7 +616,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ebc6d6dfee-Babilonia-05---As-joias-de-vidro.mp4",
             "sha256": "ebc6d6dfeeb893aad74dcd3bf96c16ffded02f2120512186bd6414ad4d2fdcc2",
             "tamanho_bytes": 16110078,
-            "duracao_segundos": 33.233
+            "duracao_segundos": 33.233,
+            "removido_da_release_em": "2026-10-09T10:47:23.169623-03:00"
           },
           "instagram": {
             "status": "publicado",
