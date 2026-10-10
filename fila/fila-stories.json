@@ -649,7 +649,7 @@
       "id": "story-20261010-c45d3e15d3",
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
         "sha256": "c45d3e15d3c79334cd4d641212c5ec871c2febda6f54ea4b203cbf02d1c3fd52",
@@ -659,7 +659,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c45d3e15d3-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c45d3e15d3-Mente-Milionaria-05---Jogar-pra-ganhar.mp4",
@@ -668,13 +668,30 @@
             "duracao_segundos": 39.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18142233439534618",
+            "publish_iniciado_em": "2026-10-10T09:17:04-03:00",
+            "id": "18115804775112040",
+            "publicado_em": "2026-10-10T09:17:12-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2222734418625799",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-10T09:17:20-03:00",
+            "post_id_candidato": "1143092058680363",
+            "finish_em": "2026-10-10T09:17:25-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExNDMwOTIwNjIwMTM2OTY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1143092058680363",
+            "publicado_em": "2026-10-10T09:18:01-03:00"
+          },
+          "concluido_em": "2026-10-10T09:18:01-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-10T09:18:01-03:00"
     },
     {
       "id": "story-20261011-1508107b88",
