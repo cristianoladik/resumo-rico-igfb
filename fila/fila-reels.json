@@ -1506,7 +1506,7 @@
       "id": "reel-20261022-1100-a78c2c5633",
       "data": "2026-10-10",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
         "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa"
@@ -1519,12 +1519,17 @@
       },
       "instagram": {
         "legenda": "Você fala que vai organizar o dinheiro quando tiver mais?\n\nO livro Os Segredos da Mente Milionária diz que é o contrário: quando você organiza, começa a ter mais.\n\nAnota tudo o que entra e tudo o que sai por um mês, sem precisar de planilha bonita, porque quem não cuida do pouco não recebe o muito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18115251236110551",
+        "publicado_em": "2026-10-10T09:16:04.386364-03:00"
       },
       "facebook": {
         "legenda": "Você fala que vai organizar o dinheiro quando tiver mais?\n\nO livro Os Segredos da Mente Milionária diz que é o contrário: quando você organiza, começa a ter mais.\n\nAnota tudo o que entra e tudo o que sai por um mês, sem precisar de planilha bonita, porque quem não cuida do pouco não recebe o muito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1123622176712193",
+        "publicado_em": "2026-10-10T09:16:16.553387-03:00"
+      },
+      "concluido_em": "2026-10-10T09:16:16.564167-03:00"
     },
     {
       "id": "reel-20261022-1900-ae9236ecfa",
