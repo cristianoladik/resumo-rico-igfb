@@ -2504,6 +2504,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261209-85a9ee2676",
+      "data": "2026-12-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Babilonia 04 - Voce paga todo mundo.mp4",
+        "sha256": "85a9ee26760d354a5079b0b24916111c87b3645a863897bfc7f38c1837cda9a4",
+        "pacote": "Tamanho 1m00 - Babilonia 04 - Voce paga todo mundo",
+        "pacote_id": "story-85a9ee26760d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-85a9ee2676-Tamanho-1m00---Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-85a9ee2676-Tamanho-1m00---Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "sha256": "85a9ee26760d354a5079b0b24916111c87b3645a863897bfc7f38c1837cda9a4",
+            "tamanho_bytes": 17674101,
+            "duracao_segundos": 54.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
