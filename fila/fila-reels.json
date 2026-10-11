@@ -1686,7 +1686,7 @@
       "id": "reel-20261025-1100-fc4ce2a95e",
       "data": "2026-10-11",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 20 - Os 6 potes.mp4",
         "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd"
@@ -1699,12 +1699,17 @@
       },
       "instagram": {
         "legenda": "Entraram dois mil reais?\n\nO livro Os Segredos da Mente Milionária ensina a dividir em seis potes: necessidades, liberdade financeira, compras maiores, educação, diversão e doação.\n\nO pote da liberdade você só investe e nunca gasta, usando apenas o que ele rende.\n\nParece muito, mas pode começar com um real por pote.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17933447049402505",
+        "publicado_em": "2026-10-11T11:11:25.291697-03:00"
       },
       "facebook": {
         "legenda": "Entraram dois mil reais?\n\nO livro Os Segredos da Mente Milionária ensina a dividir em seis potes: necessidades, liberdade financeira, compras maiores, educação, diversão e doação.\n\nO pote da liberdade você só investe e nunca gasta, usando apenas o que ele rende.\n\nParece muito, mas pode começar com um real por pote.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1427527708709971",
+        "publicado_em": "2026-10-11T11:11:36.396901-03:00"
+      },
+      "concluido_em": "2026-10-11T11:11:36.407835-03:00"
     },
     {
       "id": "reel-20261025-1900-a3772d6f48",
