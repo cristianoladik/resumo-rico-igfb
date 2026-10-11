@@ -698,7 +698,7 @@
       "id": "story-20261011-1508107b88",
       "data": "2026-10-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
         "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7",
@@ -708,7 +708,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
@@ -717,13 +717,30 @@
             "duracao_segundos": 33.733
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18142528354534618",
+            "publish_iniciado_em": "2026-10-11T09:16:58-03:00",
+            "id": "17955145950270056",
+            "publicado_em": "2026-10-11T09:17:06-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1463584932544208",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-11T09:17:12-03:00",
+            "post_id_candidato": "3752597251562928",
+            "finish_em": "2026-10-11T09:17:16-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjM3NTI1OTcyNTQ4OTYyNjE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3752597251562928",
+            "publicado_em": "2026-10-11T09:17:52-03:00"
+          },
+          "concluido_em": "2026-10-11T09:17:52-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-11T09:17:52-03:00"
     },
     {
       "id": "story-20261012-1ce77807f1",
