@@ -2553,6 +2553,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261210-0c78a7917a",
+      "data": "2026-12-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 07 - Eu nao fumo.mp4",
+        "sha256": "0c78a7917a4bc51e9ed7fcb2cfbac464e4c2d0d23f5699380a2ba5c6212e0ca2",
+        "pacote": "Habitos Atomicos 07 - Eu nao fumo",
+        "pacote_id": "story-0c78a7917a4b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0c78a7917a-Habitos-Atomicos-07---Eu-nao-fumo.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-0c78a7917a-Habitos-Atomicos-07---Eu-nao-fumo.mp4",
+            "sha256": "0c78a7917a4bc51e9ed7fcb2cfbac464e4c2d0d23f5699380a2ba5c6212e0ca2",
+            "tamanho_bytes": 12288097,
+            "duracao_segundos": 44.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
