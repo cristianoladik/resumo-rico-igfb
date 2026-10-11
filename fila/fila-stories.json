@@ -714,7 +714,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1508107b88-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
             "sha256": "1508107b883d42a5fb93480ca2c4af58780e06050da3fed9a63d6a136eb73ac7",
             "tamanho_bytes": 11661774,
-            "duracao_segundos": 33.733
+            "duracao_segundos": 33.733,
+            "removido_da_release_em": "2026-10-11T09:17:54.979352-03:00"
           },
           "instagram": {
             "status": "publicado",
