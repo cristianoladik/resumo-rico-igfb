@@ -1746,7 +1746,7 @@
       "id": "reel-20261011-1700-7441996e8b",
       "data": "2026-10-11",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 01 - A tacada no rosto.mp4",
         "sha256": "7441996e8b865c8ed7583ac8011cc6d498af37c8b3294e40233a818931aa6729"
@@ -1759,12 +1759,17 @@
       },
       "instagram": {
         "legenda": "Um garoto levou uma tacada de beisebol bem no meio do rosto.\n\nNariz quebrado, crânio fraturado e as órbitas dos olhos esmagadas.\n\nEssa lição está no livro Hábitos Atômicos.\n\nSeis anos depois da tacada, foi eleito o melhor atleta da faculdade.\n\nE entrou numa lista da ESPN com só trinta e três atletas do país.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17947593171339354",
+        "publicado_em": "2026-10-11T19:11:00.237566-03:00"
       },
       "facebook": {
         "legenda": "Um garoto levou uma tacada de beisebol bem no meio do rosto.\n\nNariz quebrado, crânio fraturado e as órbitas dos olhos esmagadas.\n\nEssa lição está no livro Hábitos Atômicos.\n\nSeis anos depois da tacada, foi eleito o melhor atleta da faculdade.\n\nE entrou numa lista da ESPN com só trinta e três atletas do país.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1135894048973226",
+        "publicado_em": "2026-10-11T19:11:11.677728-03:00"
+      },
+      "concluido_em": "2026-10-11T19:11:11.688464-03:00"
     },
     {
       "id": "reel-20261011-2000-474b7f0058",
