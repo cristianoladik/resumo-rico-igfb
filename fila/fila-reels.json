@@ -1866,7 +1866,7 @@
       "id": "reel-20261012-1400-71c3435aae",
       "data": "2026-10-12",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "71c3435aae4641c78ffb638add4207e41e55ced8a47bbd6e032a1f4fd8efa5ff"
@@ -1879,12 +1879,17 @@
       },
       "instagram": {
         "legenda": "Trabalhou a vida inteira e a conta continua zerada?\n\nUm homem de milhares de anos atrás passou exatamente por isso.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE disse mais: tempo, todo mundo tem de sobra.\n\nVocês deixaram passar tempo suficiente pra ficar ricos.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18345971110248965",
+        "publicado_em": "2026-10-12T15:12:19.306513-03:00"
       },
       "facebook": {
         "legenda": "Trabalhou a vida inteira e a conta continua zerada?\n\nUm homem de milhares de anos atrás passou exatamente por isso.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE disse mais: tempo, todo mundo tem de sobra.\n\nVocês deixaram passar tempo suficiente pra ficar ricos.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1059714487068148",
+        "publicado_em": "2026-10-12T15:12:35.102978-03:00"
+      },
+      "concluido_em": "2026-10-12T15:12:35.112901-03:00"
     },
     {
       "id": "reel-20261012-1700-bd78b140cb",
