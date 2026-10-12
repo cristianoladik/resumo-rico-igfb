@@ -763,7 +763,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
             "sha256": "1ce77807f13477757e27715bad196c77079a312cb8e671ad184ff91824c652c7",
             "tamanho_bytes": 16519038,
-            "duracao_segundos": 36.333
+            "duracao_segundos": 36.333,
+            "removido_da_release_em": "2026-10-12T09:16:46.619378-03:00"
           },
           "instagram": {
             "status": "publicado",
