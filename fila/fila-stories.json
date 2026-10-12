@@ -2602,6 +2602,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261211-12356a3ad6",
+      "data": "2026-12-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Pai Rico 09 - A casa onde voce mora.mp4",
+        "sha256": "12356a3ad6a627183b4e190da9d146b315104e2736ab645cbdb1a4abf443522f",
+        "pacote": "Tamanho 1m00 - Pai Rico 09 - A casa onde voce mora",
+        "pacote_id": "story-12356a3ad6a6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-12356a3ad6-Tamanho-1m00---Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-12356a3ad6-Tamanho-1m00---Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "sha256": "12356a3ad6a627183b4e190da9d146b315104e2736ab645cbdb1a4abf443522f",
+            "tamanho_bytes": 21230679,
+            "duracao_segundos": 56.267
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
