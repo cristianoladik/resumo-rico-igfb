@@ -747,7 +747,7 @@
       "id": "story-20261012-1ce77807f1",
       "data": "2026-10-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "1ce77807f13477757e27715bad196c77079a312cb8e671ad184ff91824c652c7",
@@ -757,7 +757,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-1ce77807f1-Babilonia-06---Emprestar-pra-parente.mp4",
@@ -766,13 +766,30 @@
             "duracao_segundos": 36.333
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18142813816534618",
+            "publish_iniciado_em": "2026-10-12T09:15:47-03:00",
+            "id": "18122720840293468",
+            "publicado_em": "2026-10-12T09:15:53-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1099487946305638",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-12T09:16:01-03:00",
+            "post_id_candidato": "902884192908665",
+            "finish_em": "2026-10-12T09:16:06-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjkwMjg4NDE5OTU3NTMzMQ==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "902884192908665",
+            "publicado_em": "2026-10-12T09:16:44-03:00"
+          },
+          "concluido_em": "2026-10-12T09:16:44-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-12T09:16:44-03:00"
     },
     {
       "id": "story-20261013-140ae6d95a",
