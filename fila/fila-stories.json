@@ -2651,6 +2651,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261212-915cb81091",
+      "data": "2026-12-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 08 - Cada habito e um voto.mp4",
+        "sha256": "915cb81091a876d4fd0cedbb4fc64a72580f7d23ee6681afcf74c763d9a0eba8",
+        "pacote": "Habitos Atomicos 08 - Cada habito e um voto",
+        "pacote_id": "story-915cb81091a8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-915cb81091-Habitos-Atomicos-08---Cada-habito-e-um-voto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-915cb81091-Habitos-Atomicos-08---Cada-habito-e-um-voto.mp4",
+            "sha256": "915cb81091a876d4fd0cedbb4fc64a72580f7d23ee6681afcf74c763d9a0eba8",
+            "tamanho_bytes": 11612643,
+            "duracao_segundos": 38.5
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
