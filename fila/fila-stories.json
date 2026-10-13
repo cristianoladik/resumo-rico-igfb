@@ -812,7 +812,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
             "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4",
             "tamanho_bytes": 10047350,
-            "duracao_segundos": 31.4
+            "duracao_segundos": 31.4,
+            "removido_da_release_em": "2026-10-13T09:18:29.459407-03:00"
           },
           "instagram": {
             "status": "publicado",
