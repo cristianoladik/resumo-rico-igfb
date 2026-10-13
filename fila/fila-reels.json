@@ -2016,7 +2016,7 @@
       "id": "reel-20261013-1400-dd7fdaf350",
       "data": "2026-10-13",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Pai Rico 06 - Corrida dos ratos.mp4",
         "sha256": "dd7fdaf350e0de70eb492654299be0bddc67428f63c7ad55834440a7191627ba"
@@ -2029,12 +2029,17 @@
       },
       "instagram": {
         "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18105689252627227",
+        "publicado_em": "2026-10-13T15:54:14.407801-03:00"
       },
       "facebook": {
         "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1386256911244119",
+        "publicado_em": "2026-10-13T15:54:32.571575-03:00"
+      },
+      "concluido_em": "2026-10-13T15:54:32.578692-03:00"
     },
     {
       "id": "reel-20261013-1700-c5fb541315",
