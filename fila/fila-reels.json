@@ -1956,7 +1956,7 @@
       "id": "reel-20261013-0800-67f1a72551",
       "data": "2026-10-13",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 02 - O 1 por cento e as 37 vezes.mp4",
         "sha256": "67f1a725511f9cfe963e4e83aff9300c08a3decbb229d79df6869b937b180e7e"
@@ -1969,12 +1969,17 @@
       },
       "instagram": {
         "legenda": "Melhorar só um por cento por dia muda a sua vida.\n\nParece exagero?\n\nOlha a conta.\n\nEssa lição está no livro Hábitos Atômicos.\n\nPensa no seu dinheiro: dez reais por dia parece pouco.\n\nMas vira três mil seiscentos e cinquenta reais no fim do ano, sem juro nenhum.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18038727374843248",
+        "publicado_em": "2026-10-13T09:16:22.816469-03:00"
       },
       "facebook": {
         "legenda": "Melhorar só um por cento por dia muda a sua vida.\n\nParece exagero?\n\nOlha a conta.\n\nEssa lição está no livro Hábitos Atômicos.\n\nPensa no seu dinheiro: dez reais por dia parece pouco.\n\nMas vira três mil seiscentos e cinquenta reais no fim do ano, sem juro nenhum.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1132264876156889",
+        "publicado_em": "2026-10-13T09:16:35.932685-03:00"
+      },
+      "concluido_em": "2026-10-13T09:16:35.941601-03:00"
     },
     {
       "id": "reel-20261013-1100-f28dbe420e",
