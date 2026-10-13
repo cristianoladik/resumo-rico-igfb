@@ -1926,7 +1926,7 @@
       "id": "reel-20261012-2000-cdc80eaab4",
       "data": "2026-10-12",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "cdc80eaab46cf67dca3a93b5596a7b3dae893e8d3be42f29ac4e61c06fee3864"
@@ -1939,12 +1939,17 @@
       },
       "instagram": {
         "legenda": "Ele investiu certinho e o dinheiro rendeu.\n\nE mesmo assim, o mestre dele deu risada.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nPrimeiro monta um exército de moedas trabalhando.\n\nDepois, faz festa à vontade.\n\nDois anos depois, o dinheiro dele rendia, e o rendimento rendia de novo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18053448629591104",
+        "publicado_em": "2026-10-12T21:43:14.691920-03:00"
       },
       "facebook": {
         "legenda": "Ele investiu certinho e o dinheiro rendeu.\n\nE mesmo assim, o mestre dele deu risada.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nPrimeiro monta um exército de moedas trabalhando.\n\nDepois, faz festa à vontade.\n\nDois anos depois, o dinheiro dele rendia, e o rendimento rendia de novo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1137015422606675",
+        "publicado_em": "2026-10-12T21:43:28.275447-03:00"
+      },
+      "concluido_em": "2026-10-12T21:43:28.286274-03:00"
     },
     {
       "id": "reel-20261013-0800-67f1a72551",
