@@ -2046,7 +2046,7 @@
       "id": "reel-20261013-1700-c5fb541315",
       "data": "2026-10-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "c5fb541315b49d5bf3a2f7d233bd3800b5538b27b4b7d42446c6ae96e07f7c4c"
@@ -2059,12 +2059,17 @@
       },
       "instagram": {
         "legenda": "O homem mais rico da Babilônia começou sem nada.\n\nSem herança, sem dinheiro, sem nenhuma vantagem.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nPorque todo dia entra um a mais do que sai.\n\nÉ a mesma coisa com a sua bolsa.\n\nEntram dez, saem no máximo nove.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18106312078976366",
+        "publicado_em": "2026-10-13T17:09:33.086934-03:00"
       },
       "facebook": {
         "legenda": "O homem mais rico da Babilônia começou sem nada.\n\nSem herança, sem dinheiro, sem nenhuma vantagem.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nPorque todo dia entra um a mais do que sai.\n\nÉ a mesma coisa com a sua bolsa.\n\nEntram dez, saem no máximo nove.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2416458932215199",
+        "publicado_em": "2026-10-13T17:09:50.149093-03:00"
+      },
+      "concluido_em": "2026-10-13T17:09:50.158520-03:00"
     },
     {
       "id": "reel-20261013-2000-8dfce2a2ac",
