@@ -796,7 +796,7 @@
       "id": "story-20261013-140ae6d95a",
       "data": "2026-10-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 06 - Querer x se comprometer.mp4",
         "sha256": "140ae6d95a2ea4eb8684286088b741e1a5eca8ba52f16a81d6ebddf81ab67cc4",
@@ -806,7 +806,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-140ae6d95a-Mente-Milionaria-06---Querer-x-se-comprometer.mp4",
@@ -815,13 +815,30 @@
             "duracao_segundos": 31.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143116348534618",
+            "publish_iniciado_em": "2026-10-13T09:17:27-03:00",
+            "id": "18416404873087304",
+            "publicado_em": "2026-10-13T09:17:37-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2742270016167698",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-13T09:17:44-03:00",
+            "post_id_candidato": "2842313232821767",
+            "finish_em": "2026-10-13T09:17:50-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjI4NDIzMTMyMzk0ODg0MzM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2842313232821767",
+            "publicado_em": "2026-10-13T09:18:26-03:00"
+          },
+          "concluido_em": "2026-10-13T09:18:26-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-13T09:18:26-03:00"
     },
     {
       "id": "story-20261014-607f3f11f9",
