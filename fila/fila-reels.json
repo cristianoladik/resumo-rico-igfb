@@ -2115,7 +2115,8 @@
         "asset": "reel-63908b756d-Tamanho-1m30---Pai-Rico-08---Ativo-x-passivo.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-63908b756d-Tamanho-1m30---Pai-Rico-08---Ativo-x-passivo.mp4",
         "sha256": "63908b756d4a838afd598eee4f94d9fe34e20fb37874103d9fa20ae899096aa4",
-        "tamanho_bytes": 28745460
+        "tamanho_bytes": 28745460,
+        "removido_da_release_em": "2026-10-14T08:46:00.104221-03:00"
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEla cobra parcela, imposto, luz e manutenção todo mês.\n\nCompra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
