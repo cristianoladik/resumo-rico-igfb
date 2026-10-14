@@ -861,7 +861,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
             "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0",
             "tamanho_bytes": 11316285,
-            "duracao_segundos": 30.8
+            "duracao_segundos": 30.8,
+            "removido_da_release_em": "2026-10-14T09:17:02.981469-03:00"
           },
           "instagram": {
             "status": "publicado",
