@@ -845,7 +845,7 @@
       "id": "story-20261014-607f3f11f9",
       "data": "2026-10-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
         "sha256": "607f3f11f96b35dc862e893f0f96727b5ee4d3282b65ddc807ea502eaa8a76c0",
@@ -855,7 +855,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-607f3f11f9-Pai-Rico-06---Corrida-dos-ratos.mp4",
@@ -864,13 +864,30 @@
             "duracao_segundos": 30.8
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143407525534618",
+            "publish_iniciado_em": "2026-10-14T09:16:04-03:00",
+            "id": "17963845698207185",
+            "publicado_em": "2026-10-14T09:16:11-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1391219606118422",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-14T09:16:18-03:00",
+            "post_id_candidato": "1111659298402020",
+            "finish_em": "2026-10-14T09:16:23-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMTE2NTkzMDUwNjg2ODY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1111659298402020",
+            "publicado_em": "2026-10-14T09:17:00-03:00"
+          },
+          "concluido_em": "2026-10-14T09:17:00-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-14T09:17:00-03:00"
     },
     {
       "id": "story-20261015-dd9fbb49c7",
