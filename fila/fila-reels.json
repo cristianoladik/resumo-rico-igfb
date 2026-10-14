@@ -2196,7 +2196,7 @@
       "id": "reel-20261014-1700-b0a54d905e",
       "data": "2026-10-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 03 - O ciclismo britanico.mp4",
         "sha256": "b0a54d905eb0c380aac8969f8554b321ab9f5bd9b9bd15fc2a5e23b1b28eb156"
@@ -2209,12 +2209,17 @@
       },
       "instagram": {
         "legenda": "Por cerca de cem anos, o ciclismo da Inglaterra quase não ganhou nada.\n\nUma fábrica até se recusou a vender bicicleta pro time.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE um britânico venceu o Tour de France pela primeira vez.\n\nFoi a soma de tudo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131222956813816",
+        "publicado_em": "2026-10-14T19:00:13.157244-03:00"
       },
       "facebook": {
         "legenda": "Por cerca de cem anos, o ciclismo da Inglaterra quase não ganhou nada.\n\nUma fábrica até se recusou a vender bicicleta pro time.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE um britânico venceu o Tour de France pela primeira vez.\n\nFoi a soma de tudo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1764564058145710",
+        "publicado_em": "2026-10-14T19:00:24.667099-03:00"
+      },
+      "concluido_em": "2026-10-14T19:00:24.678657-03:00"
     },
     {
       "id": "reel-20261014-2000-60e1de6a8b",
