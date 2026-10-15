@@ -2226,7 +2226,7 @@
       "id": "reel-20261014-2000-60e1de6a8b",
       "data": "2026-10-14",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "60e1de6a8b628e7e9a191a48a6982db26a0d41851dd13f3854eb53c06d1bb135"
@@ -2239,12 +2239,17 @@
       },
       "instagram": {
         "legenda": "Seu parente pediu dinheiro emprestado?\n\nEsse livro tem um conselho de cem anos pra você.\n\nNão arrisca o que você levou anos pra juntar.\n\nE a frase da caixa: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18411719419089916",
+        "publicado_em": "2026-10-14T21:20:48.003126-03:00"
       },
       "facebook": {
         "legenda": "Seu parente pediu dinheiro emprestado?\n\nEsse livro tem um conselho de cem anos pra você.\n\nNão arrisca o que você levou anos pra juntar.\n\nE a frase da caixa: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1910787489939401",
+        "publicado_em": "2026-10-14T21:21:03.707030-03:00"
+      },
+      "concluido_em": "2026-10-14T21:21:03.718340-03:00"
     },
     {
       "id": "reel-20261015-0800-4ee77eed1f",
