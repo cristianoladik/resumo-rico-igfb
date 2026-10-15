@@ -894,7 +894,7 @@
       "id": "story-20261015-dd9fbb49c7",
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
         "sha256": "dd9fbb49c7a3ef3f28be0e66c3d588a304f99ebf92c14b829aa1ca95039eba61",
@@ -904,7 +904,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
@@ -913,13 +913,30 @@
             "duracao_segundos": 32.467
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143722414534618",
+            "publish_iniciado_em": "2026-10-15T09:16:29-03:00",
+            "id": "17949909438343201",
+            "publicado_em": "2026-10-15T09:16:38-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2144895233066981",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-15T09:16:44-03:00",
+            "post_id_candidato": "1638403141279853",
+            "finish_em": "2026-10-15T09:16:50-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE2Mzg0MDMxNDc5NDY1MTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1638403141279853",
+            "publicado_em": "2026-10-15T09:17:27-03:00"
+          },
+          "concluido_em": "2026-10-15T09:17:27-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-15T09:17:27-03:00"
     },
     {
       "id": "story-20261016-9975526fc2",
