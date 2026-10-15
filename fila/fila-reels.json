@@ -2376,7 +2376,7 @@
       "id": "reel-20261015-2000-039b634a3f",
       "data": "2026-10-15",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 04 - O aviao de 3 graus e meio.mp4",
         "sha256": "039b634a3fa651897d7e8de56c65f143192f93d579192aeda1d95f4947cca74d"
@@ -2389,12 +2389,17 @@
       },
       "instagram": {
         "legenda": "Um avião sai de Los Angeles rumo a Nova York.\n\nO piloto muda a direção em só três graus e meio.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE um hábito bom pequeno te leva pra um lugar muito melhor.\n\nEntão olha pra onde a sua rotina de hoje tá apontando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18144969208583168",
+        "publicado_em": "2026-10-15T20:55:49.073929-03:00"
       },
       "facebook": {
         "legenda": "Um avião sai de Los Angeles rumo a Nova York.\n\nO piloto muda a direção em só três graus e meio.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE um hábito bom pequeno te leva pra um lugar muito melhor.\n\nEntão olha pra onde a sua rotina de hoje tá apontando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1093324387002741",
+        "publicado_em": "2026-10-15T20:56:00.091638-03:00"
+      },
+      "concluido_em": "2026-10-15T20:56:00.101849-03:00"
     },
     {
       "id": "reel-20261016-0800-df38de7cfb",
