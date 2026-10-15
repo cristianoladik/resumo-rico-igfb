@@ -2718,6 +2718,68 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261213-f66a95943e",
+      "data": "2026-12-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Mente Milionaria 16 - Salario tem teto.mp4",
+        "sha256": "f66a95943e08d1eb5839bc185061e35e67c523e5d129c30eb341f323d8ca7a79",
+        "pacote": "Tamanho 1m00 - Mente Milionaria 16 - Salario tem teto",
+        "pacote_id": "story-f66a95943e08"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f66a95943e-Tamanho-1m00---Mente-Milionaria-16---Salario-tem-teto.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f66a95943e-Tamanho-1m00---Mente-Milionaria-16---Salario-tem-teto.mp4",
+            "sha256": "f66a95943e08d1eb5839bc185061e35e67c523e5d129c30eb341f323d8ca7a79",
+            "tamanho_bytes": 18453408,
+            "duracao_segundos": 55.367
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261214-4020b56b2d",
+      "data": "2026-12-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 09 - Os gatos do Thorndike.mp4",
+        "sha256": "4020b56b2de7e1f09cf17da7f77540cd21589bf821872aa644fbed30c4a4660e",
+        "pacote": "Habitos Atomicos 09 - Os gatos do Thorndike",
+        "pacote_id": "story-4020b56b2de7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4020b56b2d-Habitos-Atomicos-09---Os-gatos-do-Thorndike.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-4020b56b2d-Habitos-Atomicos-09---Os-gatos-do-Thorndike.mp4",
+            "sha256": "4020b56b2de7e1f09cf17da7f77540cd21589bf821872aa644fbed30c4a4660e",
+            "tamanho_bytes": 14068132,
+            "duracao_segundos": 45.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
