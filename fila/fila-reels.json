@@ -2286,7 +2286,7 @@
       "id": "reel-20261015-1100-ff37f6a17a",
       "data": "2026-10-15",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Pai Rico 13 - O negocio de quem.mp4",
         "sha256": "ff37f6a17a2aeca4cdcbb101e4b4afe257cb4ce2d7ed448625c316675e92e5e3"
@@ -2299,12 +2299,17 @@
       },
       "instagram": {
         "legenda": "O seu emprego não é o seu negócio.\n\nÉ o negócio do seu patrão.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nO emprego paga as contas de hoje.\n\nOs ativos pagam as de amanhã.\n\nEntão me responde: quantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18133531825663057",
+        "publicado_em": "2026-10-15T11:11:34.063440-03:00"
       },
       "facebook": {
         "legenda": "O seu emprego não é o seu negócio.\n\nÉ o negócio do seu patrão.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nO emprego paga as contas de hoje.\n\nOs ativos pagam as de amanhã.\n\nEntão me responde: quantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1038587102531329",
+        "publicado_em": "2026-10-15T11:11:44.513788-03:00"
+      },
+      "concluido_em": "2026-10-15T11:11:44.525526-03:00"
     },
     {
       "id": "reel-20261015-1400-8cd6c99a52",
