@@ -910,7 +910,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-dd9fbb49c7-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
             "sha256": "dd9fbb49c7a3ef3f28be0e66c3d588a304f99ebf92c14b829aa1ca95039eba61",
             "tamanho_bytes": 9750175,
-            "duracao_segundos": 32.467
+            "duracao_segundos": 32.467,
+            "removido_da_release_em": "2026-10-15T09:17:30.605039-03:00"
           },
           "instagram": {
             "status": "publicado",
