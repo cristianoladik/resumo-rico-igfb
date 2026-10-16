@@ -2798,6 +2798,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261215-fcd15af2fc",
+      "data": "2026-12-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Babilonia 17 - As 5 leis do ouro.mp4",
+        "sha256": "fcd15af2fc0578241d4e015addb98bdc8721eef8dc5b7d1e52cf59255b38784f",
+        "pacote": "Tamanho 1m00 - Babilonia 17 - As 5 leis do ouro",
+        "pacote_id": "story-fcd15af2fc05"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-fcd15af2fc-Tamanho-1m00---Babilonia-17---As-5-leis-do-ouro.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-fcd15af2fc-Tamanho-1m00---Babilonia-17---As-5-leis-do-ouro.mp4",
+            "sha256": "fcd15af2fc0578241d4e015addb98bdc8721eef8dc5b7d1e52cf59255b38784f",
+            "tamanho_bytes": 14555225,
+            "duracao_segundos": 54.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
