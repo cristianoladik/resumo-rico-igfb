@@ -943,7 +943,7 @@
       "id": "story-20261016-9975526fc2",
       "data": "2026-10-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
         "sha256": "9975526fc2f600d02e2499e6733827c64c52d2eae33a74d8fbdb402367f7149e",
@@ -953,7 +953,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
@@ -962,13 +962,30 @@
             "duracao_segundos": 38.267
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18144056563534618",
+            "publish_iniciado_em": "2026-10-16T09:16:14-03:00",
+            "id": "18189942148406614",
+            "publicado_em": "2026-10-16T09:16:28-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1407699714332561",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-16T09:16:36-03:00",
+            "post_id_candidato": "2053187692069115",
+            "finish_em": "2026-10-16T09:16:40-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIwNTMxODc2OTU0MDI0NDg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2053187692069115",
+            "publicado_em": "2026-10-16T09:17:17-03:00"
+          },
+          "concluido_em": "2026-10-16T09:17:17-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-16T09:17:17-03:00"
     },
     {
       "id": "story-20261017-46d4f267bf",
