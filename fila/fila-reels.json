@@ -2406,7 +2406,7 @@
       "id": "reel-20261016-0800-df38de7cfb",
       "data": "2026-10-16",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 14 - A sorte.mp4",
         "sha256": "df38de7cfb0e334964fe40abfcc54da2cb4a191ca856101470ad644468a88512"
@@ -2419,12 +2419,17 @@
       },
       "instagram": {
         "legenda": "Tem uma coisa que espanta a sorte mais que qualquer azar.\n\nE quase todo mundo faz isso toda semana.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAs duas chances fugiram pelo mesmo motivo: deixar pra depois.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17911608153505100",
+        "publicado_em": "2026-10-16T08:16:31.460592-03:00"
       },
       "facebook": {
         "legenda": "Tem uma coisa que espanta a sorte mais que qualquer azar.\n\nE quase todo mundo faz isso toda semana.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAs duas chances fugiram pelo mesmo motivo: deixar pra depois.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1659192332910755",
+        "publicado_em": "2026-10-16T08:16:44.810155-03:00"
+      },
+      "concluido_em": "2026-10-16T08:16:44.817694-03:00"
     },
     {
       "id": "reel-20261016-1100-bd5ee7a855",
