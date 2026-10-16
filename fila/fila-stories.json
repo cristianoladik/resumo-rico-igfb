@@ -959,7 +959,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9975526fc2-Mente-Milionaria-07---Conta-de-padeiro.mp4",
             "sha256": "9975526fc2f600d02e2499e6733827c64c52d2eae33a74d8fbdb402367f7149e",
             "tamanho_bytes": 13750398,
-            "duracao_segundos": 38.267
+            "duracao_segundos": 38.267,
+            "removido_da_release_em": "2026-10-16T09:17:20.173813-03:00"
           },
           "instagram": {
             "status": "publicado",
