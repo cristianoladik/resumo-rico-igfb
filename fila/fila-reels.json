@@ -2556,7 +2556,7 @@
       "id": "reel-20261017-0800-cd9e18a41b",
       "data": "2026-10-17",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "cd9e18a41b3e4c79df2830673f22052cd82456dbcb3aacd9c9174ea87745ae3b"
@@ -2569,12 +2569,17 @@
       },
       "instagram": {
         "legenda": "Três homens acorrentados.\n\nUm fugia do trabalho.\n\nUm tinha raiva de todo mundo.\n\nUm gostava de trabalhar.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO neto tirou os anéis e foi trabalhar.\n\nQuem trata o trabalho como inimigo sofre com ele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18340999060273462",
+        "publicado_em": "2026-10-17T09:17:21.696895-03:00"
       },
       "facebook": {
         "legenda": "Três homens acorrentados.\n\nUm fugia do trabalho.\n\nUm tinha raiva de todo mundo.\n\nUm gostava de trabalhar.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO neto tirou os anéis e foi trabalhar.\n\nQuem trata o trabalho como inimigo sofre com ele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2003385233613614",
+        "publicado_em": "2026-10-17T09:17:35.905857-03:00"
+      },
+      "concluido_em": "2026-10-17T09:17:35.917604-03:00"
     },
     {
       "id": "reel-20261017-1100-59940df5f7",
