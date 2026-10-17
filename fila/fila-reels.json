@@ -2676,7 +2676,7 @@
       "id": "reel-20261017-2000-a1ea4df0ae",
       "data": "2026-10-17",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Mente Milionaria 01 - Termostato do dinheiro.mp4",
         "sha256": "a1ea4df0ae1cd4417ed08d4a8d73ca49ccec8da19e209655fe7a17a8e61443b2"
@@ -2689,12 +2689,17 @@
       },
       "instagram": {
         "legenda": "Por que quem ganha na loteria, poucos anos depois, tá sem nada?\n\nNão é azar e não é falta de sorte.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO dinheiro novo some igual ao da loteria.\n\nEntão, papo reto: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18111992894627952",
+        "publicado_em": "2026-10-17T20:02:45.392034-03:00"
       },
       "facebook": {
         "legenda": "Por que quem ganha na loteria, poucos anos depois, tá sem nada?\n\nNão é azar e não é falta de sorte.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO dinheiro novo some igual ao da loteria.\n\nEntão, papo reto: antes de ganhar mais, regula o termostato.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4572076376415439",
+        "publicado_em": "2026-10-17T20:02:57.024103-03:00"
+      },
+      "concluido_em": "2026-10-17T20:02:57.035978-03:00"
     },
     {
       "id": "reel-20261018-0800-f66506023f",
