@@ -2586,7 +2586,7 @@
       "id": "reel-20261017-1100-59940df5f7",
       "data": "2026-10-17",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 05 - O cubo de gelo.mp4",
         "sha256": "59940df5f7c5330709085153490ab7c1dd79b62256380bed19816d618d85c8ed"
@@ -2599,12 +2599,17 @@
       },
       "instagram": {
         "legenda": "Você faz tudo certo e o resultado não aparece?\n\nO livro Hábitos Atômicos explica isso com um cubo de gelo.\n\nNa batida seguinte, a pedra parte ao meio.\n\nNão foi a última batida.\n\nForam as cem que vieram antes.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18432895447176831",
+        "publicado_em": "2026-10-17T11:11:21.276692-03:00"
       },
       "facebook": {
         "legenda": "Você faz tudo certo e o resultado não aparece?\n\nO livro Hábitos Atômicos explica isso com um cubo de gelo.\n\nNa batida seguinte, a pedra parte ao meio.\n\nNão foi a última batida.\n\nForam as cem que vieram antes.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1108763068438201",
+        "publicado_em": "2026-10-17T11:11:38.586014-03:00"
+      },
+      "concluido_em": "2026-10-17T11:11:38.597886-03:00"
     },
     {
       "id": "reel-20261017-1400-d0961ca2e0",
