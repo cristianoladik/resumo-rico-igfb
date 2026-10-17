@@ -1008,7 +1008,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
             "sha256": "46d4f267bf0ddb404203855d925a78efd034901d4708f130ece8909387291aa7",
             "tamanho_bytes": 15012682,
-            "duracao_segundos": 33.6
+            "duracao_segundos": 33.6,
+            "removido_da_release_em": "2026-10-17T09:19:42.747280-03:00"
           },
           "instagram": {
             "status": "publicado",
