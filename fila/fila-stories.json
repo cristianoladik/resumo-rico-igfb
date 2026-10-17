@@ -992,7 +992,7 @@
       "id": "story-20261017-46d4f267bf",
       "data": "2026-10-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 07 - O aumento que some.mp4",
         "sha256": "46d4f267bf0ddb404203855d925a78efd034901d4708f130ece8909387291aa7",
@@ -1002,7 +1002,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-46d4f267bf-Pai-Rico-07---O-aumento-que-some.mp4",
@@ -1011,13 +1011,30 @@
             "duracao_segundos": 33.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18144399109534618",
+            "publish_iniciado_em": "2026-10-17T09:18:42-03:00",
+            "id": "17913661932285873",
+            "publicado_em": "2026-10-17T09:18:51-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2265005517374285",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-17T09:18:59-03:00",
+            "post_id_candidato": "1415873293441511",
+            "finish_em": "2026-10-17T09:19:04-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE0MTU4NzMyOTY3NzQ4NDQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1415873293441511",
+            "publicado_em": "2026-10-17T09:19:40-03:00"
+          },
+          "concluido_em": "2026-10-17T09:19:40-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-17T09:19:40-03:00"
     },
     {
       "id": "story-20261018-7d8911ff36",
