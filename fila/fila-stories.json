@@ -2847,6 +2847,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261216-2fa3386ece",
+      "data": "2026-12-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 10 - Os trens do Japao.mp4",
+        "sha256": "2fa3386ecece49b9a61c92f0c16a376dbfb8107ad244ef161f47befb28a23b8d",
+        "pacote": "Habitos Atomicos 10 - Os trens do Japao",
+        "pacote_id": "story-2fa3386ecece"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-2fa3386ece-Habitos-Atomicos-10---Os-trens-do-Japao.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-2fa3386ece-Habitos-Atomicos-10---Os-trens-do-Japao.mp4",
+            "sha256": "2fa3386ecece49b9a61c92f0c16a376dbfb8107ad244ef161f47befb28a23b8d",
+            "tamanho_bytes": 12648452,
+            "duracao_segundos": 41.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
