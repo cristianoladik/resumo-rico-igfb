@@ -2526,7 +2526,7 @@
       "id": "reel-20261016-2000-2001680166",
       "data": "2026-10-16",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Pai Rico 19 - Paga voce primeiro.mp4",
         "sha256": "200168016673a0e57d652bc0f202d9eb2a183e2aa89f6576bc401e0d39ea69fb"
@@ -2539,12 +2539,17 @@
       },
       "instagram": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nUma dica minha: começa com pouco, mas começa esse mês.\n\nQuem espera sobrar nunca investe.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18135547102676735",
+        "publicado_em": "2026-10-16T21:13:28.479288-03:00"
       },
       "facebook": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nUma dica minha: começa com pouco, mas começa esse mês.\n\nQuem espera sobrar nunca investe.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1445871280812389",
+        "publicado_em": "2026-10-16T21:13:44.189816-03:00"
+      },
+      "concluido_em": "2026-10-16T21:13:44.199484-03:00"
     },
     {
       "id": "reel-20261017-0800-cd9e18a41b",
