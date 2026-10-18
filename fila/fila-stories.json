@@ -1041,7 +1041,7 @@
       "id": "story-20261018-7d8911ff36",
       "data": "2026-10-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
         "sha256": "7d8911ff367f049d61fc589f58860046d0e17f7455e4c8621ccb2d1cc7fb3ea3",
@@ -1051,7 +1051,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
@@ -1060,13 +1060,30 @@
             "duracao_segundos": 34.733
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18144727243534618",
+            "publish_iniciado_em": "2026-10-18T09:02:27-03:00",
+            "id": "18285099481292778",
+            "publicado_em": "2026-10-18T09:02:35-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1137523935475519",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-18T09:02:43-03:00",
+            "post_id_candidato": "5397788030446840",
+            "finish_em": "2026-10-18T09:02:48-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjUzOTc3ODgwNDA0NDY4Mzk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "5397788030446840",
+            "publicado_em": "2026-10-18T09:03:25-03:00"
+          },
+          "concluido_em": "2026-10-18T09:03:25-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-18T09:03:25-03:00"
     },
     {
       "id": "story-20261019-a6b08e3f70",
