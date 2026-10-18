@@ -1057,7 +1057,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7d8911ff36-Babilonia-08---Moeda-funcionaria.mp4",
             "sha256": "7d8911ff367f049d61fc589f58860046d0e17f7455e4c8621ccb2d1cc7fb3ea3",
             "tamanho_bytes": 14683350,
-            "duracao_segundos": 34.733
+            "duracao_segundos": 34.733,
+            "removido_da_release_em": "2026-10-18T09:03:28.180494-03:00"
           },
           "instagram": {
             "status": "publicado",
