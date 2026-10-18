@@ -2736,7 +2736,7 @@
       "id": "reel-20261018-1100-27f190a8ca",
       "data": "2026-10-18",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "27f190a8ca9a59538c77eacde7282fe6c2bfd2eabf29494f0281b1cd8369bc90"
@@ -2749,12 +2749,17 @@
       },
       "instagram": {
         "legenda": "Por que a gente trabalha tanto e nunca sobra nada?\n\nEssa pergunta foi feita há milhares de anos, numa cidade cheia de ouro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNão era falta de trabalho.\n\nEra falta de aprender as regras do dinheiro.\n\nOs dois foram atrás do Arkad naquele mesmo dia, e levaram outros amigos junto.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18116884841090505",
+        "publicado_em": "2026-10-18T11:11:56.789071-03:00"
       },
       "facebook": {
         "legenda": "Por que a gente trabalha tanto e nunca sobra nada?\n\nEssa pergunta foi feita há milhares de anos, numa cidade cheia de ouro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNão era falta de trabalho.\n\nEra falta de aprender as regras do dinheiro.\n\nOs dois foram atrás do Arkad naquele mesmo dia, e levaram outros amigos junto.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "962698300224562",
+        "publicado_em": "2026-10-18T11:12:11.174868-03:00"
+      },
+      "concluido_em": "2026-10-18T11:12:11.186928-03:00"
     },
     {
       "id": "reel-20261018-1400-d14f977d76",
