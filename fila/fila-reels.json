@@ -2715,7 +2715,8 @@
         "asset": "reel-f66506023f-Tamanho-2m30---Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-f66506023f-Tamanho-2m30---Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
         "sha256": "f66506023fadb0ce9d05b889c3860f7cb39adab34c280feebeff445c976296cf",
-        "tamanho_bytes": 48233281
+        "tamanho_bytes": 48233281,
+        "removido_da_release_em": "2026-10-18T09:16:43.263961-03:00"
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Você já ouviu isso, né?\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEntão, o conselho pra usar no lugar é esse.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
