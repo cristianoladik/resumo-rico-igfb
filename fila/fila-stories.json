@@ -2896,6 +2896,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261217-b40e3d71a5",
+      "data": "2026-12-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Pai Rico 20 - O que trava as pessoas.mp4",
+        "sha256": "b40e3d71a5b6fe2f757ae79f71852e0982679372248e6ef08aad19f1f2bb913a",
+        "pacote": "Tamanho 1m00 - Pai Rico 20 - O que trava as pessoas",
+        "pacote_id": "story-b40e3d71a5b6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b40e3d71a5-Tamanho-1m00---Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b40e3d71a5-Tamanho-1m00---Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "sha256": "b40e3d71a5b6fe2f757ae79f71852e0982679372248e6ef08aad19f1f2bb913a",
+            "tamanho_bytes": 14478976,
+            "duracao_segundos": 54.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
