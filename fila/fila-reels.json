@@ -2796,7 +2796,7 @@
       "id": "reel-20261018-1700-393af7ccac",
       "data": "2026-10-18",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 06 - Sistemas x metas.mp4",
         "sha256": "393af7ccacb61943f4a1ccfd13fd1d99d215a2ef07447dfa07a98ede158fb6e6"
@@ -2809,12 +2809,17 @@
       },
       "instagram": {
         "legenda": "Quer chegar longe?\n\nEsquece um pouco a meta.\n\nParece loucura, mas o livro Hábitos Atômicos defende isso.\n\nVocê cai até o nível dos seus sistemas.\n\nCuida do processo, que o resultado vem como consequência.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18391083535226002",
+        "publicado_em": "2026-10-18T18:27:42.777170-03:00"
       },
       "facebook": {
         "legenda": "Quer chegar longe?\n\nEsquece um pouco a meta.\n\nParece loucura, mas o livro Hábitos Atômicos defende isso.\n\nVocê cai até o nível dos seus sistemas.\n\nCuida do processo, que o resultado vem como consequência.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1124573580530556",
+        "publicado_em": "2026-10-18T18:27:54.991811-03:00"
+      },
+      "concluido_em": "2026-10-18T18:27:55.001767-03:00"
     },
     {
       "id": "reel-20261018-2000-2a02368b27",
