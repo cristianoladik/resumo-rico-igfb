@@ -2916,7 +2916,7 @@
       "id": "reel-20261019-1400-85a9ee2676",
       "data": "2026-10-19",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "85a9ee26760d354a5079b0b24916111c87b3645a863897bfc7f38c1837cda9a4"
@@ -2929,12 +2929,17 @@
       },
       "instagram": {
         "legenda": "Aluguel, mercado, cartão.\n\nVocê paga todo mundo.\n\nMenos uma pessoa.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nEntão se paga primeiro.\n\nPelo menos dez por cento, antes de qualquer conta.\n\nVocê é a primeira conta do mês.\n\nNão a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17988257685073646",
+        "publicado_em": "2026-10-19T15:21:52.022123-03:00"
       },
       "facebook": {
         "legenda": "Aluguel, mercado, cartão.\n\nVocê paga todo mundo.\n\nMenos uma pessoa.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nEntão se paga primeiro.\n\nPelo menos dez por cento, antes de qualquer conta.\n\nVocê é a primeira conta do mês.\n\nNão a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1588837539051671",
+        "publicado_em": "2026-10-19T15:22:02.044934-03:00"
+      },
+      "concluido_em": "2026-10-19T15:22:02.057985-03:00"
     },
     {
       "id": "reel-20261019-1700-69c799d0e2",
