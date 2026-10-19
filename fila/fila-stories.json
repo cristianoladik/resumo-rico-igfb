@@ -2963,6 +2963,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261218-214bfcb485",
+      "data": "2026-12-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Babilonia 02 - Bansir e Kobbi.mp4",
+        "sha256": "214bfcb485b85ebd16f9049f9f45d45085fbaef7caae8de826f4c7bc7010cb60",
+        "pacote": "Tamanho 1m00 - Babilonia 02 - Bansir e Kobbi",
+        "pacote_id": "story-214bfcb485b8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-214bfcb485-Tamanho-1m00---Babilonia-02---Bansir-e-Kobbi.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-214bfcb485-Tamanho-1m00---Babilonia-02---Bansir-e-Kobbi.mp4",
+            "sha256": "214bfcb485b85ebd16f9049f9f45d45085fbaef7caae8de826f4c7bc7010cb60",
+            "tamanho_bytes": 19394344,
+            "duracao_segundos": 56.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
