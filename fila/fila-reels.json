@@ -2886,7 +2886,7 @@
       "id": "reel-20261019-1100-778578378f",
       "data": "2026-10-19",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Mente Milionaria 04 - 7 dias sem reclamar.mp4",
         "sha256": "778578378f412e9e08e58eb15ed74edf9351688c3009190d53ae9076442fb156"
@@ -2899,12 +2899,17 @@
       },
       "instagram": {
         "legenda": "Tenta ficar sete dias sem reclamar de nada.\n\nParece fácil, né?\n\nVocê vai se assustar com quantas vezes dá vontade.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nQuem culpa entrega o volante.\n\nQuem pergunta pega o volante de volta.\n\nSete dias.\n\nAceita o desafio?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18138188740713500",
+        "publicado_em": "2026-10-19T11:37:41.857758-03:00"
       },
       "facebook": {
         "legenda": "Tenta ficar sete dias sem reclamar de nada.\n\nParece fácil, né?\n\nVocê vai se assustar com quantas vezes dá vontade.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nQuem culpa entrega o volante.\n\nQuem pergunta pega o volante de volta.\n\nSete dias.\n\nAceita o desafio?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2115943489310599",
+        "publicado_em": "2026-10-19T11:37:57.555761-03:00"
+      },
+      "concluido_em": "2026-10-19T11:37:57.563755-03:00"
     },
     {
       "id": "reel-20261019-1400-85a9ee2676",
