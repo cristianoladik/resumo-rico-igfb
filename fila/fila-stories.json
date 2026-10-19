@@ -1106,7 +1106,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a6b08e3f70-Mente-Milionaria-08---Oportunidade-x-obstaculo.mp4",
             "sha256": "a6b08e3f70c7fecb5139e713b3d5f2d744e0dc07fab3758f1f53c5cb2389dc27",
             "tamanho_bytes": 10768000,
-            "duracao_segundos": 33.7
+            "duracao_segundos": 33.7,
+            "removido_da_release_em": "2026-10-19T09:20:11.958459-03:00"
           },
           "instagram": {
             "status": "publicado",
