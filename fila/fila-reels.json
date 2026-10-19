@@ -2856,7 +2856,7 @@
       "id": "reel-20261019-0800-d4159cd24d",
       "data": "2026-10-19",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "d4159cd24db55b8609cb91c18f4491462321a285ca9a427e1895cadefc2767d4"
@@ -2869,12 +2869,17 @@
       },
       "instagram": {
         "legenda": "Ele fez tudo certo com o dinheiro.\n\nE errou no último passo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO Arkad obedeceu.\n\nDois anos depois, o dinheiro dele já rendia, e o rendimento rendia de novo.\n\nE ainda chamou ele pra ser sócio nas terras dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18140156362623214",
+        "publicado_em": "2026-10-19T09:17:41.767742-03:00"
       },
       "facebook": {
         "legenda": "Ele fez tudo certo com o dinheiro.\n\nE errou no último passo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO Arkad obedeceu.\n\nDois anos depois, o dinheiro dele já rendia, e o rendimento rendia de novo.\n\nE ainda chamou ele pra ser sócio nas terras dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1643852884198957",
+        "publicado_em": "2026-10-19T09:17:53.860533-03:00"
+      },
+      "concluido_em": "2026-10-19T09:17:53.872481-03:00"
     },
     {
       "id": "reel-20261019-1100-778578378f",
