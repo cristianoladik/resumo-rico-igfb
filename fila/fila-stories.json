@@ -1155,7 +1155,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c20562606a-Pai-Rico-08---Ativo-x-passivo.mp4",
             "sha256": "c20562606a78f4e5197f178ec5db4cf6df80a1b7c6aa01544e3d8399d601ad36",
             "tamanho_bytes": 11864636,
-            "duracao_segundos": 32.267
+            "duracao_segundos": 32.267,
+            "removido_da_release_em": "2026-10-20T09:16:54.224562-03:00"
           },
           "instagram": {
             "status": "publicado",
