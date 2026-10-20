@@ -2994,6 +2994,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261219-02fa0aa802",
+      "data": "2026-12-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 1m00 - Pai Rico 06 - Corrida dos ratos.mp4",
+        "sha256": "02fa0aa802be464e9b1c461d607ff375c7084f5eb88d24b3fec4396ef644d84b",
+        "pacote": "Tamanho 1m00 - Pai Rico 06 - Corrida dos ratos",
+        "pacote_id": "story-02fa0aa802be"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-02fa0aa802-Tamanho-1m00---Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-02fa0aa802-Tamanho-1m00---Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "sha256": "02fa0aa802be464e9b1c461d607ff375c7084f5eb88d24b3fec4396ef644d84b",
+            "tamanho_bytes": 20609139,
+            "duracao_segundos": 54.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
