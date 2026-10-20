@@ -3036,7 +3036,7 @@
       "id": "reel-20261020-1100-1055703799",
       "data": "2026-10-20",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 05 - As joias de vidro.mp4",
         "sha256": "1055703799952d7a4c94b8049a62a5cee0c9d142ff3ef4a37cc793843974565e"
@@ -3049,12 +3049,17 @@
       },
       "instagram": {
         "legenda": "O homem mais rico da Babilônia começou com um prejuízo.\n\nUm ano de economia virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nSobre tijolo, eles dão ótimo conselho.\n\nEsse é o jogo.\n\nCada um entende do que faz.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17898901956397430",
+        "publicado_em": "2026-10-20T11:12:15.856034-03:00"
       },
       "facebook": {
         "legenda": "O homem mais rico da Babilônia começou com um prejuízo.\n\nUm ano de economia virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nSobre tijolo, eles dão ótimo conselho.\n\nEsse é o jogo.\n\nCada um entende do que faz.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1658859522614664",
+        "publicado_em": "2026-10-20T11:12:33.353602-03:00"
+      },
+      "concluido_em": "2026-10-20T11:12:33.366389-03:00"
     },
     {
       "id": "reel-20261020-1400-12356a3ad6",
