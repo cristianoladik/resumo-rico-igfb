@@ -3096,7 +3096,7 @@
       "id": "reel-20261020-1700-ceb81f1e9b",
       "data": "2026-10-20",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "ceb81f1e9be935dc6fe82e1a18663e234f30c92b4f3a2830d7585be3c7c40eee"
@@ -3109,12 +3109,17 @@
       },
       "instagram": {
         "legenda": "Ele ganhou uma bolada do rei.\n\nE no dia seguinte, a família inteira apareceu.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE embaixo da tampa da caixa tava gravado.\n\nMelhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18180202576438617",
+        "publicado_em": "2026-10-20T18:19:16.180435-03:00"
       },
       "facebook": {
         "legenda": "Ele ganhou uma bolada do rei.\n\nE no dia seguinte, a família inteira apareceu.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE embaixo da tampa da caixa tava gravado.\n\nMelhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1112415404988431",
+        "publicado_em": "2026-10-20T18:19:27.905644-03:00"
+      },
+      "concluido_em": "2026-10-20T18:19:27.918066-03:00"
     },
     {
       "id": "reel-20261020-2000-e3c36effcb",
