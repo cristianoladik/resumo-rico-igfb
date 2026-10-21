@@ -3165,7 +3165,8 @@
         "asset": "reel-62414fc8a9-Tamanho-2m30---Pai-Rico-13---O-negocio-de-quem.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-62414fc8a9-Tamanho-2m30---Pai-Rico-13---O-negocio-de-quem.mp4",
         "sha256": "62414fc8a984862e9ea1619b2660bb6f82566ef6ab533eb15ff5608588465ab4",
-        "tamanho_bytes": 45675526
+        "tamanho_bytes": 45675526,
+        "removido_da_release_em": "2026-10-21T08:42:12.318917-03:00"
       },
       "instagram": {
         "legenda": "O seu emprego não é o seu negócio.\n\nÉ o negócio do seu patrão.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nUma dica minha: começa a sua lista com um item só.\n\nMas começa.\n\nEntão me responde: quantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
