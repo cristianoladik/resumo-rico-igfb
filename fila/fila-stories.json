@@ -1188,7 +1188,7 @@
       "id": "story-20261021-229b84732b",
       "data": "2026-10-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
         "sha256": "229b84732b0f1f8039b2f80c161ab017fc10fcac6baf07eaa3ba33c200f2aa91",
@@ -1198,7 +1198,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-229b84732b-Babilonia-09---Lucro-facil-e-armadilha.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-229b84732b-Babilonia-09---Lucro-facil-e-armadilha.mp4",
@@ -1207,13 +1207,30 @@
             "duracao_segundos": 33.466
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18145758973534618",
+            "publish_iniciado_em": "2026-10-21T09:54:06-03:00",
+            "id": "18015572168967388",
+            "publicado_em": "2026-10-21T09:54:17-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "992020773918773",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-21T09:54:25-03:00",
+            "post_id_candidato": "2353799262047933",
+            "finish_em": "2026-10-21T09:54:32-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIzNTM3OTkyNjg3MTQ1OTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2353799262047933",
+            "publicado_em": "2026-10-21T09:55:09-03:00"
+          },
+          "concluido_em": "2026-10-21T09:55:09-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-21T09:55:09-03:00"
     },
     {
       "id": "story-20261022-a5ee7dd405",
