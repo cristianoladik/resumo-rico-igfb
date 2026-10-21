@@ -3195,7 +3195,8 @@
         "asset": "reel-915cb81091-Habitos-Atomicos-08---Cada-habito-e-um-voto.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-915cb81091-Habitos-Atomicos-08---Cada-habito-e-um-voto.mp4",
         "sha256": "915cb81091a876d4fd0cedbb4fc64a72580f7d23ee6681afcf74c763d9a0eba8",
-        "tamanho_bytes": 11612643
+        "tamanho_bytes": 11612643,
+        "removido_da_release_em": "2026-10-21T11:40:08.957327-03:00"
       },
       "instagram": {
         "legenda": "Toda vez que você faz alguma coisa, você está votando.\n\nVotando em quê?\n\nNa pessoa que você vai ser.\n\nEssa lição está no livro Hábitos Atômicos.\n\nUm: decide que tipo de pessoa você quer ser.\n\nDois: prova isso pra você mesmo com pequenas vitórias, todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
