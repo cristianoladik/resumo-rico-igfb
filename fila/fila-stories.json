@@ -3061,6 +3061,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261220-f50a979fc1",
+      "data": "2026-12-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Habitos Atomicos 11 - A cantina do hospital.mp4",
+        "sha256": "f50a979fc1db9830f515a705b693f99866783ee0f35d47c40e5b82568fd35ccd",
+        "pacote": "Habitos Atomicos 11 - A cantina do hospital",
+        "pacote_id": "story-f50a979fc1db"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f50a979fc1-Habitos-Atomicos-11---A-cantina-do-hospital.mp4",
+            "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f50a979fc1-Habitos-Atomicos-11---A-cantina-do-hospital.mp4",
+            "sha256": "f50a979fc1db9830f515a705b693f99866783ee0f35d47c40e5b82568fd35ccd",
+            "tamanho_bytes": 12627902,
+            "duracao_segundos": 38.533
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
