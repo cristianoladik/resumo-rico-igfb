@@ -3186,7 +3186,7 @@
       "id": "reel-20261021-1100-915cb81091",
       "data": "2026-10-21",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 08 - Cada habito e um voto.mp4",
         "sha256": "915cb81091a876d4fd0cedbb4fc64a72580f7d23ee6681afcf74c763d9a0eba8"
@@ -3199,12 +3199,17 @@
       },
       "instagram": {
         "legenda": "Toda vez que você faz alguma coisa, você está votando.\n\nVotando em quê?\n\nNa pessoa que você vai ser.\n\nEssa lição está no livro Hábitos Atômicos.\n\nUm: decide que tipo de pessoa você quer ser.\n\nDois: prova isso pra você mesmo com pequenas vitórias, todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18200922406376420",
+        "publicado_em": "2026-10-21T11:39:52.884350-03:00"
       },
       "facebook": {
         "legenda": "Toda vez que você faz alguma coisa, você está votando.\n\nVotando em quê?\n\nNa pessoa que você vai ser.\n\nEssa lição está no livro Hábitos Atômicos.\n\nUm: decide que tipo de pessoa você quer ser.\n\nDois: prova isso pra você mesmo com pequenas vitórias, todo dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4460138587535534",
+        "publicado_em": "2026-10-21T11:40:05.065273-03:00"
+      },
+      "concluido_em": "2026-10-21T11:40:05.075485-03:00"
     },
     {
       "id": "reel-20261021-1400-f66a95943e",
