@@ -3276,7 +3276,7 @@
       "id": "reel-20261021-2000-05e00768ef",
       "data": "2026-10-21",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 14 - A sorte.mp4",
         "sha256": "05e00768ef6078c262501b58b999134b635f81740f2d02781e586743901c666f"
@@ -3289,12 +3289,17 @@
       },
       "instagram": {
         "legenda": "Todo mundo quer ter sorte.\n\nMas um livro de cem anos diz que a gente espanta a sorte sem perceber.\n\nAchou o negócio bom?\n\nPaga um sinal na hora, pra não fugir de você mesmo.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18106799846363515",
+        "publicado_em": "2026-10-21T21:30:03.481651-03:00"
       },
       "facebook": {
         "legenda": "Todo mundo quer ter sorte.\n\nMas um livro de cem anos diz que a gente espanta a sorte sem perceber.\n\nAchou o negócio bom?\n\nPaga um sinal na hora, pra não fugir de você mesmo.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2173991683180821",
+        "publicado_em": "2026-10-21T21:30:19.224933-03:00"
+      },
+      "concluido_em": "2026-10-21T21:30:19.232929-03:00"
     },
     {
       "id": "reel-20261022-0800-b27c1ca7a8",
