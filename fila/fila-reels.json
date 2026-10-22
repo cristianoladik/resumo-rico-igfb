@@ -3366,7 +3366,7 @@
       "id": "reel-20261022-1400-5245b3192b",
       "data": "2026-10-22",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Mente Milionaria 19 - Dinheiro que trabalha.mp4",
         "sha256": "5245b3192b10637eccf00a4a208d4724a7b4cae86e57e0c6934ccd26a8d27dd0"
@@ -3379,12 +3379,17 @@
       },
       "instagram": {
         "legenda": "Cada real que você guarda pode virar um funcionário seu.\n\nE no final eu te mostro a conta que quem enriquece faz, e quase ninguém faz.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nTrabalhar vira escolha, não obrigação.\n\nE ela começa com o primeiro real que você coloca pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107306513166094",
+        "publicado_em": "2026-10-22T14:04:16.129736-03:00"
       },
       "facebook": {
         "legenda": "Cada real que você guarda pode virar um funcionário seu.\n\nE no final eu te mostro a conta que quem enriquece faz, e quase ninguém faz.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nTrabalhar vira escolha, não obrigação.\n\nE ela começa com o primeiro real que você coloca pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1833287397988144",
+        "publicado_em": "2026-10-22T14:04:29.453017-03:00"
+      },
+      "concluido_em": "2026-10-22T14:04:29.465066-03:00"
     },
     {
       "id": "reel-20261022-1700-4020b56b2d",
