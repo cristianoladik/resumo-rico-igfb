@@ -3405,7 +3405,8 @@
         "asset": "reel-4020b56b2d-Habitos-Atomicos-09---Os-gatos-do-Thorndike.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-4020b56b2d-Habitos-Atomicos-09---Os-gatos-do-Thorndike.mp4",
         "sha256": "4020b56b2de7e1f09cf17da7f77540cd21589bf821872aa644fbed30c4a4660e",
-        "tamanho_bytes": 14068132
+        "tamanho_bytes": 14068132,
+        "removido_da_release_em": "2026-10-22T19:11:24.968167-03:00"
       },
       "instagram": {
         "legenda": "Um cientista colocava gatos numa caixa.\n\nE isso explica os seus hábitos.\n\nA história tá no livro Hábitos Atômicos.\n\nA resposta: você toma um café.\n\nA recompensa: se sente acordado.\n\nPronto, o cérebro gravou.\n\nAssim nasce um hábito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
