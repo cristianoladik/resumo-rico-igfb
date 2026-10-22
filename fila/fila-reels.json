@@ -3306,7 +3306,7 @@
       "id": "reel-20261022-0800-b27c1ca7a8",
       "data": "2026-10-22",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Mente Milionaria 17 - Patrimonio.mp4",
         "sha256": "b27c1ca7a84f4287d328c0c236a992afd0412987cdd6ba1dee9902770811e1eb"
@@ -3319,12 +3319,17 @@
       },
       "instagram": {
         "legenda": "Ganhar muito não é ser rico.\n\nTem uma conta que importa muito mais.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO salário é o que passa pela sua mão.\n\nO patrimônio é o que fica nela.\n\nO que importa não é quanto entra.\n\nÉ quanto fica.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18026283395872376",
+        "publicado_em": "2026-10-22T08:44:55.922983-03:00"
       },
       "facebook": {
         "legenda": "Ganhar muito não é ser rico.\n\nTem uma conta que importa muito mais.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO salário é o que passa pela sua mão.\n\nO patrimônio é o que fica nela.\n\nO que importa não é quanto entra.\n\nÉ quanto fica.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1672905204259713",
+        "publicado_em": "2026-10-22T08:45:18.847559-03:00"
+      },
+      "concluido_em": "2026-10-22T08:45:18.860555-03:00"
     },
     {
       "id": "reel-20261022-1100-fcd15af2fc",
