@@ -1237,7 +1237,7 @@
       "id": "story-20261022-a5ee7dd405",
       "data": "2026-10-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 09 - Admirar quem chegou la.mp4",
         "sha256": "a5ee7dd405a267c36e0f6540ef4fab1cf13bb43598242d876d400590c1b3bde9",
@@ -1247,7 +1247,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
@@ -1256,13 +1256,30 @@
             "duracao_segundos": 29.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18146091199534618",
+            "publish_iniciado_em": "2026-10-22T09:16:05-03:00",
+            "id": "18135519391735932",
+            "publicado_em": "2026-10-22T09:16:14-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1083630967826777",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-22T09:16:23-03:00",
+            "post_id_candidato": "28760081783649884",
+            "finish_em": "2026-10-22T09:16:28-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjI4NzYwMDgxODI2OTgzMjEz/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "28760081783649884",
+            "publicado_em": "2026-10-22T09:17:05-03:00"
+          },
+          "concluido_em": "2026-10-22T09:17:05-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-22T09:17:05-03:00"
     },
     {
       "id": "story-20261023-9fbc6ab85b",
