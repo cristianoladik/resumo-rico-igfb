@@ -1253,7 +1253,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a5ee7dd405-Mente-Milionaria-09---Admirar-quem-chegou-la.mp4",
             "sha256": "a5ee7dd405a267c36e0f6540ef4fab1cf13bb43598242d876d400590c1b3bde9",
             "tamanho_bytes": 9295747,
-            "duracao_segundos": 29.9
+            "duracao_segundos": 29.9,
+            "removido_da_release_em": "2026-10-22T09:17:08.963030-03:00"
           },
           "instagram": {
             "status": "publicado",
