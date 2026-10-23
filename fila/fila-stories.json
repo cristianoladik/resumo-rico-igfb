@@ -1286,7 +1286,7 @@
       "id": "story-20261023-9fbc6ab85b",
       "data": "2026-10-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
         "sha256": "9fbc6ab85b5f6bbeeff49fc793ee0180899cb86d344e2341602b067e9dab81a1",
@@ -1296,7 +1296,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
@@ -1305,13 +1305,30 @@
             "duracao_segundos": 36.1
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18146428003534618",
+            "publish_iniciado_em": "2026-10-23T09:16:13-03:00",
+            "id": "18094957202259593",
+            "publicado_em": "2026-10-23T09:16:20-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "3336655716521527",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-23T09:16:29-03:00",
+            "post_id_candidato": "1134198789221183",
+            "finish_em": "2026-10-23T09:16:35-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMzQxOTg3OTI1NTQ1MTY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1134198789221183",
+            "publicado_em": "2026-10-23T09:17:12-03:00"
+          },
+          "concluido_em": "2026-10-23T09:17:12-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-23T09:17:12-03:00"
     },
     {
       "id": "story-20261024-8ac23edb8b",
