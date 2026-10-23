@@ -3456,7 +3456,7 @@
       "id": "reel-20261023-0800-228e26ab25",
       "data": "2026-10-23",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "228e26ab257e95c44ba143adfe97f5b111516b6b20ba8d202e79b0a9efdb544e"
@@ -3469,12 +3469,17 @@
       },
       "instagram": {
         "legenda": "O comerciante mais rico da caravana guardava um segredo.\n\nEle já tinha sido escravo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO Arad Gula era o avô daquele rapaz.\n\nO neto tirou os anéis e foi trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18125271539313048",
+        "publicado_em": "2026-10-23T08:32:48.640511-03:00"
       },
       "facebook": {
         "legenda": "O comerciante mais rico da caravana guardava um segredo.\n\nEle já tinha sido escravo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO Arad Gula era o avô daquele rapaz.\n\nO neto tirou os anéis e foi trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2651041268688668",
+        "publicado_em": "2026-10-23T08:33:06.450786-03:00"
+      },
+      "concluido_em": "2026-10-23T08:33:06.463644-03:00"
     },
     {
       "id": "reel-20261023-1100-b40e3d71a5",
