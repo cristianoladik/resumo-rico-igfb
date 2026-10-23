@@ -3486,7 +3486,7 @@
       "id": "reel-20261023-1100-b40e3d71a5",
       "data": "2026-10-23",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 20 - O que trava as pessoas.mp4",
         "sha256": "b40e3d71a5b6fe2f757ae79f71852e0982679372248e6ef08aad19f1f2bb913a"
@@ -3499,12 +3499,17 @@
       },
       "instagram": {
         "legenda": "Cinco coisas travam quem quer ficar rico.\n\nE a última você nem percebe que tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ quem age mesmo com medo, e aprende com o erro.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17993941964849024",
+        "publicado_em": "2026-10-23T11:11:24.767131-03:00"
       },
       "facebook": {
         "legenda": "Cinco coisas travam quem quer ficar rico.\n\nE a última você nem percebe que tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ quem age mesmo com medo, e aprende com o erro.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2494095441077507",
+        "publicado_em": "2026-10-23T11:11:38.039081-03:00"
+      },
+      "concluido_em": "2026-10-23T11:11:38.050979-03:00"
     },
     {
       "id": "reel-20261023-1400-e1b9caf55a",
