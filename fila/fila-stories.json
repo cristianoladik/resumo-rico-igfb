@@ -1302,7 +1302,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9fbc6ab85b-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
             "sha256": "9fbc6ab85b5f6bbeeff49fc793ee0180899cb86d344e2341602b067e9dab81a1",
             "tamanho_bytes": 16531191,
-            "duracao_segundos": 36.1
+            "duracao_segundos": 36.1,
+            "removido_da_release_em": "2026-10-23T09:17:15.501793-03:00"
           },
           "instagram": {
             "status": "publicado",
