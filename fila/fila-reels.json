@@ -3606,7 +3606,7 @@
       "id": "reel-20261024-0800-214bfcb485",
       "data": "2026-10-24",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "214bfcb485b85ebd16f9049f9f45d45085fbaef7caae8de826f4c7bc7010cb60"
@@ -3619,12 +3619,17 @@
       },
       "instagram": {
         "legenda": "Trabalhou a vida inteira e não tem nada guardado?\n\nUm livro de cem anos explica por quê.\n\nMas sobre dinheiro, os dois nunca tentaram aprender nada.\n\nE pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18025627730944742",
+        "publicado_em": "2026-10-24T09:16:30.570629-03:00"
       },
       "facebook": {
         "legenda": "Trabalhou a vida inteira e não tem nada guardado?\n\nUm livro de cem anos explica por quê.\n\nMas sobre dinheiro, os dois nunca tentaram aprender nada.\n\nE pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2386140725527061",
+        "publicado_em": "2026-10-24T09:16:45.450389-03:00"
+      },
+      "concluido_em": "2026-10-24T09:16:45.457919-03:00"
     },
     {
       "id": "reel-20261024-1100-a60ff115e9",
