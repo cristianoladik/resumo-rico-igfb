@@ -3576,7 +3576,7 @@
       "id": "reel-20261023-2000-2fa3386ece",
       "data": "2026-10-23",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 10 - Os trens do Japao.mp4",
         "sha256": "2fa3386ecece49b9a61c92f0c16a376dbfb8107ad244ef161f47befb28a23b8d"
@@ -3589,12 +3589,17 @@
       },
       "instagram": {
         "legenda": "No Japão, o maquinista aponta pra cada sinal e fala o que tá vendo.\n\nSinal verde.\n\nVelocidade certa.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE pro hábito ruim, a lei vira ao contrário: torne invisível.\n\nQuer gastar menos?\n\nTira o cartão salvo do aplicativo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17884358931525315",
+        "publicado_em": "2026-10-23T21:23:37.835355-03:00"
       },
       "facebook": {
         "legenda": "No Japão, o maquinista aponta pra cada sinal e fala o que tá vendo.\n\nSinal verde.\n\nVelocidade certa.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE pro hábito ruim, a lei vira ao contrário: torne invisível.\n\nQuer gastar menos?\n\nTira o cartão salvo do aplicativo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2159142278065106",
+        "publicado_em": "2026-10-23T21:23:54.290315-03:00"
+      },
+      "concluido_em": "2026-10-23T21:23:54.303275-03:00"
     },
     {
       "id": "reel-20261024-0800-214bfcb485",
