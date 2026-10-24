@@ -3696,7 +3696,7 @@
       "id": "reel-20261024-1700-4f4227a8ab",
       "data": "2026-10-24",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "4f4227a8abe3fb3aa9d75e771d251f66118696a6d22ec578448e2368eb86557d"
@@ -3709,12 +3709,17 @@
       },
       "instagram": {
         "legenda": "Tem um erro que deixa muita gente trabalhadora sem nunca enriquecer.\n\nE não é gastar o salário.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o mestre chamou ele pra ser sócio nas terras dele.\n\nO Arkad aprendeu.\n\nE virou o homem mais rico da Babilônia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18110438849240206",
+        "publicado_em": "2026-10-24T18:45:34.393832-03:00"
       },
       "facebook": {
         "legenda": "Tem um erro que deixa muita gente trabalhadora sem nunca enriquecer.\n\nE não é gastar o salário.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o mestre chamou ele pra ser sócio nas terras dele.\n\nO Arkad aprendeu.\n\nE virou o homem mais rico da Babilônia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2178496943043833",
+        "publicado_em": "2026-10-24T18:45:51.004701-03:00"
+      },
+      "concluido_em": "2026-10-24T18:45:51.016866-03:00"
     },
     {
       "id": "reel-20261024-2000-02fa0aa802",
