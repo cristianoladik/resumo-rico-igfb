@@ -1335,7 +1335,7 @@
       "id": "story-20261024-8ac23edb8b",
       "data": "2026-10-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
         "sha256": "8ac23edb8bb27c7bbfceda53698a28a33f48c9cc058e6e88d5b961b7482abb8e",
@@ -1345,7 +1345,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-8ac23edb8b-Babilonia-10---Tijolo-e-moeda-forte.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-8ac23edb8b-Babilonia-10---Tijolo-e-moeda-forte.mp4",
@@ -1354,13 +1354,30 @@
             "duracao_segundos": 32.2
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18146809111534618",
+            "publish_iniciado_em": "2026-10-24T09:17:52-03:00",
+            "id": "18120432868972920",
+            "publicado_em": "2026-10-24T09:18:02-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2015346765831040",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-24T09:18:11-03:00",
+            "post_id_candidato": "1427474989581785",
+            "finish_em": "2026-10-24T09:18:16-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE0Mjc0NzQ5OTYyNDg0NTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1427474989581785",
+            "publicado_em": "2026-10-24T09:18:53-03:00"
+          },
+          "concluido_em": "2026-10-24T09:18:53-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-24T09:18:53-03:00"
     },
     {
       "id": "story-20261025-6b39f69113",
