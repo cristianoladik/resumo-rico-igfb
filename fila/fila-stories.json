@@ -1384,7 +1384,7 @@
       "id": "story-20261025-6b39f69113",
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 10 - As 5 pessoas.mp4",
         "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539",
@@ -1394,7 +1394,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
@@ -1403,13 +1403,30 @@
             "duracao_segundos": 37.8
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18147209308534618",
+            "publish_iniciado_em": "2026-10-25T09:16:07-03:00",
+            "id": "18077692823572669",
+            "publicado_em": "2026-10-25T09:16:16-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1660581152424179",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-25T09:16:25-03:00",
+            "post_id_candidato": "2220762451839659",
+            "finish_em": "2026-10-25T09:16:30-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIyMjA3NjI0NTUxNzI5OTI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2220762451839659",
+            "publicado_em": "2026-10-25T09:17:08-03:00"
+          },
+          "concluido_em": "2026-10-25T09:17:08-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-25T09:17:08-03:00"
     },
     {
       "id": "story-20261026-aff6203bbb",
