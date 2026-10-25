@@ -3756,7 +3756,7 @@
       "id": "reel-20261025-0800-4b5c7116e5",
       "data": "2026-10-25",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "4b5c7116e56ea434f9934db97e07867a3a3bd12713fc356a05fdf7e1fd36d826"
@@ -3769,12 +3769,17 @@
       },
       "instagram": {
         "legenda": "Um escrivão pobre ficou uma noite inteira sem dormir.\n\nEm troca de uma frase só.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o mais estranho: não fez falta nenhuma.\n\nVocê é a primeira conta do mês.\n\nNão a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18078134519547169",
+        "publicado_em": "2026-10-25T08:18:58.925718-03:00"
       },
       "facebook": {
         "legenda": "Um escrivão pobre ficou uma noite inteira sem dormir.\n\nEm troca de uma frase só.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o mais estranho: não fez falta nenhuma.\n\nVocê é a primeira conta do mês.\n\nNão a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1093753383478223",
+        "publicado_em": "2026-10-25T08:19:14.711658-03:00"
+      },
+      "concluido_em": "2026-10-25T08:19:14.719265-03:00"
     },
     {
       "id": "reel-20261025-1100-f50a979fc1",
