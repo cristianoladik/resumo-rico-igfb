@@ -1400,7 +1400,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6b39f69113-Mente-Milionaria-10---As-5-pessoas.mp4",
             "sha256": "6b39f691135f9d78cd4a3f21f3a9bfc7375a90f0a75eba208d78f204f7506539",
             "tamanho_bytes": 12131216,
-            "duracao_segundos": 37.8
+            "duracao_segundos": 37.8,
+            "removido_da_release_em": "2026-10-25T09:17:11.303574-03:00"
           },
           "instagram": {
             "status": "publicado",
