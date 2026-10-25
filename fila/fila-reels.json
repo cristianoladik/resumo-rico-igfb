@@ -3876,7 +3876,7 @@
       "id": "reel-20261025-2000-90de7a9594",
       "data": "2026-10-25",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 05 - As joias de vidro.mp4",
         "sha256": "90de7a959432ce02497c53c565fd29424143b598a576515361379a05a4e366d7"
@@ -3889,12 +3889,17 @@
       },
       "instagram": {
         "legenda": "Ele guardou dinheiro por um ano inteiro.\n\nEntregou pro homem errado.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: e ainda ouve conselho de fabricante de tijolo?\n\nE o Arkad respondeu: sobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17902197492604649",
+        "publicado_em": "2026-10-25T20:57:59.734365-03:00"
       },
       "facebook": {
         "legenda": "Ele guardou dinheiro por um ano inteiro.\n\nEntregou pro homem errado.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: e ainda ouve conselho de fabricante de tijolo?\n\nE o Arkad respondeu: sobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1434586134722272",
+        "publicado_em": "2026-10-25T20:58:12.942389-03:00"
+      },
+      "concluido_em": "2026-10-25T20:58:12.954471-03:00"
     },
     {
       "id": "reel-20261026-0800-0df0b41290",
