@@ -3786,7 +3786,7 @@
       "id": "reel-20261025-1100-f50a979fc1",
       "data": "2026-10-25",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 11 - A cantina do hospital.mp4",
         "sha256": "f50a979fc1db9830f515a705b693f99866783ee0f35d47c40e5b82568fd35ccd"
@@ -3799,12 +3799,17 @@
       },
       "instagram": {
         "legenda": "Como fazer alguém beber mais água sem sermão?\n\nO livro Hábitos Atômicos conta o que uma médica fez num hospital de Boston.\n\nQuer tocar violão?\n\nDeixa ele no meio da sala, não no armário.\n\nE cada lugar com um uso: cama pra dormir, mesa pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17897186535418843",
+        "publicado_em": "2026-10-25T11:11:25.184617-03:00"
       },
       "facebook": {
         "legenda": "Como fazer alguém beber mais água sem sermão?\n\nO livro Hábitos Atômicos conta o que uma médica fez num hospital de Boston.\n\nQuer tocar violão?\n\nDeixa ele no meio da sala, não no armário.\n\nE cada lugar com um uso: cama pra dormir, mesa pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1674612704257216",
+        "publicado_em": "2026-10-25T11:11:36.576984-03:00"
+      },
+      "concluido_em": "2026-10-25T11:11:36.589346-03:00"
     },
     {
       "id": "reel-20261025-1400-00165ef1d3",
