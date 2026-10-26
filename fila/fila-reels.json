@@ -3966,7 +3966,7 @@
       "id": "reel-20261026-1400-0afbe59e86",
       "data": "2026-10-26",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "0afbe59e86665b9c5f66bff0eda772f5771f7eee61b77a0ba9a0ffd96be17e6f"
@@ -3979,12 +3979,17 @@
       },
       "instagram": {
         "legenda": "Emprestar dinheiro pra parente.\n\nTodo mundo já passou por isso, ou vai passar.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o que tava gravado na tampa da caixa?\n\nMelhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17927883009427881",
+        "publicado_em": "2026-10-26T14:01:32.670986-03:00"
       },
       "facebook": {
         "legenda": "Emprestar dinheiro pra parente.\n\nTodo mundo já passou por isso, ou vai passar.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o que tava gravado na tampa da caixa?\n\nMelhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2995199000843378",
+        "publicado_em": "2026-10-26T14:01:45.528869-03:00"
+      },
+      "concluido_em": "2026-10-26T14:01:45.541757-03:00"
     },
     {
       "id": "reel-20261026-1700-53eaedf591",
