@@ -1449,7 +1449,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
             "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d",
             "tamanho_bytes": 14034920,
-            "duracao_segundos": 31.767
+            "duracao_segundos": 31.767,
+            "removido_da_release_em": "2026-10-26T09:18:43.839601-03:00"
           },
           "instagram": {
             "status": "publicado",
