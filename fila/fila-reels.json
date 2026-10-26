@@ -3996,7 +3996,7 @@
       "id": "reel-20261026-1700-53eaedf591",
       "data": "2026-10-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Mente Milionaria 14 - Agir com medo.mp4",
         "sha256": "53eaedf591154f4f20384605c9bee240c6d2bbe33f034f618660697c5d2cad93"
@@ -4009,12 +4009,17 @@
       },
       "instagram": {
         "legenda": "Esperar o medo passar é a maior armadilha que existe.\n\nPorque ele nunca passa.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nSe você faz o que é difícil, a vida fica fácil.\n\nQual medo tá te segurando hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18023645108868753",
+        "publicado_em": "2026-10-26T18:36:44.805863-03:00"
       },
       "facebook": {
         "legenda": "Esperar o medo passar é a maior armadilha que existe.\n\nPorque ele nunca passa.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nSe você faz o que é difícil, a vida fica fácil.\n\nQual medo tá te segurando hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "991839329929151",
+        "publicado_em": "2026-10-26T18:37:05.007127-03:00"
+      },
+      "concluido_em": "2026-10-26T18:37:05.019486-03:00"
     },
     {
       "id": "reel-20261026-2000-38d0e2fdf4",
