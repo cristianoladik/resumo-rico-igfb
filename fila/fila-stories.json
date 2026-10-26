@@ -1433,7 +1433,7 @@
       "id": "story-20261026-aff6203bbb",
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
         "sha256": "aff6203bbb3173433960aae2c5fdd4ed5457ef2f66224ccd76107e48144f8d0d",
@@ -1443,7 +1443,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-aff6203bbb-Pai-Rico-10---A-casa-que-te-paga.mp4",
@@ -1452,13 +1452,30 @@
             "duracao_segundos": 31.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18147626914534618",
+            "publish_iniciado_em": "2026-10-26T09:17:32-03:00",
+            "id": "18120362357472341",
+            "publicado_em": "2026-10-26T09:17:46-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1400315491858777",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-26T09:18:00-03:00",
+            "post_id_candidato": "1656412716006697",
+            "finish_em": "2026-10-26T09:18:05-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE2NTY0MTI3MTkzNDAwMzA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1656412716006697",
+            "publicado_em": "2026-10-26T09:18:41-03:00"
+          },
+          "concluido_em": "2026-10-26T09:18:41-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-26T09:18:41-03:00"
     },
     {
       "id": "story-20261027-48d7af8227",
