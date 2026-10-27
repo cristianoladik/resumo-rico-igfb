@@ -4146,7 +4146,7 @@
       "id": "reel-20261027-1700-783fc60850",
       "data": "2026-10-27",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 14 - A sorte.mp4",
         "sha256": "783fc60850ac75ae3cf00541f8db691a5fdadb6098e204b8aba0260a0466faec"
@@ -4159,12 +4159,17 @@
       },
       "instagram": {
         "legenda": "Você já viu uma chance boa e falou: depois eu vejo?\n\nE quando voltou, ela tinha sumido?\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o tecelão entendeu: sorte não é achar bolsa na rua.\n\nÉ agarrar a oportunidade.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131015557836971",
+        "publicado_em": "2026-10-27T17:52:49.168554-03:00"
       },
       "facebook": {
         "legenda": "Você já viu uma chance boa e falou: depois eu vejo?\n\nE quando voltou, ela tinha sumido?\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE o tecelão entendeu: sorte não é achar bolsa na rua.\n\nÉ agarrar a oportunidade.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1581860159927887",
+        "publicado_em": "2026-10-27T17:53:03.358330-03:00"
+      },
+      "concluido_em": "2026-10-27T17:53:03.370607-03:00"
     },
     {
       "id": "reel-20261027-2000-8ec0f18909",
