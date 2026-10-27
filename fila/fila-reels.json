@@ -4026,7 +4026,7 @@
       "id": "reel-20261026-2000-38d0e2fdf4",
       "data": "2026-10-26",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 12 - Os soldados do Vietna.mp4",
         "sha256": "38d0e2fdf471535d58bfe55b59dd72b21e1085d8241c8808b78d2bbdd72f3628"
@@ -4039,12 +4039,17 @@
       },
       "instagram": {
         "legenda": "Até vinte por cento dos soldados americanos no Vietnã estavam viciados em heroína.\n\nE trinta e cinco por cento tinham experimentado.\n\nEssa lição está no livro Hábitos Atômicos.\n\nNão adianta contar só com força de vontade.\n\nQuer largar um hábito ruim?\n\nTira ele da frente dos olhos.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17906437386348327",
+        "publicado_em": "2026-10-26T21:47:48.938309-03:00"
       },
       "facebook": {
         "legenda": "Até vinte por cento dos soldados americanos no Vietnã estavam viciados em heroína.\n\nE trinta e cinco por cento tinham experimentado.\n\nEssa lição está no livro Hábitos Atômicos.\n\nNão adianta contar só com força de vontade.\n\nQuer largar um hábito ruim?\n\nTira ele da frente dos olhos.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1057016260685617",
+        "publicado_em": "2026-10-26T21:48:01.562112-03:00"
+      },
+      "concluido_em": "2026-10-26T21:48:01.574427-03:00"
     },
     {
       "id": "reel-20261027-0800-51bb950dc2",
