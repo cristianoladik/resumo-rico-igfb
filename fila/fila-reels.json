@@ -4116,7 +4116,7 @@
       "id": "reel-20261027-1400-ca19d1f6fb",
       "data": "2026-10-27",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Pai Rico 15 - A ordem dos impostos.mp4",
         "sha256": "ca19d1f6fb5bc4cac6c53192464d7ff9cbfe8d2c003e0726e7500ec201ecbb49"
@@ -4129,12 +4129,17 @@
       },
       "instagram": {
         "legenda": "Empregado e empresa pagam imposto em ordens diferentes.\n\nE essa ordem muda tudo no fim do ano.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nPorque Deus perdoa.\n\nA Receita Federal não.\n\nResumindo: o rico não foge do imposto.\n\nEle conhece as regras do jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17908759434595283",
+        "publicado_em": "2026-10-27T14:30:54.731476-03:00"
       },
       "facebook": {
         "legenda": "Empregado e empresa pagam imposto em ordens diferentes.\n\nE essa ordem muda tudo no fim do ano.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nPorque Deus perdoa.\n\nA Receita Federal não.\n\nResumindo: o rico não foge do imposto.\n\nEle conhece as regras do jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1424201666431199",
+        "publicado_em": "2026-10-27T14:31:10.214650-03:00"
+      },
+      "concluido_em": "2026-10-27T14:31:10.226978-03:00"
     },
     {
       "id": "reel-20261027-1700-783fc60850",
