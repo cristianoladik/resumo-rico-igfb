@@ -4086,7 +4086,7 @@
       "id": "reel-20261027-1100-4b8efc03cb",
       "data": "2026-10-27",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Mente Milionaria 16 - Salario tem teto.mp4",
         "sha256": "4b8efc03cb116ec6c2faa31d28dd0c8c7a8a02b4a72952f8989787f0ae2608a2"
@@ -4099,12 +4099,17 @@
       },
       "instagram": {
         "legenda": "Salário te dá segurança.\n\nMas cobra um preço que quase ninguém percebe.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nOu um negócio pequeno no fim de semana.\n\nO seu dia tem vinte e quatro horas.\n\nO seu resultado, não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18106161596002529",
+        "publicado_em": "2026-10-27T11:11:54.827215-03:00"
       },
       "facebook": {
         "legenda": "Salário te dá segurança.\n\nMas cobra um preço que quase ninguém percebe.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nOu um negócio pequeno no fim de semana.\n\nO seu dia tem vinte e quatro horas.\n\nO seu resultado, não.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1122113674004149",
+        "publicado_em": "2026-10-27T11:12:06.380034-03:00"
+      },
+      "concluido_em": "2026-10-27T11:12:06.392243-03:00"
     },
     {
       "id": "reel-20261027-1400-ca19d1f6fb",
