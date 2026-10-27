@@ -1498,7 +1498,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
             "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e",
             "tamanho_bytes": 9716842,
-            "duracao_segundos": 32.866
+            "duracao_segundos": 32.866,
+            "removido_da_release_em": "2026-10-27T09:17:15.904401-03:00"
           },
           "instagram": {
             "status": "publicado",
