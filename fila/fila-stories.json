@@ -1482,7 +1482,7 @@
       "id": "story-20261027-48d7af8227",
       "data": "2026-10-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
         "sha256": "48d7af8227ede6fe9a642aead5534645c4ef2814bc508087ec04d2e4814d9a4e",
@@ -1492,7 +1492,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-48d7af8227-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
@@ -1501,13 +1501,30 @@
             "duracao_segundos": 32.866
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18148026379534618",
+            "publish_iniciado_em": "2026-10-27T09:16:10-03:00",
+            "id": "18137881732727207",
+            "publicado_em": "2026-10-27T09:16:22-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1125214536569720",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-27T09:16:29-03:00",
+            "post_id_candidato": "28477686641927765",
+            "finish_em": "2026-10-27T09:16:36-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjI4NDc3Njg2Njg1MjYxMDk0/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "28477686641927765",
+            "publicado_em": "2026-10-27T09:17:12-03:00"
+          },
+          "concluido_em": "2026-10-27T09:17:12-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-27T09:17:12-03:00"
     },
     {
       "id": "story-20261028-f9a0b67520",
