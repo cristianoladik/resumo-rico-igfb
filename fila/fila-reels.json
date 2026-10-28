@@ -4236,7 +4236,7 @@
       "id": "reel-20261028-1100-96bce4d539",
       "data": "2026-10-28",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "96bce4d5395c2a16e426ecd50a5e4cc7bc567fe6eb7608ed48ae5ff3e9907810"
@@ -4249,12 +4249,17 @@
       },
       "instagram": {
         "legenda": "Um saco de ouro ou uma placa com cinco leis do dinheiro.\n\nQual você escolhe?\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDez anos depois, devolveu um saco de ouro pelo ouro.\n\nE mais dois sacos pela placa de sabedoria.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18150550042565254",
+        "publicado_em": "2026-10-28T11:11:49.998434-03:00"
       },
       "facebook": {
         "legenda": "Um saco de ouro ou uma placa com cinco leis do dinheiro.\n\nQual você escolhe?\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDez anos depois, devolveu um saco de ouro pelo ouro.\n\nE mais dois sacos pela placa de sabedoria.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1451090797164667",
+        "publicado_em": "2026-10-28T11:12:01.038779-03:00"
+      },
+      "concluido_em": "2026-10-28T11:12:01.051198-03:00"
     },
     {
       "id": "reel-20261028-1400-f1c1985e5f",
