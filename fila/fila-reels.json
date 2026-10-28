@@ -4206,7 +4206,7 @@
       "id": "reel-20261028-0800-857e546ba4",
       "data": "2026-10-28",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 13 - O roupao do Diderot.mp4",
         "sha256": "857e546ba413faed6e672b6579834161338bc67225d3070e1f68f9f8f51c1075"
@@ -4219,12 +4219,17 @@
       },
       "instagram": {
         "legenda": "Um roupão vermelho fez um filósofo gastar sem parar.\n\nA história tá no livro Hábitos Atômicos.\n\nDepois que o salário cair, eu transfiro uma parte pra reserva.\n\nO hábito antigo vira o lembrete do novo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18582580177074164",
+        "publicado_em": "2026-10-28T08:41:16.249957-03:00"
       },
       "facebook": {
         "legenda": "Um roupão vermelho fez um filósofo gastar sem parar.\n\nA história tá no livro Hábitos Atômicos.\n\nDepois que o salário cair, eu transfiro uma parte pra reserva.\n\nO hábito antigo vira o lembrete do novo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1315344650653772",
+        "publicado_em": "2026-10-28T08:41:27.202745-03:00"
+      },
+      "concluido_em": "2026-10-28T08:41:27.213029-03:00"
     },
     {
       "id": "reel-20261028-1100-96bce4d539",
