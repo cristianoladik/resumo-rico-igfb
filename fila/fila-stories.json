@@ -1531,7 +1531,7 @@
       "id": "story-20261028-f9a0b67520",
       "data": "2026-10-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
         "sha256": "f9a0b67520f9d89ad06ba8337dab7b8cca5d0566f425e96e7f52067fd81dd84f",
@@ -1541,7 +1541,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f9a0b67520-Mente-Milionaria-11---Vergonha-de-vender.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f9a0b67520-Mente-Milionaria-11---Vergonha-de-vender.mp4",
@@ -1550,13 +1550,30 @@
             "duracao_segundos": 28.333
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18148411921534618",
+            "publish_iniciado_em": "2026-10-28T09:16:14-03:00",
+            "id": "18118266061813946",
+            "publicado_em": "2026-10-28T09:16:24-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2361317381365004",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-28T09:16:30-03:00",
+            "post_id_candidato": "1125497860372894",
+            "finish_em": "2026-10-28T09:16:34-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMjU0OTc4NjcwMzk1NjA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1125497860372894",
+            "publicado_em": "2026-10-28T09:17:11-03:00"
+          },
+          "concluido_em": "2026-10-28T09:17:11-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-28T09:17:11-03:00"
     },
     {
       "id": "story-20261029-7e068a41f1",
