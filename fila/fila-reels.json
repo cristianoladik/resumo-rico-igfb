@@ -4416,7 +4416,7 @@
       "id": "reel-20261029-1400-874eb57327",
       "data": "2026-10-29",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 14 - As gaivotas.mp4",
         "sha256": "874eb573279bff9811c6e0b39f6bc93feaf6fd3cffbeee8501e3f7dde1a26fb3"
@@ -4429,12 +4429,17 @@
       },
       "instagram": {
         "legenda": "Um bico de papelão explica por que você come besteira.\n\nÉ uma história do livro Hábitos Atômicos.\n\nJunta o que você precisa fazer com o que você gosta.\n\nTipo: só tomar o cafezinho favorito enquanto confere as contas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18081079124711773",
+        "publicado_em": "2026-10-29T15:02:29.324939-03:00"
       },
       "facebook": {
         "legenda": "Um bico de papelão explica por que você come besteira.\n\nÉ uma história do livro Hábitos Atômicos.\n\nJunta o que você precisa fazer com o que você gosta.\n\nTipo: só tomar o cafezinho favorito enquanto confere as contas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3432615660246166",
+        "publicado_em": "2026-10-29T15:02:43.499047-03:00"
+      },
+      "concluido_em": "2026-10-29T15:02:43.511622-03:00"
     },
     {
       "id": "reel-20261029-1700-31eb10247f",
