@@ -1580,7 +1580,7 @@
       "id": "story-20261029-7e068a41f1",
       "data": "2026-10-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
         "sha256": "7e068a41f1ecfb1a25e5f50a32efd63649baf840b8b21867bd60e7e5902f610c",
@@ -1590,7 +1590,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7e068a41f1-Pai-Rico-11---Passivos-disfarcados.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7e068a41f1-Pai-Rico-11---Passivos-disfarcados.mp4",
@@ -1599,13 +1599,30 @@
             "duracao_segundos": 34.633
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18148814863534618",
+            "publish_iniciado_em": "2026-10-29T09:18:08-03:00",
+            "id": "18457109269126805",
+            "publicado_em": "2026-10-29T09:18:16-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1777573323454535",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-29T09:18:23-03:00",
+            "post_id_candidato": "1429118788717725",
+            "finish_em": "2026-10-29T09:18:28-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE0MjkxMTg3OTUzODQzOTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1429118788717725",
+            "publicado_em": "2026-10-29T09:19:04-03:00"
+          },
+          "concluido_em": "2026-10-29T09:19:04-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-29T09:19:04-03:00"
     },
     {
       "id": "story-20261030-48559018b8",
