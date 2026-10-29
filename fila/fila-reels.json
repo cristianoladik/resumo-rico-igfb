@@ -4446,7 +4446,7 @@
       "id": "reel-20261029-1700-31eb10247f",
       "data": "2026-10-29",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "31eb10247fe21dff512c3dd64cf2a0dcb15e1b44804f072fd8e2868a3d306f80"
@@ -4459,18 +4459,23 @@
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEntão troca o conselho.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17875046553637803",
+        "publicado_em": "2026-10-29T20:43:19.516957-03:00"
       },
       "facebook": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEntão troca o conselho.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "39348899214753577",
+        "publicado_em": "2026-10-29T20:43:31.497378-03:00"
+      },
+      "concluido_em": "2026-10-29T20:43:31.510021-03:00"
     },
     {
       "id": "reel-20261029-2000-49783b51ae",
       "data": "2026-10-29",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "49783b51ae73fdf05bddf1868d0237fbae986c3958b189fa305ff91fdc520e31"
@@ -4483,12 +4488,17 @@
       },
       "instagram": {
         "legenda": "Trabalhou a vida inteira e não sobrou nada?\n\nIsso acontecia há milhares de anos também.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDinheiro, a gente nunca buscou aprender.\n\nNão foi falta de trabalho.\n\nFoi falta de aprender o jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18405734494204989",
+        "publicado_em": "2026-10-29T20:44:34.980330-03:00"
       },
       "facebook": {
         "legenda": "Trabalhou a vida inteira e não sobrou nada?\n\nIsso acontecia há milhares de anos também.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDinheiro, a gente nunca buscou aprender.\n\nNão foi falta de trabalho.\n\nFoi falta de aprender o jogo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4398505713615243",
+        "publicado_em": "2026-10-29T20:44:47.306080-03:00"
+      },
+      "concluido_em": "2026-10-29T20:44:47.319069-03:00"
     },
     {
       "id": "reel-20261030-0800-96d8dd7700",
