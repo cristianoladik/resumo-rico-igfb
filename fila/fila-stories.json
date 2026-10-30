@@ -1629,7 +1629,7 @@
       "id": "story-20261030-48559018b8",
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
         "sha256": "48559018b89c0e5637c177ed734527c18f6041b4606f8e073930e3d49c444e47",
@@ -1639,7 +1639,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
@@ -1648,13 +1648,30 @@
             "duracao_segundos": 32.867
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18149198662534618",
+            "publish_iniciado_em": "2026-10-30T09:17:41-03:00",
+            "id": "18120857263946752",
+            "publicado_em": "2026-10-30T09:17:49-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2263243220897018",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-30T09:17:56-03:00",
+            "post_id_candidato": "1108866445478007",
+            "finish_em": "2026-10-30T09:18:01-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMDg4NjY0NTIxNDQ2NzM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1108866445478007",
+            "publicado_em": "2026-10-30T09:18:38-03:00"
+          },
+          "concluido_em": "2026-10-30T09:18:38-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-30T09:18:38-03:00"
     },
     {
       "id": "story-20261031-c1deb6313c",
