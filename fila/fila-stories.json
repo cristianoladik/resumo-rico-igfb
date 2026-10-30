@@ -1645,7 +1645,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-48559018b8-Babilonia-12---Sabe-mais-ganha-mais.mp4",
             "sha256": "48559018b89c0e5637c177ed734527c18f6041b4606f8e073930e3d49c444e47",
             "tamanho_bytes": 11126458,
-            "duracao_segundos": 32.867
+            "duracao_segundos": 32.867,
+            "removido_da_release_em": "2026-10-30T09:18:40.364604-03:00"
           },
           "instagram": {
             "status": "publicado",
