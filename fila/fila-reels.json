@@ -4536,7 +4536,7 @@
       "id": "reel-20261030-1100-e97e2940d7",
       "data": "2026-10-30",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "e97e2940d7ad389bffeb80907bb0927d51da8c3a9d9382572e55ea4cb8162c9f"
@@ -4549,12 +4549,17 @@
       },
       "instagram": {
         "legenda": "Um menino de nove anos foi trabalhar de graça.\n\nE aprendeu mais do que em qualquer escola.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nIsso não quer dizer trabalhar de graça pra sempre, tá?\n\nQuer dizer que o que você aprende vale mais que o salário.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18112592600522238",
+        "publicado_em": "2026-10-30T11:11:33.254323-03:00"
       },
       "facebook": {
         "legenda": "Um menino de nove anos foi trabalhar de graça.\n\nE aprendeu mais do que em qualquer escola.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nIsso não quer dizer trabalhar de graça pra sempre, tá?\n\nQuer dizer que o que você aprende vale mais que o salário.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1664683682336919",
+        "publicado_em": "2026-10-30T11:11:46.973479-03:00"
+      },
+      "concluido_em": "2026-10-30T11:11:46.981474-03:00"
     },
     {
       "id": "reel-20261030-1400-b2a605c875",
