@@ -4566,7 +4566,7 @@
       "id": "reel-20261030-1400-b2a605c875",
       "data": "2026-10-30",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "b2a605c8750ce45df62deb93c90d3784ce5b7373410dd2c04636fab3a6c07cef"
@@ -4579,12 +4579,17 @@
       },
       "instagram": {
         "legenda": "O Arkad investiu, o dinheiro rendeu, e o mestre dele deu risada.\n\nPorque ele tava cometendo o erro que deixa muita gente pobre até hoje.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO mestre chamou ele pra ser sócio nas terras dele.\n\nFoi aí que o Arkad começou a virar o homem mais rico da Babilônia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18098054897408196",
+        "publicado_em": "2026-10-30T14:44:28.435091-03:00"
       },
       "facebook": {
         "legenda": "O Arkad investiu, o dinheiro rendeu, e o mestre dele deu risada.\n\nPorque ele tava cometendo o erro que deixa muita gente pobre até hoje.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nO mestre chamou ele pra ser sócio nas terras dele.\n\nFoi aí que o Arkad começou a virar o homem mais rico da Babilônia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1624169953056542",
+        "publicado_em": "2026-10-30T14:44:53.623043-03:00"
+      },
+      "concluido_em": "2026-10-30T14:44:53.635544-03:00"
     },
     {
       "id": "reel-20261030-1700-f4e6216106",
