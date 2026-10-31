@@ -4635,7 +4635,8 @@
         "asset": "reel-e971d6f077-Habitos-Atomicos-15---Cinco-minutos-na-academia.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-e971d6f077-Habitos-Atomicos-15---Cinco-minutos-na-academia.mp4",
         "sha256": "e971d6f0777500cbd3adba858971c118b26f7a320fdfa8f62906c1911e3061cb",
-        "tamanho_bytes": 13023509
+        "tamanho_bytes": 13023509,
+        "removido_da_release_em": "2026-10-30T21:33:33.775183-03:00"
       },
       "instagram": {
         "legenda": "Um homem ia pra academia todo dia, mas ficava só cinco minutos.\n\nPassou dos cinco minutos, ele ia embora, mesmo com vontade de ficar.\n\nEssa lição está no livro Hábitos Atômicos.\n\nO começo tem que ser fácil demais pra dizer não.\n\nE pro hábito ruim, inverte: coloca obstáculo entre você e ele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
