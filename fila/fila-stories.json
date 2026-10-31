@@ -1678,7 +1678,7 @@
       "id": "story-20261031-c1deb6313c",
       "data": "2026-10-31",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
         "sha256": "c1deb6313c98b644de18733bc601d9bdf9d57437cbb0883fffa6762ed0737737",
@@ -1688,7 +1688,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
@@ -1697,13 +1697,30 @@
             "duracao_segundos": 32.533
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18149580880534618",
+            "publish_iniciado_em": "2026-10-31T09:15:57-03:00",
+            "id": "17914642182551638",
+            "publicado_em": "2026-10-31T09:16:05-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "996814192747593",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-31T09:16:14-03:00",
+            "post_id_candidato": "1469170678435871",
+            "finish_em": "2026-10-31T09:16:20-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE0NjkxNzA2ODE3NjkyMDQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1469170678435871",
+            "publicado_em": "2026-10-31T09:16:56-03:00"
+          },
+          "concluido_em": "2026-10-31T09:16:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-31T09:16:56-03:00"
     },
     {
       "id": "story-20261101-19269918ed",
