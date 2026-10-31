@@ -1694,7 +1694,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-c1deb6313c-Mente-Milionaria-12---Maior-que-o-problema.mp4",
             "sha256": "c1deb6313c98b644de18733bc601d9bdf9d57437cbb0883fffa6762ed0737737",
             "tamanho_bytes": 10435602,
-            "duracao_segundos": 32.533
+            "duracao_segundos": 32.533,
+            "removido_da_release_em": "2026-10-31T09:16:59.218870-03:00"
           },
           "instagram": {
             "status": "publicado",
