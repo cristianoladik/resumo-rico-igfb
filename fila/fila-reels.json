@@ -4665,7 +4665,8 @@
         "asset": "reel-561c8cd1c0-Tamanho-1m30---Pai-Rico-06---Corrida-dos-ratos.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-561c8cd1c0-Tamanho-1m30---Pai-Rico-06---Corrida-dos-ratos.mp4",
         "sha256": "561c8cd1c0c302cd6a30f6f48fdbe1220fe3bfb354168d0a2ee0437299bc7157",
-        "tamanho_bytes": 33045934
+        "tamanho_bytes": 33045934,
+        "removido_da_release_em": "2026-10-31T09:19:23.498833-03:00"
       },
       "instagram": {
         "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
