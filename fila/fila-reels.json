@@ -4866,7 +4866,7 @@
       "id": "reel-20261101-1400-687b8cff7f",
       "data": "2026-11-01",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "687b8cff7fcf6ad324deae4cb8978f0e0d1f64d81c5193ba557ce0e43bfa9230"
@@ -4879,12 +4879,17 @@
       },
       "instagram": {
         "legenda": "Seu parente pediu dinheiro emprestado.\n\nE você não sabe como dizer não.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nGuarda o resto do ouro.\n\nE faz ele render com segurança.\n\nE na tampa da caixa: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18028919513864235",
+        "publicado_em": "2026-11-01T14:17:24.957221-03:00"
       },
       "facebook": {
         "legenda": "Seu parente pediu dinheiro emprestado.\n\nE você não sabe como dizer não.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nGuarda o resto do ouro.\n\nE faz ele render com segurança.\n\nE na tampa da caixa: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1144163444966930",
+        "publicado_em": "2026-11-01T14:17:39.507278-03:00"
+      },
+      "concluido_em": "2026-11-01T14:17:39.514912-03:00"
     },
     {
       "id": "reel-20261101-1700-18fc86751f",
