@@ -4845,7 +4845,8 @@
         "asset": "reel-e20da5438c-Habitos-Atomicos-16---A-aula-de-fotografia.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-e20da5438c-Habitos-Atomicos-16---A-aula-de-fotografia.mp4",
         "sha256": "e20da5438cdf0e96ed5878e65d91001fd6d26f2fcf8eeaa1f89325356b4b7cc0",
-        "tamanho_bytes": 14865462
+        "tamanho_bytes": 14865462,
+        "removido_da_release_em": "2026-11-01T11:11:40.082642-03:00"
       },
       "instagram": {
         "legenda": "Quantidade ou qualidade: qual das duas gera o melhor resultado?\n\nO livro Hábitos Atômicos responde com uma aula de fotografia.\n\nPlanejar é movimento.\n\nDá sensação de progresso, mas não entrega nada.\n\nFazer é ação.\n\nE o hábito se forma pela repetição.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
