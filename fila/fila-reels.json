@@ -4836,7 +4836,7 @@
       "id": "reel-20261101-1100-e20da5438c",
       "data": "2026-11-01",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 16 - A aula de fotografia.mp4",
         "sha256": "e20da5438cdf0e96ed5878e65d91001fd6d26f2fcf8eeaa1f89325356b4b7cc0"
@@ -4849,12 +4849,17 @@
       },
       "instagram": {
         "legenda": "Quantidade ou qualidade: qual das duas gera o melhor resultado?\n\nO livro Hábitos Atômicos responde com uma aula de fotografia.\n\nPlanejar é movimento.\n\nDá sensação de progresso, mas não entrega nada.\n\nFazer é ação.\n\nE o hábito se forma pela repetição.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18141415363622025",
+        "publicado_em": "2026-11-01T11:11:26.594004-03:00"
       },
       "facebook": {
         "legenda": "Quantidade ou qualidade: qual das duas gera o melhor resultado?\n\nO livro Hábitos Atômicos responde com uma aula de fotografia.\n\nPlanejar é movimento.\n\nDá sensação de progresso, mas não entrega nada.\n\nFazer é ação.\n\nE o hábito se forma pela repetição.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1444785003926344",
+        "publicado_em": "2026-11-01T11:11:38.013798-03:00"
+      },
+      "concluido_em": "2026-11-01T11:11:38.024464-03:00"
     },
     {
       "id": "reel-20261101-1400-687b8cff7f",
