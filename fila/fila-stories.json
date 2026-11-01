@@ -1727,7 +1727,7 @@
       "id": "story-20261101-19269918ed",
       "data": "2026-11-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
         "sha256": "19269918ed7c77bd92cd9d1432a873a70c8795ba34e2014a821e84d4a5164f99",
@@ -1737,7 +1737,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-19269918ed-Pai-Rico-12---Pobre-classe-media-rico.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-19269918ed-Pai-Rico-12---Pobre-classe-media-rico.mp4",
@@ -1746,13 +1746,30 @@
             "duracao_segundos": 37.633
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18149966851534618",
+            "publish_iniciado_em": "2026-11-01T09:15:57-03:00",
+            "id": "18119965757048664",
+            "publicado_em": "2026-11-01T09:16:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4408450879418277",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-01T09:16:15-03:00",
+            "post_id_candidato": "1478736800830974",
+            "finish_em": "2026-11-01T09:16:20-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE0Nzg3MzY4MTQxNjQzMDY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1478736800830974",
+            "publicado_em": "2026-11-01T09:16:57-03:00"
+          },
+          "concluido_em": "2026-11-01T09:16:57-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-01T09:16:57-03:00"
     },
     {
       "id": "story-20261102-4b23ad22bc",
