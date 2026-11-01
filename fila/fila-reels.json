@@ -4815,7 +4815,8 @@
         "asset": "reel-22e5d5a5fe-Tamanho-2m00---Pai-Rico-09---A-casa-onde-voce-mora.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-22e5d5a5fe-Tamanho-2m00---Pai-Rico-09---A-casa-onde-voce-mora.mp4",
         "sha256": "22e5d5a5fe5ab7127e238d46a3c72c26e342c7fcc8a64cd2e248ea7436da8d87",
-        "tamanho_bytes": 41086640
+        "tamanho_bytes": 41086640,
+        "removido_da_release_em": "2026-11-01T08:40:45.759518-03:00"
       },
       "instagram": {
         "legenda": "A sua casa não é investimento.\n\nCalma, não sou eu que tô falando.\n\nÉ o livro Pai Rico, Pai Pobre.\n\nUma dica minha: casa construída pra vender com lucro também é ativo.\n\nAtivo primeiro.\n\nCasa grande depois.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
