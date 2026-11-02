@@ -1792,7 +1792,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-4b23ad22bc-Babilonia-13---O-plano-do-Dabasir.mp4",
             "sha256": "4b23ad22bcac9b316b83d01b3df3c012179ce58cfc12258bf0425fe359764bcd",
             "tamanho_bytes": 10481686,
-            "duracao_segundos": 34.933
+            "duracao_segundos": 34.933,
+            "removido_da_release_em": "2026-11-02T09:17:05.237300-03:00"
           },
           "instagram": {
             "status": "publicado",
