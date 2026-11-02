@@ -5016,7 +5016,7 @@
       "id": "reel-20261102-1400-af345b5a82",
       "data": "2026-11-02",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 17 - Os clipes.mp4",
         "sha256": "af345b5a826d009df55323f6fcbbf77dfa3a69685b3534fcfdbb838208e1ef01"
@@ -5029,18 +5029,23 @@
       },
       "instagram": {
         "legenda": "Dois potes e uns clipes ajudaram um corretor a trazer milhões.\n\nA história tá no livro Hábitos Atômicos.\n\nEm um ano e meio, ele já trazia cinco milhões de dólares pra empresa.\n\nE se falhar um dia?\n\nNunca falhe duas vezes.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17868037800680665",
+        "publicado_em": "2026-11-02T18:25:54.394056-03:00"
       },
       "facebook": {
         "legenda": "Dois potes e uns clipes ajudaram um corretor a trazer milhões.\n\nA história tá no livro Hábitos Atômicos.\n\nEm um ano e meio, ele já trazia cinco milhões de dólares pra empresa.\n\nE se falhar um dia?\n\nNunca falhe duas vezes.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1129639319984262",
+        "publicado_em": "2026-11-02T18:26:07.908755-03:00"
+      },
+      "concluido_em": "2026-11-02T18:26:07.919284-03:00"
     },
     {
       "id": "reel-20261102-1700-3069fcef94",
       "data": "2026-11-02",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Mente Milionaria 17 - Patrimonio.mp4",
         "sha256": "3069fcef943789ad1d16159516b1e23a1384ce6dedad9118954243aaae67c8a5"
@@ -5053,12 +5058,17 @@
       },
       "instagram": {
         "legenda": "Ganhar muito não é ser rico.\n\nTem uma conta que importa mais.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO salário é o que passa pela sua mão.\n\nO patrimônio é o que fica nela.\n\nO que importa não é quanto entra.\n\nÉ quanto fica.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18036975200854330",
+        "publicado_em": "2026-11-02T18:27:50.327490-03:00"
       },
       "facebook": {
         "legenda": "Ganhar muito não é ser rico.\n\nTem uma conta que importa mais.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO salário é o que passa pela sua mão.\n\nO patrimônio é o que fica nela.\n\nO que importa não é quanto entra.\n\nÉ quanto fica.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2037675703589208",
+        "publicado_em": "2026-11-02T18:28:03.327106-03:00"
+      },
+      "concluido_em": "2026-11-02T18:28:03.337457-03:00"
     },
     {
       "id": "reel-20261102-2000-b7a095a762",
