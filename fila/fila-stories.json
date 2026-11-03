@@ -1825,7 +1825,7 @@
       "id": "story-20261103-f8deb7563e",
       "data": "2026-11-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 13 - Saber receber.mp4",
         "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026",
@@ -1835,7 +1835,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
@@ -1844,13 +1844,30 @@
             "duracao_segundos": 32.167
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18150568579534618",
+            "publish_iniciado_em": "2026-11-03T09:18:54-03:00",
+            "id": "18156416566574726",
+            "publicado_em": "2026-11-03T09:19:02-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1113408524811212",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-03T09:19:09-03:00",
+            "post_id_candidato": "900685626447923",
+            "finish_em": "2026-11-03T09:19:13-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjkwMDY4NTYyOTc4MTI1Ng==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "900685626447923",
+            "publicado_em": "2026-11-03T09:19:49-03:00"
+          },
+          "concluido_em": "2026-11-03T09:19:49-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-03T09:19:49-03:00"
     },
     {
       "id": "story-20261104-26a19fd594",
