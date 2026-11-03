@@ -1841,7 +1841,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f8deb7563e-Mente-Milionaria-13---Saber-receber.mp4",
             "sha256": "f8deb7563ec46e1168d6b10cc6c32fc6b867bef9ebae8ddd3d7cf73a7678d026",
             "tamanho_bytes": 10470718,
-            "duracao_segundos": 32.167
+            "duracao_segundos": 32.167,
+            "removido_da_release_em": "2026-11-03T09:19:52.537626-03:00"
           },
           "instagram": {
             "status": "publicado",
