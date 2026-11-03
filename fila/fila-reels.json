@@ -5106,7 +5106,7 @@
       "id": "reel-20261103-0800-400b753f6b",
       "data": "2026-11-03",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "400b753f6b0d808d2576ef8952939bed449a2c7def92841685c5d3432dc2055a"
@@ -5119,12 +5119,17 @@
       },
       "instagram": {
         "legenda": "O filho do homem mais rico da Babilônia perdeu toda a herança.\n\nE dez anos depois, voltou com o triplo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE mais dois sacos, pela placa de sabedoria.\n\nSem sabedoria, o ouro some.\n\nCom ela, o ouro vem.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18112584752098056",
+        "publicado_em": "2026-11-03T09:17:47.801077-03:00"
       },
       "facebook": {
         "legenda": "O filho do homem mais rico da Babilônia perdeu toda a herança.\n\nE dez anos depois, voltou com o triplo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE mais dois sacos, pela placa de sabedoria.\n\nSem sabedoria, o ouro some.\n\nCom ela, o ouro vem.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4529873987296071",
+        "publicado_em": "2026-11-03T09:18:08.024226-03:00"
+      },
+      "concluido_em": "2026-11-03T09:18:08.036949-03:00"
     },
     {
       "id": "reel-20261103-1100-6549ea58f3",
