@@ -1874,7 +1874,7 @@
       "id": "story-20261104-26a19fd594",
       "data": "2026-11-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
         "sha256": "26a19fd5947c3d601794aa8ce1d6697e2e28dde63cf586dcb47033e5d5f64eb1",
@@ -1884,7 +1884,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
@@ -1893,13 +1893,30 @@
             "duracao_segundos": 32.8
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18150839947534618",
+            "publish_iniciado_em": "2026-11-04T09:17:18-03:00",
+            "id": "18043899014824572",
+            "publicado_em": "2026-11-04T09:17:26-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1179436608088248",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-04T09:17:33-03:00",
+            "post_id_candidato": "1771892560774139",
+            "finish_em": "2026-11-04T09:17:39-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE3NzE4OTI1Njc0NDA4MDU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1771892560774139",
+            "publicado_em": "2026-11-04T09:18:16-03:00"
+          },
+          "concluido_em": "2026-11-04T09:18:16-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-04T09:18:16-03:00"
     },
     {
       "id": "story-20261105-d429d4fbbe",
