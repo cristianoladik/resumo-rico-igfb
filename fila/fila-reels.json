@@ -5235,7 +5235,8 @@
         "asset": "reel-63d67dcee5-Habitos-Atomicos-18---Steve-Martin-e-o-tedio.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-63d67dcee5-Habitos-Atomicos-18---Steve-Martin-e-o-tedio.mp4",
         "sha256": "63d67dcee549de34f40ef2cf6e4a88ee191e51128eadb09a61b77d52a9989243",
-        "tamanho_bytes": 15105400
+        "tamanho_bytes": 15105400,
+        "removido_da_release_em": "2026-11-03T21:35:29.843413-03:00"
       },
       "instagram": {
         "legenda": "O maior inimigo do sucesso não é o fracasso.\n\nÉ o tédio.\n\nQuem diz isso é o livro Hábitos Atômicos.\n\nE pra não enjoar, o desafio tem que ficar logo acima da sua capacidade.\n\nFácil demais dá tédio.\n\nDifícil demais desanima.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
