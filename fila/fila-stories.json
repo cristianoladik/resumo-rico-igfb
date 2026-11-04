@@ -1890,7 +1890,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-26a19fd594-Pai-Rico-13---O-negocio-de-quem.mp4",
             "sha256": "26a19fd5947c3d601794aa8ce1d6697e2e28dde63cf586dcb47033e5d5f64eb1",
             "tamanho_bytes": 11656924,
-            "duracao_segundos": 32.8
+            "duracao_segundos": 32.8,
+            "removido_da_release_em": "2026-11-04T09:18:18.738303-03:00"
           },
           "instagram": {
             "status": "publicado",
