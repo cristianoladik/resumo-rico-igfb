@@ -5226,7 +5226,7 @@
       "id": "reel-20261103-2000-63d67dcee5",
       "data": "2026-11-03",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 18 - Steve Martin e o tedio.mp4",
         "sha256": "63d67dcee549de34f40ef2cf6e4a88ee191e51128eadb09a61b77d52a9989243"
@@ -5239,12 +5239,17 @@
       },
       "instagram": {
         "legenda": "O maior inimigo do sucesso não é o fracasso.\n\nÉ o tédio.\n\nQuem diz isso é o livro Hábitos Atômicos.\n\nE pra não enjoar, o desafio tem que ficar logo acima da sua capacidade.\n\nFácil demais dá tédio.\n\nDifícil demais desanima.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18133754584810407",
+        "publicado_em": "2026-11-03T21:35:12.574059-03:00"
       },
       "facebook": {
         "legenda": "O maior inimigo do sucesso não é o fracasso.\n\nÉ o tédio.\n\nQuem diz isso é o livro Hábitos Atômicos.\n\nE pra não enjoar, o desafio tem que ficar logo acima da sua capacidade.\n\nFácil demais dá tédio.\n\nDifícil demais desanima.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1687128123078435",
+        "publicado_em": "2026-11-03T21:35:27.319478-03:00"
+      },
+      "concluido_em": "2026-11-03T21:35:27.332199-03:00"
     },
     {
       "id": "reel-20261104-0800-eaabc9caa5",
