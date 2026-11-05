@@ -5467,7 +5467,7 @@
       "id": "reel-20261105-1400-09767c5888",
       "data": "2026-11-05",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "09767c5888f3be8e054517a88597f6d3487087d2b1d79efd95c047618930c5b2"
@@ -5480,12 +5480,17 @@
       },
       "instagram": {
         "legenda": "Ele guardou, investiu e ganhou juros.\n\nE torrou os juros numa festa.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE a resposta que eu prometi: primeiro monta um exército de moedas trabalhando.\n\nDepois, pode fazer muita festa sem arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17953028163324239",
+        "publicado_em": "2026-11-05T16:30:28.569903-03:00"
       },
       "facebook": {
         "legenda": "Ele guardou, investiu e ganhou juros.\n\nE torrou os juros numa festa.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE a resposta que eu prometi: primeiro monta um exército de moedas trabalhando.\n\nDepois, pode fazer muita festa sem arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1902144040771841",
+        "publicado_em": "2026-11-05T16:30:41.218117-03:00"
+      },
+      "concluido_em": "2026-11-05T16:30:41.225880-03:00"
     },
     {
       "id": "reel-20261105-1700-7031ecaf06",
