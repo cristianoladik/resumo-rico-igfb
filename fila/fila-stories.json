@@ -1923,7 +1923,7 @@
       "id": "story-20261105-d429d4fbbe",
       "data": "2026-11-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 14 - A sorte.mp4",
         "sha256": "d429d4fbbef694c2eb216dde50584919a4a7a87014eaa2a6e076deea6ea6d767",
@@ -1933,7 +1933,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d429d4fbbe-Babilonia-14---A-sorte.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-d429d4fbbe-Babilonia-14---A-sorte.mp4",
@@ -1942,13 +1942,30 @@
             "duracao_segundos": 32.167
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18151100647534618",
+            "publish_iniciado_em": "2026-11-05T09:17:51-03:00",
+            "id": "17943521460368943",
+            "publicado_em": "2026-11-05T09:17:59-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2017403758888531",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-05T09:18:10-03:00",
+            "post_id_candidato": "1131981219555948",
+            "finish_em": "2026-11-05T09:18:15-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMzE5ODEyMjI4ODkyODE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1131981219555948",
+            "publicado_em": "2026-11-05T09:18:51-03:00"
+          },
+          "concluido_em": "2026-11-05T09:18:51-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-05T09:18:51-03:00"
     },
     {
       "id": "story-20261106-6bfb5079ae",
