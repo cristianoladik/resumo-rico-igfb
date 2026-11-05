@@ -5436,7 +5436,7 @@
       "id": "reel-20261105-1100-01b00d392f",
       "data": "2026-11-05",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "com_defeito",
       "origem": {
         "arquivo": "Habitos Atomicos 19 - O Lakers e o 1 por cento.mp4",
         "sha256": "01b00d392f8f4e64253552ce530736566e6689cb56fb61ddb2a5b3b55526391d"
@@ -5449,12 +5449,19 @@
       },
       "instagram": {
         "legenda": "Em mil novecentos e oitenta e seis, o Lakers era um timaço e perdeu nos playoffs.\n\nO livro Hábitos Atômicos conta o que o técnico fez depois.\n\nO próprio autor faz uma revisão todo fim de ano.\n\nO que deu certo?\n\nO que não deu?\n\nO que eu aprendi?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Instagram não processou o Reel: {'id': '18151130896534618', 'status': 'Error: Media upload has failed with error code 2207077', 'status_code': 'ERROR'}",
+        "ultima_tentativa_em": "2026-11-05T11:10:28.912342-03:00",
+        "tentativas": 1
       },
       "facebook": {
         "legenda": "Em mil novecentos e oitenta e seis, o Lakers era um timaço e perdeu nos playoffs.\n\nO livro Hábitos Atômicos conta o que o técnico fez depois.\n\nO próprio autor faz uma revisão todo fim de ano.\n\nO que deu certo?\n\nO que não deu?\n\nO que eu aprendi?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1137163025594188",
+        "publicado_em": "2026-11-05T11:10:49.129596-03:00"
+      },
+      "motivo_defeito": "instagram: o arquivo foi recusado (media upload has failed)",
+      "posto_de_lado_em": "2026-11-05T11:10:49.153920-03:00"
     },
     {
       "id": "reel-20261105-1400-09767c5888",
