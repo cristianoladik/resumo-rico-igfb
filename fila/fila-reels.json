@@ -5647,7 +5647,7 @@
       "id": "reel-20261106-1700-d602161322",
       "data": "2026-11-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 20 - Phelps e El Guerrouj.mp4",
         "sha256": "d602161322776aee8f9cbaabbe439625cbc10b0a37472b25810f30e1f964468a"
@@ -5660,12 +5660,17 @@
       },
       "instagram": {
         "legenda": "Um nadador e um corredor, os dois campeões olímpicos, usam calça com o mesmo comprimento de perna.\n\nO livro Hábitos Atômicos usa isso pra falar de talento.\n\nGene não tira a necessidade de trabalhar duro.\n\nMostra onde trabalhar.\n\nEscolhe um jogo em que as chances estão do seu lado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18185014126425890",
+        "publicado_em": "2026-11-06T17:18:04.587242-03:00"
       },
       "facebook": {
         "legenda": "Um nadador e um corredor, os dois campeões olímpicos, usam calça com o mesmo comprimento de perna.\n\nO livro Hábitos Atômicos usa isso pra falar de talento.\n\nGene não tira a necessidade de trabalhar duro.\n\nMostra onde trabalhar.\n\nEscolhe um jogo em que as chances estão do seu lado.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2206623833582903",
+        "publicado_em": "2026-11-06T17:18:14.109487-03:00"
+      },
+      "concluido_em": "2026-11-06T17:18:14.121622-03:00"
     },
     {
       "id": "reel-20261106-2000-86b11f745f",
