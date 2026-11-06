@@ -1972,7 +1972,7 @@
       "id": "story-20261106-6bfb5079ae",
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 14 - Agir com medo.mp4",
         "sha256": "6bfb5079aea7a800f1ffbe0f3b6bab5bce182842d066425d9e5e285985865249",
@@ -1982,7 +1982,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-6bfb5079ae-Mente-Milionaria-14---Agir-com-medo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-6bfb5079ae-Mente-Milionaria-14---Agir-com-medo.mp4",
@@ -1991,13 +1991,30 @@
             "duracao_segundos": 31.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18151413220534618",
+            "publish_iniciado_em": "2026-11-06T11:58:24-03:00",
+            "id": "18113922146242198",
+            "publicado_em": "2026-11-06T11:58:31-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "28914393051532936",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-06T11:58:39-03:00",
+            "post_id_candidato": "29312945931663349",
+            "finish_em": "2026-11-06T11:58:42-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjI5MzEyOTQ1OTQ4MzMwMDE0/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "29312945931663349",
+            "publicado_em": "2026-11-06T11:59:19-03:00"
+          },
+          "concluido_em": "2026-11-06T11:59:19-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-06T11:59:19-03:00"
     },
     {
       "id": "story-20261107-a1d171d3ae",
