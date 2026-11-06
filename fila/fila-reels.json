@@ -5557,7 +5557,7 @@
       "id": "reel-20261106-0800-da4bd9c013",
       "data": "2026-11-06",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "da4bd9c0136aa6577381f630a27501364ef2b26a436d6f166a9b4e012e59c98b"
@@ -5570,18 +5570,23 @@
       },
       "instagram": {
         "legenda": "Um escrivão trabalhou a noite toda, com dor nas costas e a vista ardendo.\n\nEm troca de um segredo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nMas ele segurou.\n\nVocê é a primeira conta do mês.\n\nNão a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17975751411155716",
+        "publicado_em": "2026-11-06T11:12:00.792030-03:00"
       },
       "facebook": {
         "legenda": "Um escrivão trabalhou a noite toda, com dor nas costas e a vista ardendo.\n\nEm troca de um segredo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nMas ele segurou.\n\nVocê é a primeira conta do mês.\n\nNão a última.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1538774374675702",
+        "publicado_em": "2026-11-06T11:12:14.271386-03:00"
+      },
+      "concluido_em": "2026-11-06T11:12:14.283434-03:00"
     },
     {
       "id": "reel-20261106-1100-3b7e72985b",
       "data": "2026-11-06",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 08 - Ativo x passivo.mp4",
         "sha256": "3b7e72985ba62dfcf0f8a5fde5ef38c774982a640745b5692f24386b7d3ead93"
@@ -5594,12 +5599,17 @@
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre. pode ser a casa onde você mora.\n\nEla cobra parcela, imposto, luz e manutenção todo mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18129184117855929",
+        "publicado_em": "2026-11-06T11:14:03.422893-03:00"
       },
       "facebook": {
         "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre. pode ser a casa onde você mora.\n\nEla cobra parcela, imposto, luz e manutenção todo mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2047926089252282",
+        "publicado_em": "2026-11-06T11:14:15.014848-03:00"
+      },
+      "concluido_em": "2026-11-06T11:14:15.026554-03:00"
     },
     {
       "id": "reel-20261106-1400-f5067cafd4",
