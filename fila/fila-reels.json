@@ -5677,7 +5677,7 @@
       "id": "reel-20261106-2000-86b11f745f",
       "data": "2026-11-06",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Mente Milionaria 12 - Maior que o problema.mp4",
         "sha256": "86b11f745fa46e0cb9d1fd127ef106cec0653121503584f77b3e1f7fe2c702b3"
@@ -5690,12 +5690,17 @@
       },
       "instagram": {
         "legenda": "Para de pedir menos problema.\n\nPede isso aqui: ser uma pessoa maior que o problema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nEntão o problema não é o inimigo.\n\nÉ o treino.\n\nResumindo: para de pedir menos problema.\n\nPede pra ser maior.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18093928415234728",
+        "publicado_em": "2026-11-06T22:43:48.349021-03:00"
       },
       "facebook": {
         "legenda": "Para de pedir menos problema.\n\nPede isso aqui: ser uma pessoa maior que o problema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nEntão o problema não é o inimigo.\n\nÉ o treino.\n\nResumindo: para de pedir menos problema.\n\nPede pra ser maior.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29551336007817289",
+        "publicado_em": "2026-11-06T22:43:58.997879-03:00"
+      },
+      "concluido_em": "2026-11-06T22:43:59.011148-03:00"
     },
     {
       "id": "reel-20261107-0800-d9ab811386",
