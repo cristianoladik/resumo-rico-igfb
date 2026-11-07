@@ -2021,7 +2021,7 @@
       "id": "story-20261107-a1d171d3ae",
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
         "sha256": "a1d171d3ae57508dc99a9717670ca174d77eb5f7482326c9fcec26d7110603fd",
@@ -2031,7 +2031,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a1d171d3ae-Pai-Rico-14---O-decimo-terceiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a1d171d3ae-Pai-Rico-14---O-decimo-terceiro.mp4",
@@ -2040,13 +2040,30 @@
             "duracao_segundos": 30.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18151657588534618",
+            "publish_iniciado_em": "2026-11-07T10:56:39-03:00",
+            "id": "17873995158646438",
+            "publicado_em": "2026-11-07T10:56:49-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "3547037982122818",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-07T10:56:57-03:00",
+            "post_id_candidato": "1690573912411653",
+            "finish_em": "2026-11-07T10:57:03-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE2OTA1NzM5MTkwNzgzMTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1690573912411653",
+            "publicado_em": "2026-11-07T10:57:41-03:00"
+          },
+          "concluido_em": "2026-11-07T10:57:41-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-07T10:57:41-03:00"
     },
     {
       "id": "story-20261108-e76f88bd89",
