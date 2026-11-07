@@ -5797,7 +5797,7 @@
       "id": "reel-20261107-1700-a417fffdd3",
       "data": "2026-11-07",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Babilonia 13 - O plano do Dabasir.mp4",
         "sha256": "a417fffdd31601118ed4093c25d5ba4e1de8f2a3937653378e03fda86b5acd8b"
@@ -5810,12 +5810,17 @@
       },
       "instagram": {
         "legenda": "Ele devia pra tanta gente que fugiu da própria cidade.\n\nVirou escravo.\n\nQuase morreu no deserto.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE tinha dinheiro guardado que ninguém podia cobrar.\n\nEm mais ou menos um ano e meio, pagou o último credor.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17904502980605546",
+        "publicado_em": "2026-11-07T19:53:23.191198-03:00"
       },
       "facebook": {
         "legenda": "Ele devia pra tanta gente que fugiu da própria cidade.\n\nVirou escravo.\n\nQuase morreu no deserto.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE tinha dinheiro guardado que ninguém podia cobrar.\n\nEm mais ou menos um ano e meio, pagou o último credor.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2179867049550207",
+        "publicado_em": "2026-11-07T19:53:43.012116-03:00"
+      },
+      "concluido_em": "2026-11-07T19:53:43.024307-03:00"
     },
     {
       "id": "reel-20261107-2000-68fa6ffafa",
