@@ -5857,7 +5857,7 @@
       "id": "reel-20261108-0800-1ffccb8b05",
       "data": "2026-11-08",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 14 - A sorte.mp4",
         "sha256": "1ffccb8b0588c710a8422ea6c421c5498be4f9d7072688a1f1af1050955e13c8"
@@ -5870,12 +5870,17 @@
       },
       "instagram": {
         "legenda": "A sorte não aparece pra quem fica esperando por ela.\n\nO livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso.\n\nO que mais espanta a sorte é deixar pra depois.\n\nA sorte gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107766110626473",
+        "publicado_em": "2026-11-08T09:31:18.998443-03:00"
       },
       "facebook": {
         "legenda": "A sorte não aparece pra quem fica esperando por ela.\n\nO livro O Homem Mais Rico da Babilônia tem um capítulo só sobre isso.\n\nO que mais espanta a sorte é deixar pra depois.\n\nA sorte gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1776530660118177",
+        "publicado_em": "2026-11-08T09:31:34.766460-03:00"
+      },
+      "concluido_em": "2026-11-08T09:31:34.776334-03:00"
     },
     {
       "id": "reel-20261108-1100-02fe430198",
