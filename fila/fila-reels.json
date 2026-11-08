@@ -5947,7 +5947,7 @@
       "id": "reel-20261108-1700-88fa47805a",
       "data": "2026-11-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "88fa47805a9aae5b4e6cbf9dc5dfce3e8f219a91d34cc6a9fb5ea4fcd3ef1136"
@@ -5960,18 +5960,23 @@
       },
       "instagram": {
         "legenda": "Um velho perguntou pros ajudantes da caravana: ouro ou sabedoria?\n\nTodos gritaram: o ouro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE mais dois.\n\nEsses são pela placa de sabedoria.\n\nRiqueza que vem rápido vai embora do mesmo jeito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18006662715008133",
+        "publicado_em": "2026-11-08T20:28:17.660503-03:00"
       },
       "facebook": {
         "legenda": "Um velho perguntou pros ajudantes da caravana: ouro ou sabedoria?\n\nTodos gritaram: o ouro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE mais dois.\n\nEsses são pela placa de sabedoria.\n\nRiqueza que vem rápido vai embora do mesmo jeito.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "996334273534906",
+        "publicado_em": "2026-11-08T20:28:33.781809-03:00"
+      },
+      "concluido_em": "2026-11-08T20:28:33.794607-03:00"
     },
     {
       "id": "reel-20261108-2000-90e66b57f9",
       "data": "2026-11-08",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 19 - Paga voce primeiro.mp4",
         "sha256": "90e66b57f976cab3599da2dda527c424e759cdf7a24c9750df97f2c3738378d7"
@@ -5984,12 +5989,17 @@
       },
       "instagram": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nUma dica minha: começa com pouco, mas começa esse mês.\n\nQuem espera sobrar nunca investe.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18035300243910142",
+        "publicado_em": "2026-11-08T20:29:38.958449-03:00"
       },
       "facebook": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nUma dica minha: começa com pouco, mas começa esse mês.\n\nQuem espera sobrar nunca investe.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1863402608128728",
+        "publicado_em": "2026-11-08T20:29:52.638214-03:00"
+      },
+      "concluido_em": "2026-11-08T20:29:52.650286-03:00"
     },
     {
       "id": "reel-20261109-0800-d4968dcb9d",
