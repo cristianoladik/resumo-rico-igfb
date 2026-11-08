@@ -2086,7 +2086,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
             "sha256": "e76f88bd895152c5b7139b479f648e8214cbd1ccaba7e588d22119d340deb82d",
             "tamanho_bytes": 13157430,
-            "duracao_segundos": 34.4
+            "duracao_segundos": 34.4,
+            "removido_da_release_em": "2026-11-08T09:33:45.087635-03:00"
           },
           "instagram": {
             "status": "publicado",
