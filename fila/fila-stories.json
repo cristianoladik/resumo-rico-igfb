@@ -2070,7 +2070,7 @@
       "id": "story-20261108-e76f88bd89",
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 15 - A conta dos 60 mil.mp4",
         "sha256": "e76f88bd895152c5b7139b479f648e8214cbd1ccaba7e588d22119d340deb82d",
@@ -2080,7 +2080,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-e76f88bd89-Babilonia-15---A-conta-dos-60-mil.mp4",
@@ -2089,13 +2089,30 @@
             "duracao_segundos": 34.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18151916143534618",
+            "publish_iniciado_em": "2026-11-08T09:32:18-03:00",
+            "id": "17965250487209373",
+            "publicado_em": "2026-11-08T09:32:25-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4066587576969229",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-08T09:32:33-03:00",
+            "post_id_candidato": "1324523259750317",
+            "finish_em": "2026-11-08T09:32:36-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjEzMjQ1MjMyNjMwODM2NTA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1324523259750317",
+            "publicado_em": "2026-11-08T09:33:42-03:00"
+          },
+          "concluido_em": "2026-11-08T09:33:42-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-08T09:33:42-03:00"
     },
     {
       "id": "story-20261109-196940290a",
