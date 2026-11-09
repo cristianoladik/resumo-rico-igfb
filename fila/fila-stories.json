@@ -2135,7 +2135,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-196940290a-Mente-Milionaria-15---A-xicara-cheia.mp4",
             "sha256": "196940290a0349dc25ea000d27a15c6404e0bf2db7211474626ded7c2a96f787",
             "tamanho_bytes": 11085985,
-            "duracao_segundos": 31.9
+            "duracao_segundos": 31.9,
+            "removido_da_release_em": "2026-11-09T09:32:03.537958-03:00"
           },
           "instagram": {
             "status": "publicado",
