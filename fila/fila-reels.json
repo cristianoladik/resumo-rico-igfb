@@ -6067,7 +6067,7 @@
       "id": "reel-20261109-1400-0ece9d27f8",
       "data": "2026-11-09",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m30 - Pai Rico 20 - O que trava as pessoas.mp4",
         "sha256": "0ece9d27f87faca4e79c595cb7fcc46785f391b127a38c2c9cc7788cd8b7646f"
@@ -6080,18 +6080,23 @@
       },
       "instagram": {
         "legenda": "Cinco coisas travam quem quer ficar rico.\n\nE a última você nem percebe que tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ quem age mesmo com medo, e aprende com o erro.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18015968888969948",
+        "publicado_em": "2026-11-09T18:13:32.901495-03:00"
       },
       "facebook": {
         "legenda": "Cinco coisas travam quem quer ficar rico.\n\nE a última você nem percebe que tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ quem age mesmo com medo, e aprende com o erro.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1153194703827388",
+        "publicado_em": "2026-11-09T18:13:47.175706-03:00"
+      },
+      "concluido_em": "2026-11-09T18:13:47.187587-03:00"
     },
     {
       "id": "reel-20261109-1700-65eed7866c",
       "data": "2026-11-09",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "65eed7866c010d09f47da2cfdaaecd20aaaea853f11bb03eb8ed1ef7295b1976"
@@ -6104,12 +6109,17 @@
       },
       "instagram": {
         "legenda": "Ele ganhou cinquenta moedas de ouro do rei.\n\nE a primeira pessoa a pedir emprestado foi a irmã.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nGuarda o resto.\n\nE só empresta se tiver um jeito seguro de o dinheiro voltar.\n\nNa tampa da caixa tava gravado: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18125734798937179",
+        "publicado_em": "2026-11-09T18:14:59.049029-03:00"
       },
       "facebook": {
         "legenda": "Ele ganhou cinquenta moedas de ouro do rei.\n\nE a primeira pessoa a pedir emprestado foi a irmã.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nGuarda o resto.\n\nE só empresta se tiver um jeito seguro de o dinheiro voltar.\n\nNa tampa da caixa tava gravado: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1497940123396901",
+        "publicado_em": "2026-11-09T18:15:18.155485-03:00"
+      },
+      "concluido_em": "2026-11-09T18:15:18.167149-03:00"
     },
     {
       "id": "reel-20261109-2000-0dc897822d",
