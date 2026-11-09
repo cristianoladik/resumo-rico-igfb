@@ -6037,7 +6037,7 @@
       "id": "reel-20261109-1100-365be4e437",
       "data": "2026-11-09",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 2m00 - Mente Milionaria 20 - Os 6 potes.mp4",
         "sha256": "365be4e4373e28ba87719991fc2610f3b221db933b4b8070241dc4ce92acb1f0"
@@ -6050,12 +6050,17 @@
       },
       "instagram": {
         "legenda": "Entraram dois mil reais?\n\nDivide em seis potes, assim.\n\nE no final eu te conto os dois erros que destroem esse sistema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO que importa no começo não é o valor.\n\nÉ o hábito.\n\nQuem não cuida do pouco não recebe o muito.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18009686781006117",
+        "publicado_em": "2026-11-09T13:06:46.786105-03:00"
       },
       "facebook": {
         "legenda": "Entraram dois mil reais?\n\nDivide em seis potes, assim.\n\nE no final eu te conto os dois erros que destroem esse sistema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO que importa no começo não é o valor.\n\nÉ o hábito.\n\nQuem não cuida do pouco não recebe o muito.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1515703663951568",
+        "publicado_em": "2026-11-09T13:07:06.212535-03:00"
+      },
+      "concluido_em": "2026-11-09T13:07:06.225149-03:00"
     },
     {
       "id": "reel-20261109-1400-0ece9d27f8",
