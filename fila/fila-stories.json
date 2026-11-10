@@ -2184,7 +2184,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
             "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a",
             "tamanho_bytes": 11937549,
-            "duracao_segundos": 34.6
+            "duracao_segundos": 34.6,
+            "removido_da_release_em": "2026-11-10T09:31:59.609840-03:00"
           },
           "instagram": {
             "status": "publicado",
