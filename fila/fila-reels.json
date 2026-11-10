@@ -6187,7 +6187,7 @@
       "id": "reel-20261110-1100-7d2eb43360",
       "data": "2026-11-10",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "7d2eb4336064fc93691e08d28d01e9db795a26504974e829fb422831a8e7ad3d"
@@ -6200,12 +6200,17 @@
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Você já ouviu isso, né?\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nUma dica minha: toda vez que pensar eu não posso, troca por como que eu posso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18130549849878636",
+        "publicado_em": "2026-11-10T11:48:01.524158-03:00"
       },
       "facebook": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Você já ouviu isso, né?\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nUma dica minha: toda vez que pensar eu não posso, troca por como que eu posso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1266675369014299",
+        "publicado_em": "2026-11-10T11:48:15.196774-03:00"
+      },
+      "concluido_em": "2026-11-10T11:48:15.205932-03:00"
     },
     {
       "id": "reel-20261110-1400-ee08651b51",
