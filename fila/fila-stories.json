@@ -2168,7 +2168,7 @@
       "id": "story-20261110-f749499cc4",
       "data": "2026-11-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
         "sha256": "f749499cc421bb9dfc7bb787f2600daffcd52990e725ba991baca4a65a4cfc3a",
@@ -2178,7 +2178,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-f749499cc4-Pai-Rico-15---A-ordem-dos-impostos.mp4",
@@ -2187,13 +2187,30 @@
             "duracao_segundos": 34.6
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18152427136534618",
+            "publish_iniciado_em": "2026-11-10T09:30:56-03:00",
+            "id": "17993783556072240",
+            "publicado_em": "2026-11-10T09:31:05-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1707445274431021",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-10T09:31:15-03:00",
+            "post_id_candidato": "1832934831188247",
+            "finish_em": "2026-11-10T09:31:20-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE4MzI5MzQ4Mzc4NTQ5MTM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1832934831188247",
+            "publicado_em": "2026-11-10T09:31:56-03:00"
+          },
+          "concluido_em": "2026-11-10T09:31:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-10T09:31:56-03:00"
     },
     {
       "id": "story-20261111-0ec61bb922",
