@@ -2217,7 +2217,7 @@
       "id": "story-20261111-0ec61bb922",
       "data": "2026-11-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 16 - A maioria nunca comeca.mp4",
         "sha256": "0ec61bb9225cae9e8798abdec1f1c03dc0b5c2fda5f10f3ba7ab3b6727b5f31e",
@@ -2227,7 +2227,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0ec61bb922-Babilonia-16---A-maioria-nunca-comeca.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-0ec61bb922-Babilonia-16---A-maioria-nunca-comeca.mp4",
@@ -2236,13 +2236,30 @@
             "duracao_segundos": 32.8
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18152708359534618",
+            "publish_iniciado_em": "2026-11-11T09:31:25-03:00",
+            "id": "18118020977095942",
+            "publicado_em": "2026-11-11T09:31:37-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1126949176869611",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-11T09:31:44-03:00",
+            "post_id_candidato": "3020678091616784",
+            "finish_em": "2026-11-11T09:31:49-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjMwMjA2NzgwOTQ5NTAxMTc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3020678091616784",
+            "publicado_em": "2026-11-11T09:32:26-03:00"
+          },
+          "concluido_em": "2026-11-11T09:32:26-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-11T09:32:26-03:00"
     },
     {
       "id": "story-20261112-4159a90bbc",
