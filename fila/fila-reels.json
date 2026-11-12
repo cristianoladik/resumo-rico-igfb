@@ -6487,7 +6487,7 @@
       "id": "reel-20261112-1100-b7ad156c45",
       "data": "2026-11-12",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 14 - A sorte.mp4",
         "sha256": "b7ad156c452edfccc54617ebd64f67f8b837fa7ee27dc37f93d7416af6916fe3"
@@ -6500,12 +6500,17 @@
       },
       "instagram": {
         "legenda": "A sorte não é o que você pensa.\n\nUm livro de cem anos diz que ela foge de um tipo de pessoa.\n\nE o tecelão entendeu: sorte não é achar bolsa na rua.\n\nÉ agarrar a oportunidade.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17918307321540171",
+        "publicado_em": "2026-11-12T12:05:58.679304-03:00"
       },
       "facebook": {
         "legenda": "A sorte não é o que você pensa.\n\nUm livro de cem anos diz que ela foge de um tipo de pessoa.\n\nE o tecelão entendeu: sorte não é achar bolsa na rua.\n\nÉ agarrar a oportunidade.\n\nA sorte segue a oportunidade.\n\nE gosta de quem age.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1133524909410568",
+        "publicado_em": "2026-11-12T12:06:13.409010-03:00"
+      },
+      "concluido_em": "2026-11-12T12:06:13.416753-03:00"
     },
     {
       "id": "reel-20261112-1400-e3916a0318",
