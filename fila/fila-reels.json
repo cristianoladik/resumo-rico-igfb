@@ -6427,7 +6427,7 @@
       "id": "reel-20261111-2000-e758bab538",
       "data": "2026-11-11",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 13 - O plano do Dabasir.mp4",
         "sha256": "e758bab538c20a9391690812ba5fd0ff1d12918cbdb083f8767b47f4bbe4aefa"
@@ -6440,12 +6440,17 @@
       },
       "instagram": {
         "legenda": "Ele devia pra meia cidade.\n\nVirou escravo, fugiu pelo deserto e quase morreu.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNo fim da história, o Dabasir mandou trazer comida pro Tarkad.\n\nOnde tem determinação, o caminho aparece.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17885427402628301",
+        "publicado_em": "2026-11-11T22:10:13.553013-03:00"
       },
       "facebook": {
         "legenda": "Ele devia pra meia cidade.\n\nVirou escravo, fugiu pelo deserto e quase morreu.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNo fim da história, o Dabasir mandou trazer comida pro Tarkad.\n\nOnde tem determinação, o caminho aparece.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1759281718494573",
+        "publicado_em": "2026-11-11T22:10:34.613823-03:00"
+      },
+      "concluido_em": "2026-11-11T22:10:34.626040-03:00"
     },
     {
       "id": "reel-20261112-0800-53d3df6a8a",
