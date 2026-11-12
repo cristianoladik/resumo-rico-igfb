@@ -2266,7 +2266,7 @@
       "id": "story-20261112-4159a90bbc",
       "data": "2026-11-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 16 - Salario tem teto.mp4",
         "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6",
@@ -2276,7 +2276,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
@@ -2285,13 +2285,30 @@
             "duracao_segundos": 34.933
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18152979097534618",
+            "publish_iniciado_em": "2026-11-12T09:33:40-03:00",
+            "id": "18163943035503533",
+            "publicado_em": "2026-11-12T09:33:46-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1007651008364150",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-12T09:33:54-03:00",
+            "post_id_candidato": "1099304179587034",
+            "finish_em": "2026-11-12T09:33:59-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjEwOTkzMDQxODYyNTM3MDA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1099304179587034",
+            "publicado_em": "2026-11-12T09:34:35-03:00"
+          },
+          "concluido_em": "2026-11-12T09:34:35-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-12T09:34:35-03:00"
     },
     {
       "id": "story-20261113-541f4406e7",
