@@ -2282,7 +2282,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-4159a90bbc-Mente-Milionaria-16---Salario-tem-teto.mp4",
             "sha256": "4159a90bbc8de7bdd58421744a65b7d39105e2bee6f1a954d8ae7c4b9fc57bb6",
             "tamanho_bytes": 10685893,
-            "duracao_segundos": 34.933
+            "duracao_segundos": 34.933,
+            "removido_da_release_em": "2026-11-12T09:34:38.011087-03:00"
           },
           "instagram": {
             "status": "publicado",
