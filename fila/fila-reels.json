@@ -6607,7 +6607,7 @@
       "id": "reel-20261113-0800-daa039f966",
       "data": "2026-11-13",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "daa039f966b61660755995162d94d7fa1e3341fa31b1ee28c72e9a0ac76286b5"
@@ -6620,12 +6620,17 @@
       },
       "instagram": {
         "legenda": "Se você pudesse escolher: um saco de ouro ou uma placa com cinco leis do dinheiro?\n\nNuma caravana, vinte e sete homens responderam juntos: o ouro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE mais dois.\n\nEsses são pela placa de sabedoria.\n\nSem sabedoria, o ouro some rápido.\n\nCom ela, o ouro vem.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17917542168560462",
+        "publicado_em": "2026-11-13T09:33:54.064880-03:00"
       },
       "facebook": {
         "legenda": "Se você pudesse escolher: um saco de ouro ou uma placa com cinco leis do dinheiro?\n\nNuma caravana, vinte e sete homens responderam juntos: o ouro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE mais dois.\n\nEsses são pela placa de sabedoria.\n\nSem sabedoria, o ouro some rápido.\n\nCom ela, o ouro vem.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1703675457759114",
+        "publicado_em": "2026-11-13T09:34:09.620716-03:00"
+      },
+      "concluido_em": "2026-11-13T09:34:09.629907-03:00"
     },
     {
       "id": "reel-20261113-1100-8c1d8ca645",
