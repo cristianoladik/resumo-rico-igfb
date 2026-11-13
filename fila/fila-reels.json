@@ -6667,7 +6667,7 @@
       "id": "reel-20261113-1400-05e5680ee5",
       "data": "2026-11-13",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 3m00 - Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "05e5680ee526254dc914ae619da5e896cb0d5d003ff701fa8adb720850e58263"
@@ -6680,12 +6680,17 @@
       },
       "instagram": {
         "legenda": "O comerciante mais respeitado da caravana escondia um passado.\n\nEle já tinha sido escravo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nVocê é livre.\n\nE vai ser meu sócio.\n\nO neto ouviu, tirou os anéis e foi trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18145360324717886",
+        "publicado_em": "2026-11-13T14:57:10.140658-03:00"
       },
       "facebook": {
         "legenda": "O comerciante mais respeitado da caravana escondia um passado.\n\nEle já tinha sido escravo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nVocê é livre.\n\nE vai ser meu sócio.\n\nO neto ouviu, tirou os anéis e foi trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2056268281692128",
+        "publicado_em": "2026-11-13T14:57:25.412647-03:00"
+      },
+      "concluido_em": "2026-11-13T14:57:25.424988-03:00"
     },
     {
       "id": "reel-20261113-1700-2d5eafd7b8",
