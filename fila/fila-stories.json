@@ -2331,7 +2331,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
             "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4",
             "tamanho_bytes": 11322646,
-            "duracao_segundos": 33.267
+            "duracao_segundos": 33.267,
+            "removido_da_release_em": "2026-11-13T09:31:49.038878-03:00"
           },
           "instagram": {
             "status": "publicado",
