@@ -2315,7 +2315,7 @@
       "id": "story-20261113-541f4406e7",
       "data": "2026-11-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
         "sha256": "541f4406e72117ea5a0b8a35dd1d78ae649142df1e28b2816152265b47f0d0e4",
@@ -2325,7 +2325,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-541f4406e7-Pai-Rico-16---Comprar-na-crise.mp4",
@@ -2334,13 +2334,30 @@
             "duracao_segundos": 33.267
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18153236224534618",
+            "publish_iniciado_em": "2026-11-13T09:30:50-03:00",
+            "id": "18123366991985186",
+            "publicado_em": "2026-11-13T09:30:57-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1828146165106098",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-13T09:31:05-03:00",
+            "post_id_candidato": "1778507843223101",
+            "finish_em": "2026-11-13T09:31:10-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE3Nzg1MDc4NDY1NTY0MzQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1778507843223101",
+            "publicado_em": "2026-11-13T09:31:46-03:00"
+          },
+          "concluido_em": "2026-11-13T09:31:46-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-13T09:31:46-03:00"
     },
     {
       "id": "story-20261114-34e5d9ff23",
