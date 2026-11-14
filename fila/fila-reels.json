@@ -6817,7 +6817,7 @@
       "id": "reel-20261114-1400-f1fdfd3c63",
       "data": "2026-11-14",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Codigos do Milhao 01 - A conta de internet de mil reais.mp4",
         "sha256": "f1fdfd3c63c50bcce74f8e56ba5060d6bf0a9bd309ab85e2d7c278e1b526d4ca"
@@ -6830,12 +6830,17 @@
       },
       "instagram": {
         "legenda": "Tem um jeito de lucrar mais de oitocentos reais por mês sem vender absolutamente nada.\n\nEssa história tá contada em Os Códigos do Milhão, e é simples de copiar.\n\nE vale pro aluguel, pro fornecedor, pro plano do celular.\n\nHoje, escolhe uma conta fixa sua e faz a pergunta simples: dá pra melhorar esse preço?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18116985095593846",
+        "publicado_em": "2026-11-14T14:40:49.269953-03:00"
       },
       "facebook": {
         "legenda": "Tem um jeito de lucrar mais de oitocentos reais por mês sem vender absolutamente nada.\n\nEssa história tá contada em Os Códigos do Milhão, e é simples de copiar.\n\nE vale pro aluguel, pro fornecedor, pro plano do celular.\n\nHoje, escolhe uma conta fixa sua e faz a pergunta simples: dá pra melhorar esse preço?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2404408427053136",
+        "publicado_em": "2026-11-14T14:41:02.959530-03:00"
+      },
+      "concluido_em": "2026-11-14T14:41:02.969492-03:00"
     },
     {
       "id": "reel-20261114-1700-29274df7eb",
