@@ -6787,7 +6787,7 @@
       "id": "reel-20261114-1100-0a5b81afdb",
       "data": "2026-11-14",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 01 - O rei que tomava veneno.mp4",
         "sha256": "0a5b81afdb61a5a1c503619d61797252f3925ee91edb17c5503ae2a2a53c6c14"
@@ -6800,12 +6800,17 @@
       },
       "instagram": {
         "legenda": "Um rei tomava veneno de propósito, todo santo dia.\n\nE não era loucura.\n\nEra estratégia.\n\nEssa lição está no livro Antifrágil.\n\nPancada demais, de uma vez, te quebra.\n\nO segredo tá na dose, não em fugir de todo problema.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18349961395249287",
+        "publicado_em": "2026-11-14T13:45:36.488527-03:00"
       },
       "facebook": {
         "legenda": "Um rei tomava veneno de propósito, todo santo dia.\n\nE não era loucura.\n\nEra estratégia.\n\nEssa lição está no livro Antifrágil.\n\nPancada demais, de uma vez, te quebra.\n\nO segredo tá na dose, não em fugir de todo problema.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "30208242705435578",
+        "publicado_em": "2026-11-14T13:45:50.404509-03:00"
+      },
+      "concluido_em": "2026-11-14T13:45:50.416474-03:00"
     },
     {
       "id": "reel-20261114-1400-f1fdfd3c63",
