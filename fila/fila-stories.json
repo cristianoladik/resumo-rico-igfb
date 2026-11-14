@@ -2364,7 +2364,7 @@
       "id": "story-20261114-34e5d9ff23",
       "data": "2026-11-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66",
@@ -2374,7 +2374,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
@@ -2383,13 +2383,30 @@
             "duracao_segundos": 36.633
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18153504775534618",
+            "publish_iniciado_em": "2026-11-14T09:33:05-03:00",
+            "id": "18385286104235509",
+            "publicado_em": "2026-11-14T09:33:15-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1477461711148856",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-14T09:33:27-03:00",
+            "post_id_candidato": "2112820522674182",
+            "finish_em": "2026-11-14T09:33:34-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIxMTI4MjA1MzI2NzQxODE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2112820522674182",
+            "publicado_em": "2026-11-14T09:34:10-03:00"
+          },
+          "concluido_em": "2026-11-14T09:34:10-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-14T09:34:10-03:00"
     },
     {
       "id": "story-20261115-b112797062",
