@@ -6847,7 +6847,7 @@
       "id": "reel-20261114-1700-29274df7eb",
       "data": "2026-11-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dezesseis Leis do Sucesso 01 - O que voce quer da vida.mp4",
         "sha256": "29274df7eb655639f7dbe2a86729fad776c223841b9d98b6ac41efd1c99ebefd"
@@ -6860,12 +6860,17 @@
       },
       "instagram": {
         "legenda": "Responde em cinco segundos: o que você quer da vida?\n\nSe travou, calma.\n\nA maioria trava.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nE tudo bem.\n\nDesejo é o ponto de partida.\n\nSó não dá pra ficar parado nele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18161106427442953",
+        "publicado_em": "2026-11-14T17:59:45.440300-03:00"
       },
       "facebook": {
         "legenda": "Responde em cinco segundos: o que você quer da vida?\n\nSe travou, calma.\n\nA maioria trava.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nE tudo bem.\n\nDesejo é o ponto de partida.\n\nSó não dá pra ficar parado nele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1191519090199856",
+        "publicado_em": "2026-11-14T18:00:03.406391-03:00"
+      },
+      "concluido_em": "2026-11-14T18:00:03.417192-03:00"
     },
     {
       "id": "reel-20261114-2000-9a5076f00b",
