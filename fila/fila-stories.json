@@ -2380,7 +2380,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-34e5d9ff23-Babilonia-17---As-5-leis-do-ouro.mp4",
             "sha256": "34e5d9ff23ff92c2c6bfbc0e20da6ef92e49431f06c6e7d0ed5509868157ab66",
             "tamanho_bytes": 10522634,
-            "duracao_segundos": 36.633
+            "duracao_segundos": 36.633,
+            "removido_da_release_em": "2026-11-14T09:34:13.385235-03:00"
           },
           "instagram": {
             "status": "publicado",
