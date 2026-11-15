@@ -6886,7 +6886,8 @@
         "asset": "reel-9a5076f00b-Do-Mil-ao-Milhao-01---O-cliente-que-nunca-parava.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-9a5076f00b-Do-Mil-ao-Milhao-01---O-cliente-que-nunca-parava.mp4",
         "sha256": "9a5076f00bb6772883c54d3372d881e5a152469959fbdc04c4c065e5cce80b15",
-        "tamanho_bytes": 10995129
+        "tamanho_bytes": 10995129,
+        "removido_da_release_em": "2026-11-14T21:59:44.797812-03:00"
       },
       "instagram": {
         "legenda": "Um homem tinha dinheiro, status e tudo que o dinheiro compra.\n\nMas não parava de trabalhar nunca.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nVendeu o escritório e foi se dedicar ao canal O Primo Rico.\n\nDinheiro que não trabalha por você te prende no trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
