@@ -6997,7 +6997,7 @@
       "id": "reel-20261115-1700-754f87507a",
       "data": "2026-11-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Poder do Habito 01 - A caneta no escuro.mp4",
         "sha256": "754f87507a65dd237ab5a2cfa797866866383d8d78a819702165d2862641773a"
@@ -7010,12 +7010,17 @@
       },
       "instagram": {
         "legenda": "Primeira manhã no Cairo.\n\nUma americana acorda no escuro.\n\nPega o que parece ser um cigarro e acende.\n\nEssa lição está no livro O Poder do Hábito.\n\nVoltou a estudar e comprou a própria casa.\n\nEla não mudou tudo.\n\nMudou um hábito só, e ele puxou os outros.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18123605069107490",
+        "publicado_em": "2026-11-15T17:20:59.168462-03:00"
       },
       "facebook": {
         "legenda": "Primeira manhã no Cairo.\n\nUma americana acorda no escuro.\n\nPega o que parece ser um cigarro e acende.\n\nEssa lição está no livro O Poder do Hábito.\n\nVoltou a estudar e comprou a própria casa.\n\nEla não mudou tudo.\n\nMudou um hábito só, e ele puxou os outros.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1139409111793626",
+        "publicado_em": "2026-11-15T17:21:14.832601-03:00"
+      },
+      "concluido_em": "2026-11-15T17:21:14.842615-03:00"
     },
     {
       "id": "reel-20261115-2000-f2c06aa5d7",
