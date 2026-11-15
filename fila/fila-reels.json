@@ -6907,7 +6907,7 @@
       "id": "reel-20261115-0800-6672574a4b",
       "data": "2026-11-15",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mais Esperto que o Diabo 01 - Escondido por setenta anos.mp4",
         "sha256": "6672574a4bc0c5caa8d1ca208ed8e4f99d7cd4732b337934734548861b3d30dc"
@@ -6920,12 +6920,17 @@
       },
       "instagram": {
         "legenda": "Um livro ficou trancado por mais de setenta anos.\n\nE quem trancou foi a esposa do autor.\n\nO nome dele é Mais Esperto que o Diabo.\n\nE passou décadas na gaveta justamente por causa do medo.\n\nSe o medo segurou até um livro inteiro, imagina o que ele faz com um plano seu.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17978331090145348",
+        "publicado_em": "2026-11-15T09:32:57.011744-03:00"
       },
       "facebook": {
         "legenda": "Um livro ficou trancado por mais de setenta anos.\n\nE quem trancou foi a esposa do autor.\n\nO nome dele é Mais Esperto que o Diabo.\n\nE passou décadas na gaveta justamente por causa do medo.\n\nSe o medo segurou até um livro inteiro, imagina o que ele faz com um plano seu.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1868059271018465",
+        "publicado_em": "2026-11-15T09:33:11.962936-03:00"
+      },
+      "concluido_em": "2026-11-15T09:33:11.972343-03:00"
     },
     {
       "id": "reel-20261115-1100-35d1128854",
