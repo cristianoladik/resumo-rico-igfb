@@ -6877,7 +6877,7 @@
       "id": "reel-20261114-2000-9a5076f00b",
       "data": "2026-11-14",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 01 - O cliente que nunca parava.mp4",
         "sha256": "9a5076f00bb6772883c54d3372d881e5a152469959fbdc04c4c065e5cce80b15"
@@ -6890,12 +6890,17 @@
       },
       "instagram": {
         "legenda": "Um homem tinha dinheiro, status e tudo que o dinheiro compra.\n\nMas não parava de trabalhar nunca.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nVendeu o escritório e foi se dedicar ao canal O Primo Rico.\n\nDinheiro que não trabalha por você te prende no trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18456467863134359",
+        "publicado_em": "2026-11-14T21:59:27.312528-03:00"
       },
       "facebook": {
         "legenda": "Um homem tinha dinheiro, status e tudo que o dinheiro compra.\n\nMas não parava de trabalhar nunca.\n\nEssa lição está no livro Do Mil ao Milhão.\n\nVendeu o escritório e foi se dedicar ao canal O Primo Rico.\n\nDinheiro que não trabalha por você te prende no trabalho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2355142201995595",
+        "publicado_em": "2026-11-14T21:59:42.639535-03:00"
+      },
+      "concluido_em": "2026-11-14T21:59:42.649714-03:00"
     },
     {
       "id": "reel-20261115-0800-6672574a4b",
