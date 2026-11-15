@@ -6937,7 +6937,7 @@
       "id": "reel-20261115-1100-35d1128854",
       "data": "2026-11-15",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 01 - A poupanca que ela nao ganhou.mp4",
         "sha256": "35d1128854c822f4a4237d1f9f2c34d5a5a79cdaf2a0c87c0e6d0f948b8bfd5c"
@@ -6950,12 +6950,17 @@
       },
       "instagram": {
         "legenda": "Aos sete anos, uma menina descobriu que a colega tinha ganhado uma poupança do pai.\n\nChegou em casa e perguntou se também tinha uma.\n\nEssa lição está no livro Me Poupe!\n\nE aos trinta e dois, tinha o primeiro milhão investido.\n\nEla transformou um não num cofrinho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18378122956246583",
+        "publicado_em": "2026-11-15T12:00:45.920810-03:00"
       },
       "facebook": {
         "legenda": "Aos sete anos, uma menina descobriu que a colega tinha ganhado uma poupança do pai.\n\nChegou em casa e perguntou se também tinha uma.\n\nEssa lição está no livro Me Poupe!\n\nE aos trinta e dois, tinha o primeiro milhão investido.\n\nEla transformou um não num cofrinho.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2675071639612031",
+        "publicado_em": "2026-11-15T12:00:59.591646-03:00"
+      },
+      "concluido_em": "2026-11-15T12:00:59.603591-03:00"
     },
     {
       "id": "reel-20261115-1400-b2f3966454",
