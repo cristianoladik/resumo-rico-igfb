@@ -2429,7 +2429,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
             "sha256": "b112797062c3b8d29d617ac68d5419dd37af51e28d6ce2a535dc452ffa72724a",
             "tamanho_bytes": 11627535,
-            "duracao_segundos": 29.933
+            "duracao_segundos": 29.933,
+            "removido_da_release_em": "2026-11-15T09:31:47.399433-03:00"
           },
           "instagram": {
             "status": "publicado",
