@@ -2413,7 +2413,7 @@
       "id": "story-20261115-b112797062",
       "data": "2026-11-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 17 - Patrimonio.mp4",
         "sha256": "b112797062c3b8d29d617ac68d5419dd37af51e28d6ce2a535dc452ffa72724a",
@@ -2423,7 +2423,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-b112797062-Mente-Milionaria-17---Patrimonio.mp4",
@@ -2432,13 +2432,30 @@
             "duracao_segundos": 29.933
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18153794518534618",
+            "publish_iniciado_em": "2026-11-15T09:30:49-03:00",
+            "id": "18116163833032057",
+            "publicado_em": "2026-11-15T09:30:56-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1115095311298244",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-15T09:31:03-03:00",
+            "post_id_candidato": "2327368368042128",
+            "finish_em": "2026-11-15T09:31:08-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIzMjczNjgzNzEzNzU0NjE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2327368368042128",
+            "publicado_em": "2026-11-15T09:31:45-03:00"
+          },
+          "concluido_em": "2026-11-15T09:31:45-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-15T09:31:45-03:00"
     },
     {
       "id": "story-20261116-9808db47d0",
