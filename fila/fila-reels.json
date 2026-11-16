@@ -7057,7 +7057,7 @@
       "id": "reel-20261116-0800-59992163ee",
       "data": "2026-11-16",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 01 - A loja sabia antes do pai.mp4",
         "sha256": "59992163eefc1c64b3280b931a66a4e46db6c8a1d8d5641899de14d454490992"
@@ -7070,12 +7070,17 @@
       },
       "instagram": {
         "legenda": "Um pai entrou numa loja, com um monte de cupons na mão.\n\nEsse caso aparece no livro O Poder do Hábito.\n\nAssim o cliente não sentia que estava sendo vigiado.\n\nRepara no que o seu carrinho conta sobre você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18097283735175035",
+        "publicado_em": "2026-11-16T09:34:19.742636-03:00"
       },
       "facebook": {
         "legenda": "Um pai entrou numa loja, com um monte de cupons na mão.\n\nEsse caso aparece no livro O Poder do Hábito.\n\nAssim o cliente não sentia que estava sendo vigiado.\n\nRepara no que o seu carrinho conta sobre você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1581747900306609",
+        "publicado_em": "2026-11-16T09:34:31.968985-03:00"
+      },
+      "concluido_em": "2026-11-16T09:34:31.978522-03:00"
     },
     {
       "id": "reel-20261116-1100-5bbc63272c",
