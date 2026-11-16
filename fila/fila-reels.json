@@ -7087,7 +7087,7 @@
       "id": "reel-20261116-1100-5bbc63272c",
       "data": "2026-11-16",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Quem Pensa Enriquece 01 - A um metro do ouro.mp4",
         "sha256": "5bbc63272c28df119e1de792167a3ac4aa3282edeae53f5cee8e550eb38e4abe"
@@ -7100,12 +7100,17 @@
       },
       "instagram": {
         "legenda": "Faltava um metro.\n\nSó um metro.\n\nE ele largou tudo.\n\nEssa é a história mais famosa de Quem Pensa Enriquece.\n\nCom essa regra, ele passou a vender mais de um milhão de dólares em seguro por ano.\n\nA derrota mais cara da vida dele virou o método dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18122320994098913",
+        "publicado_em": "2026-11-16T12:36:06.127457-03:00"
       },
       "facebook": {
         "legenda": "Faltava um metro.\n\nSó um metro.\n\nE ele largou tudo.\n\nEssa é a história mais famosa de Quem Pensa Enriquece.\n\nCom essa regra, ele passou a vender mais de um milhão de dólares em seguro por ano.\n\nA derrota mais cara da vida dele virou o método dele.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1853909215734094",
+        "publicado_em": "2026-11-16T12:36:20.250127-03:00"
+      },
+      "concluido_em": "2026-11-16T12:36:20.260350-03:00"
     },
     {
       "id": "reel-20261116-1400-7c1a267d64",
