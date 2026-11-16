@@ -7027,7 +7027,7 @@
       "id": "reel-20261115-2000-f2c06aa5d7",
       "data": "2026-11-15",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 01 - O maior ouro do planeta.mp4",
         "sha256": "f2c06aa5d79c81818d41a3f69c89228d506e8a171144f1033012e2a1bdf0553b"
@@ -7040,12 +7040,17 @@
       },
       "instagram": {
         "legenda": "Onde foi tirada a maior quantidade de ouro do planeta?\n\nA resposta do livro: da cabeça de alguém que pensa.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nCom umas cinco perguntas assim, ele diz que chega no diamante.\n\nPra ele, não existe pergunta idiota.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17891324637477947",
+        "publicado_em": "2026-11-15T21:05:06.455629-03:00"
       },
       "facebook": {
         "legenda": "Onde foi tirada a maior quantidade de ouro do planeta?\n\nA resposta do livro: da cabeça de alguém que pensa.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nCom umas cinco perguntas assim, ele diz que chega no diamante.\n\nPra ele, não existe pergunta idiota.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1469336115295714",
+        "publicado_em": "2026-11-15T21:05:19.160132-03:00"
+      },
+      "concluido_em": "2026-11-15T21:05:19.172263-03:00"
     },
     {
       "id": "reel-20261116-0800-59992163ee",
