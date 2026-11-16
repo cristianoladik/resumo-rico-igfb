@@ -2462,7 +2462,7 @@
       "id": "story-20261116-9808db47d0",
       "data": "2026-11-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
         "sha256": "9808db47d0afd211114e4153360be95c15e983f48eba9492ea454976afae0ae3",
@@ -2472,7 +2472,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
@@ -2481,13 +2481,30 @@
             "duracao_segundos": 33.267
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154073440534618",
+            "publish_iniciado_em": "2026-11-16T09:32:02-03:00",
+            "id": "18140362369641140",
+            "publicado_em": "2026-11-16T09:32:11-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1144543724944468",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-16T09:32:19-03:00",
+            "post_id_candidato": "1748450163663469",
+            "finish_em": "2026-11-16T09:32:26-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE3NDg0NTAxNjY5OTY4MDI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1748450163663469",
+            "publicado_em": "2026-11-16T09:33:03-03:00"
+          },
+          "concluido_em": "2026-11-16T09:33:03-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-16T09:33:03-03:00"
     },
     {
       "id": "story-20261117-0d6ebe22e8",
