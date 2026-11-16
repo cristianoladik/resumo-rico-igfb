@@ -7177,7 +7177,7 @@
       "id": "reel-20261116-2000-0973d661b3",
       "data": "2026-11-16",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Codigos do Milhao 02 - A pergunta que abre a porta.mp4",
         "sha256": "0973d661b3fddc4c040cb758ac0751c692f4bd542f449638cad77d4a23d3f17e"
@@ -7190,12 +7190,17 @@
       },
       "instagram": {
         "legenda": "Numa negociação, quem fala mais quase sempre sai perdendo.\n\nO motivo tá explicado em Os Códigos do Milhão.\n\nAs próximas vão cavando mais fundo.\n\nNa próxima reunião, conta quantas perguntas você fez antes de oferecer qualquer coisa.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17907138087670803",
+        "publicado_em": "2026-11-16T20:15:55.296535-03:00"
       },
       "facebook": {
         "legenda": "Numa negociação, quem fala mais quase sempre sai perdendo.\n\nO motivo tá explicado em Os Códigos do Milhão.\n\nAs próximas vão cavando mais fundo.\n\nNa próxima reunião, conta quantas perguntas você fez antes de oferecer qualquer coisa.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1551759266971610",
+        "publicado_em": "2026-11-16T20:16:07.356211-03:00"
+      },
+      "concluido_em": "2026-11-16T20:16:07.368138-03:00"
     },
     {
       "id": "reel-20261117-0800-3b5490d04c",
