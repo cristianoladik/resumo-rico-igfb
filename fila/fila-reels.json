@@ -7117,7 +7117,7 @@
       "id": "reel-20261116-1400-7c1a267d64",
       "data": "2026-11-16",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Salomao 01 - Nove empregos perdidos.mp4",
         "sha256": "7c1a267d6483f2d19c50e11719d9e9da143f615fb41935edf494794f4834ec57"
@@ -7130,18 +7130,23 @@
       },
       "instagram": {
         "legenda": "Nove empregos perdidos em seis anos.\n\nDois negócios quebrados.\n\nEsse era o currículo do rapaz que depois escreveu Salomão, o Homem Mais Rico que Já Existiu.\n\nEsse é o hábito prometido: um capítulo curto, no número do dia.\n\nOlha a data de hoje.\n\nEsse é o capítulo que te espera.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119481953124796",
+        "publicado_em": "2026-11-16T18:40:36.698257-03:00"
       },
       "facebook": {
         "legenda": "Nove empregos perdidos em seis anos.\n\nDois negócios quebrados.\n\nEsse era o currículo do rapaz que depois escreveu Salomão, o Homem Mais Rico que Já Existiu.\n\nEsse é o hábito prometido: um capítulo curto, no número do dia.\n\nOlha a data de hoje.\n\nEsse é o capítulo que te espera.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1758997948504989",
+        "publicado_em": "2026-11-16T18:40:48.480764-03:00"
+      },
+      "concluido_em": "2026-11-16T18:40:48.492397-03:00"
     },
     {
       "id": "reel-20261116-1700-16a266fc81",
       "data": "2026-11-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 02 - Restaurante fechando e banco gigante.mp4",
         "sha256": "16a266fc81c0f8818c7bf9024812c07bcc86aec599a1aba6e2c35ff298024f89"
@@ -7154,12 +7159,17 @@
       },
       "instagram": {
         "legenda": "Todo dia fecha um restaurante em algum lugar.\n\nE isso é uma notícia boa.\n\nParece maldade, mas é a conta do livro Antifrágil.\n\nO livro resume assim: muita coisa pequena errando todo dia deixa o sistema forte.\n\nE uma coisa enorme que nunca pode errar é a mais perigosa de todas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17887757634626408",
+        "publicado_em": "2026-11-16T18:41:50.960822-03:00"
       },
       "facebook": {
         "legenda": "Todo dia fecha um restaurante em algum lugar.\n\nE isso é uma notícia boa.\n\nParece maldade, mas é a conta do livro Antifrágil.\n\nO livro resume assim: muita coisa pequena errando todo dia deixa o sistema forte.\n\nE uma coisa enorme que nunca pode errar é a mais perigosa de todas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1195362186263898",
+        "publicado_em": "2026-11-16T18:42:02.625649-03:00"
+      },
+      "concluido_em": "2026-11-16T18:42:02.637845-03:00"
     },
     {
       "id": "reel-20261116-2000-0973d661b3",
