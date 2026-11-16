@@ -2478,7 +2478,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-9808db47d0-Pai-Rico-17---Garimpar-oportunidade.mp4",
             "sha256": "9808db47d0afd211114e4153360be95c15e983f48eba9492ea454976afae0ae3",
             "tamanho_bytes": 14071331,
-            "duracao_segundos": 33.267
+            "duracao_segundos": 33.267,
+            "removido_da_release_em": "2026-11-16T09:33:06.667538-03:00"
           },
           "instagram": {
             "status": "publicado",
