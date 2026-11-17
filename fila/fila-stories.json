@@ -2511,7 +2511,7 @@
       "id": "story-20261117-0d6ebe22e8",
       "data": "2026-11-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383",
@@ -2521,7 +2521,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
@@ -2530,13 +2530,30 @@
             "duracao_segundos": 34.933
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154369201534618",
+            "publish_iniciado_em": "2026-11-17T09:30:53-03:00",
+            "id": "18121056556770837",
+            "publicado_em": "2026-11-17T09:31:02-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1122297210719284",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-17T09:31:11-03:00",
+            "post_id_candidato": "1667524758310281",
+            "finish_em": "2026-11-17T09:31:17-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE2Njc1MjQ3NjE2NDM2MTQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1667524758310281",
+            "publicado_em": "2026-11-17T09:31:53-03:00"
+          },
+          "concluido_em": "2026-11-17T09:31:53-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-17T09:31:53-03:00"
     },
     {
       "id": "story-20261118-a78c2c5633",
