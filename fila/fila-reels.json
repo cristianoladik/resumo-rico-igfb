@@ -7297,7 +7297,7 @@
       "id": "reel-20261117-1700-9d682c11ab",
       "data": "2026-11-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 02 - A muquirana da turma.mp4",
         "sha256": "9d682c11ab9e709d9df2169f62e0c04535d1a43d5e8f510022d6c425a79f1eff"
@@ -7310,12 +7310,17 @@
       },
       "instagram": {
         "legenda": "Na escola, ela era a muquirana da turma.\n\nE isso doía.\n\nEconomizava no lanche sempre que dava.\n\nEssa lição está no livro Me Poupe!\n\nDinheiro é meio, nunca fim.\n\nE pode até trazer felicidade, se você souber o que te faz feliz.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18351547837250878",
+        "publicado_em": "2026-11-17T17:29:47.101402-03:00"
       },
       "facebook": {
         "legenda": "Na escola, ela era a muquirana da turma.\n\nE isso doía.\n\nEconomizava no lanche sempre que dava.\n\nEssa lição está no livro Me Poupe!\n\nDinheiro é meio, nunca fim.\n\nE pode até trazer felicidade, se você souber o que te faz feliz.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1145009001247047",
+        "publicado_em": "2026-11-17T17:29:59.703919-03:00"
+      },
+      "concluido_em": "2026-11-17T17:29:59.713327-03:00"
     },
     {
       "id": "reel-20261117-2000-0dbbba0db5",
