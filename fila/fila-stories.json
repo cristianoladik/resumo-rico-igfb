@@ -2527,7 +2527,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-0d6ebe22e8-Babilonia-18---O-escravo-que-gostava-de-trabalhar.mp4",
             "sha256": "0d6ebe22e853b0603bb4198943daf6bd10ea67d3ebbf497015a2bc05de826383",
             "tamanho_bytes": 12785132,
-            "duracao_segundos": 34.933
+            "duracao_segundos": 34.933,
+            "removido_da_release_em": "2026-11-17T09:31:55.790963-03:00"
           },
           "instagram": {
             "status": "publicado",
