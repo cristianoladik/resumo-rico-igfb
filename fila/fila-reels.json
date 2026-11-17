@@ -7207,7 +7207,7 @@
       "id": "reel-20261117-0800-3b5490d04c",
       "data": "2026-11-17",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dezesseis Leis do Sucesso 02 - O segundo antes de comprar.mp4",
         "sha256": "3b5490d04c94bca59242d6fbadd575cc041b3be7bacd6ac9a6675bfebb5903b7"
@@ -7220,12 +7220,17 @@
       },
       "instagram": {
         "legenda": "Tem um segundo que decide se você vai perder dinheiro.\n\nÉ o segundo entre sentir a vontade e apertar o botão de comprar.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nDica minha: quando bater a vontade de uma compra grande, espera um dia inteiro.\n\nSe no dia seguinte ainda fizer sentido, aí você decide com calma.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17918473050510458",
+        "publicado_em": "2026-11-17T09:33:21.197646-03:00"
       },
       "facebook": {
         "legenda": "Tem um segundo que decide se você vai perder dinheiro.\n\nÉ o segundo entre sentir a vontade e apertar o botão de comprar.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nDica minha: quando bater a vontade de uma compra grande, espera um dia inteiro.\n\nSe no dia seguinte ainda fizer sentido, aí você decide com calma.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1826283805080008",
+        "publicado_em": "2026-11-17T09:33:35.586530-03:00"
+      },
+      "concluido_em": "2026-11-17T09:33:35.598569-03:00"
     },
     {
       "id": "reel-20261117-1100-e1e3b2a46a",
