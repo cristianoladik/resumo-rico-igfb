@@ -2576,7 +2576,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
             "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa",
             "tamanho_bytes": 13232049,
-            "duracao_segundos": 32.467
+            "duracao_segundos": 32.467,
+            "removido_da_release_em": "2026-11-18T09:33:42.965277-03:00"
           },
           "instagram": {
             "status": "publicado",
