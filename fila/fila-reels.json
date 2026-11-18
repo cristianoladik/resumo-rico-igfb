@@ -7387,7 +7387,7 @@
       "id": "reel-20261118-1100-4625e61657",
       "data": "2026-11-18",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 02 - Eu era assim ate ontem.mp4",
         "sha256": "4625e616571b34c0bbc3c85ac910ad22013dcd51cdf44fd8d7d947e282f9f32d"
@@ -7400,12 +7400,17 @@
       },
       "instagram": {
         "legenda": "Para de dizer: eu sou desorganizado.\n\nDiz assim: eu era desorganizado, até ontem.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nNo lugar dela, ele prefere a sugestão pra frente.\n\nE conselho, só de quem já fez o caminho que você quer fazer.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17946764718366476",
+        "publicado_em": "2026-11-18T12:33:20.664339-03:00"
       },
       "facebook": {
         "legenda": "Para de dizer: eu sou desorganizado.\n\nDiz assim: eu era desorganizado, até ontem.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nNo lugar dela, ele prefere a sugestão pra frente.\n\nE conselho, só de quem já fez o caminho que você quer fazer.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1617876343721285",
+        "publicado_em": "2026-11-18T12:33:33.964560-03:00"
+      },
+      "concluido_em": "2026-11-18T12:33:33.973553-03:00"
     },
     {
       "id": "reel-20261118-1400-e2ed052d70",
