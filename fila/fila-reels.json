@@ -7327,7 +7327,7 @@
       "id": "reel-20261117-2000-0dbbba0db5",
       "data": "2026-11-17",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria As 16 Leis do Sucesso 02 - O zelador que apagava a luz.mp4",
         "sha256": "0dbbba0db546850a9e9e8ca1265541e58a50c337c2a0eba9370902bcc5455a0b"
@@ -7340,12 +7340,17 @@
       },
       "instagram": {
         "legenda": "Um zelador desligava a luz do prédio só pra provocar um inquilino.\n\nO inquilino era o Napoleon Hill, autor de As 16 Leis do Sucesso.\n\nO Hill apertou a mão dele.\n\nQuem não controla a si mesmo não controla mais ninguém.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17893388220686198",
+        "publicado_em": "2026-11-17T21:10:56.239353-03:00"
       },
       "facebook": {
         "legenda": "Um zelador desligava a luz do prédio só pra provocar um inquilino.\n\nO inquilino era o Napoleon Hill, autor de As 16 Leis do Sucesso.\n\nO Hill apertou a mão dele.\n\nQuem não controla a si mesmo não controla mais ninguém.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1617797836117454",
+        "publicado_em": "2026-11-17T21:11:05.667100-03:00"
+      },
+      "concluido_em": "2026-11-17T21:11:05.676686-03:00"
     },
     {
       "id": "reel-20261118-0800-efcb7a1f5d",
