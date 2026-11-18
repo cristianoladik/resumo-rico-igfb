@@ -2560,7 +2560,7 @@
       "id": "story-20261118-a78c2c5633",
       "data": "2026-11-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 18 - Quando eu tiver mais eu organizo.mp4",
         "sha256": "a78c2c563338ee1e344f574b3dc242a13c5487fa40c73bf9e5116737eee82daa",
@@ -2570,7 +2570,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a78c2c5633-Mente-Milionaria-18---Quando-eu-tiver-mais-eu-organizo.mp4",
@@ -2579,13 +2579,30 @@
             "duracao_segundos": 32.467
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154604476534618",
+            "publish_iniciado_em": "2026-11-18T09:32:34-03:00",
+            "id": "18173716054474526",
+            "publicado_em": "2026-11-18T09:32:48-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1068038726254098",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-18T09:32:57-03:00",
+            "post_id_candidato": "4461194490809226",
+            "finish_em": "2026-11-18T09:33:03-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjQ0NjExOTQ1MDA4MDkyMjU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "4461194490809226",
+            "publicado_em": "2026-11-18T09:33:40-03:00"
+          },
+          "concluido_em": "2026-11-18T09:33:40-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-18T09:33:40-03:00"
     },
     {
       "id": "story-20261119-ae9236ecfa",
