@@ -7357,7 +7357,7 @@
       "id": "reel-20261118-0800-efcb7a1f5d",
       "data": "2026-11-18",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Poder do Habito 02 - O habito velho nao some.mp4",
         "sha256": "efcb7a1f5d7e7a0c41302cc1cf18a02b35395e276d8783b70e4b5a9ede6faf3e"
@@ -7370,12 +7370,17 @@
       },
       "instagram": {
         "legenda": "O seu hábito ruim nunca vai sumir do seu cérebro.\n\nParece notícia ruim.\n\nMas espera.\n\nEssa lição está no livro O Poder do Hábito.\n\nO livro avisa: o hábito fica guardado, esperando a deixa aparecer de novo.\n\nO hábito velho não some.\n\nEle é vencido por um novo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18135640327743641",
+        "publicado_em": "2026-11-18T09:31:32.701661-03:00"
       },
       "facebook": {
         "legenda": "O seu hábito ruim nunca vai sumir do seu cérebro.\n\nParece notícia ruim.\n\nMas espera.\n\nEssa lição está no livro O Poder do Hábito.\n\nO livro avisa: o hábito fica guardado, esperando a deixa aparecer de novo.\n\nO hábito velho não some.\n\nEle é vencido por um novo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1137463135543977",
+        "publicado_em": "2026-11-18T09:31:51.671593-03:00"
+      },
+      "concluido_em": "2026-11-18T09:31:51.680645-03:00"
     },
     {
       "id": "reel-20261118-1100-4625e61657",
