@@ -7417,7 +7417,7 @@
       "id": "reel-20261118-1400-e2ed052d70",
       "data": "2026-11-18",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 02 - Rabanete ou biscoito.mp4",
         "sha256": "e2ed052d7007a02c66f2177ee84aa758deb35a0ad390613df5deb00345cd4f03"
@@ -7430,12 +7430,17 @@
       },
       "instagram": {
         "legenda": "Comer rabanete na frente de um biscoito quentinho te faz desistir mais rápido.\n\nParece piada, mas é um teste contado no livro O Poder do Hábito.\n\nA força de vontade já tinha sido gasta segurando a vontade de comer.\n\nMoral: cada tentação que você enfrenta gasta um pouco do mesmo tanque.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17979643389139146",
+        "publicado_em": "2026-11-18T16:59:31.795519-03:00"
       },
       "facebook": {
         "legenda": "Comer rabanete na frente de um biscoito quentinho te faz desistir mais rápido.\n\nParece piada, mas é um teste contado no livro O Poder do Hábito.\n\nA força de vontade já tinha sido gasta segurando a vontade de comer.\n\nMoral: cada tentação que você enfrenta gasta um pouco do mesmo tanque.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2179717535964254",
+        "publicado_em": "2026-11-18T16:59:43.242504-03:00"
+      },
+      "concluido_em": "2026-11-18T16:59:43.256597-03:00"
     },
     {
       "id": "reel-20261118-1700-433c11e67c",
