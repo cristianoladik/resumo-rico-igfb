@@ -7477,7 +7477,7 @@
       "id": "reel-20261118-2000-9f58c9f013",
       "data": "2026-11-18",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Salomao 02 - O pedido errado do rei.mp4",
         "sha256": "9f58c9f013ef14b133b78b152d8c90c2925ec781ab16ce2ad3f7f1d2a48e22e6"
@@ -7490,12 +7490,17 @@
       },
       "instagram": {
         "legenda": "Um rei jovem ganhou o direito de pedir qualquer coisa que quisesse.\n\nE ele escolheu o que quase ninguém escolheria.\n\nEssa lição está no livro Salomão, o Homem Mais Rico que Já Existiu.\n\nO dinheiro vira consequência, não o objetivo.\n\nÉ por isso que o livro inteiro gira em torno de aprender a decidir melhor.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18098776100440144",
+        "publicado_em": "2026-11-18T20:10:00.385241-03:00"
       },
       "facebook": {
         "legenda": "Um rei jovem ganhou o direito de pedir qualquer coisa que quisesse.\n\nE ele escolheu o que quase ninguém escolheria.\n\nEssa lição está no livro Salomão, o Homem Mais Rico que Já Existiu.\n\nO dinheiro vira consequência, não o objetivo.\n\nÉ por isso que o livro inteiro gira em torno de aprender a decidir melhor.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4476410875930353",
+        "publicado_em": "2026-11-18T20:10:12.145474-03:00"
+      },
+      "concluido_em": "2026-11-18T20:10:12.155560-03:00"
     },
     {
       "id": "reel-20261119-0800-a6ef616c65",
