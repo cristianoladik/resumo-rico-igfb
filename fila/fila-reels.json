@@ -7447,7 +7447,7 @@
       "id": "reel-20261118-1700-433c11e67c",
       "data": "2026-11-18",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Quem Pensa Enriquece 02 - Queimou os proprios navios.mp4",
         "sha256": "433c11e67cd989b67abf8357a4ca6863ac4aa3c6c1dd444a6f1caa7c5f1350ab"
@@ -7460,12 +7460,17 @@
       },
       "instagram": {
         "legenda": "Um comandante mandou queimar os próprios navios.\n\nDe propósito.\n\nLogo depois de chegar numa terra inimiga.\n\nEssa lição está no livro Quem Pensa Enriquece.\n\nPro livro, vontade de verdade é aquela que não guarda rota de fuga.\n\nQual navio você ainda não teve coragem de queimar?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17913785289310920",
+        "publicado_em": "2026-11-18T17:23:06.300984-03:00"
       },
       "facebook": {
         "legenda": "Um comandante mandou queimar os próprios navios.\n\nDe propósito.\n\nLogo depois de chegar numa terra inimiga.\n\nEssa lição está no livro Quem Pensa Enriquece.\n\nPro livro, vontade de verdade é aquela que não guarda rota de fuga.\n\nQual navio você ainda não teve coragem de queimar?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29306911358949758",
+        "publicado_em": "2026-11-18T17:23:24.958328-03:00"
+      },
+      "concluido_em": "2026-11-18T17:23:24.965952-03:00"
     },
     {
       "id": "reel-20261118-2000-9f58c9f013",
