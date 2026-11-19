@@ -7507,7 +7507,7 @@
       "id": "reel-20261119-0800-a6ef616c65",
       "data": "2026-11-19",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 03 - O meio do caminho e o haltere.mp4",
         "sha256": "a6ef616c659b35af526f995c6adae443d82af6bb97ca39021528031e40b2efc8"
@@ -7520,12 +7520,17 @@
       },
       "instagram": {
         "legenda": "Existe um lugar onde muita gente guarda dinheiro achando que tá seguro.\n\nE é justamente o mais perigoso.\n\nQuem aponta esse lugar é o livro Antifrágil.\n\nIsso é a ideia do livro, não uma receita pra sua situação.\n\nCada um tem a sua conta.\n\nMas a pergunta serve pra qualquer um: onde tá o seu meio perigoso hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17999111031025121",
+        "publicado_em": "2026-11-19T09:31:21.089981-03:00"
       },
       "facebook": {
         "legenda": "Existe um lugar onde muita gente guarda dinheiro achando que tá seguro.\n\nE é justamente o mais perigoso.\n\nQuem aponta esse lugar é o livro Antifrágil.\n\nIsso é a ideia do livro, não uma receita pra sua situação.\n\nCada um tem a sua conta.\n\nMas a pergunta serve pra qualquer um: onde tá o seu meio perigoso hoje?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2231313024451278",
+        "publicado_em": "2026-11-19T09:31:33.040477-03:00"
+      },
+      "concluido_em": "2026-11-19T09:31:33.050229-03:00"
     },
     {
       "id": "reel-20261119-1100-4e9d18898b",
