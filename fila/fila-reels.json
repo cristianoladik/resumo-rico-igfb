@@ -7537,7 +7537,7 @@
       "id": "reel-20261119-1100-4e9d18898b",
       "data": "2026-11-19",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Codigos do Milhao 03 - O carro vendido pelo mesmo preco.mp4",
         "sha256": "4e9d18898bf98fd354bdd9b2e949aabe2c5324b46ef5b6b3833239daf57c931a"
@@ -7550,12 +7550,17 @@
       },
       "instagram": {
         "legenda": "Doze meses rodando com um carro, e na revenda ele não perdeu um real.\n\nParece sorte, mas o livro Os Códigos do Milhão chama isso de multiplicação.\n\nCada compra feita com calma pode proteger o seu dinheiro na entrada e na saída.\n\nEntão, antes da próxima compra grande, pesquisa, compara e pergunta se dá pra pagar menos.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17990575041076317",
+        "publicado_em": "2026-11-19T12:40:32.100172-03:00"
       },
       "facebook": {
         "legenda": "Doze meses rodando com um carro, e na revenda ele não perdeu um real.\n\nParece sorte, mas o livro Os Códigos do Milhão chama isso de multiplicação.\n\nCada compra feita com calma pode proteger o seu dinheiro na entrada e na saída.\n\nEntão, antes da próxima compra grande, pesquisa, compara e pergunta se dá pra pagar menos.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2252740288614631",
+        "publicado_em": "2026-11-19T12:40:45.732170-03:00"
+      },
+      "concluido_em": "2026-11-19T12:40:45.741334-03:00"
     },
     {
       "id": "reel-20261119-1400-231354cd15",
