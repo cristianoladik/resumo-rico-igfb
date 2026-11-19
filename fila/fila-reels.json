@@ -7567,7 +7567,7 @@
       "id": "reel-20261119-1400-231354cd15",
       "data": "2026-11-19",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dezesseis Leis do Sucesso 03 - Mente mestra.mp4",
         "sha256": "231354cd15e295642d326b5acf2d9e47a97f6593b4cfab8e60c979c21c093984"
@@ -7580,12 +7580,17 @@
       },
       "instagram": {
         "legenda": "Um dos homens mais ricos da história dizia que a fortuna não era mérito só dele.\n\nEle dizia que devia tudo ao time que montou.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nDepois pensa em uma pessoa que sabe.\n\nE marca uma conversa.\n\nDá pra começar com duas pessoas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18026270894714443",
+        "publicado_em": "2026-11-19T16:57:46.150082-03:00"
       },
       "facebook": {
         "legenda": "Um dos homens mais ricos da história dizia que a fortuna não era mérito só dele.\n\nEle dizia que devia tudo ao time que montou.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nDepois pensa em uma pessoa que sabe.\n\nE marca uma conversa.\n\nDá pra começar com duas pessoas.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1714556766694629",
+        "publicado_em": "2026-11-19T16:58:02.461818-03:00"
+      },
+      "concluido_em": "2026-11-19T16:58:02.469749-03:00"
     },
     {
       "id": "reel-20261119-1700-7365015f5b",
