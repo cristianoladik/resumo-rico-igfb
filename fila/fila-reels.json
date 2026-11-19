@@ -7597,7 +7597,7 @@
       "id": "reel-20261119-1700-7365015f5b",
       "data": "2026-11-19",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 03 - Investir ou apostar.mp4",
         "sha256": "7365015f5bec6571a34c613efb566a3fc6667c07da7e09e4e764a45cd7bc355e"
@@ -7610,12 +7610,17 @@
       },
       "instagram": {
         "legenda": "Você tá investindo ou só apostando no preço?\n\nO livro Do Mil ao Milhão separa as duas com uma ideia de Benjamin Graham.\n\nCom uma coluna pro motivo de cada investimento.\n\nQuando o preço cai, você lê o motivo antes de vender por impulso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17990498501881315",
+        "publicado_em": "2026-11-19T17:28:25.514520-03:00"
       },
       "facebook": {
         "legenda": "Você tá investindo ou só apostando no preço?\n\nO livro Do Mil ao Milhão separa as duas com uma ideia de Benjamin Graham.\n\nCom uma coluna pro motivo de cada investimento.\n\nQuando o preço cai, você lê o motivo antes de vender por impulso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1840283860355391",
+        "publicado_em": "2026-11-19T17:28:38.299426-03:00"
+      },
+      "concluido_em": "2026-11-19T17:28:38.309581-03:00"
     },
     {
       "id": "reel-20261119-2000-aae4528629",
