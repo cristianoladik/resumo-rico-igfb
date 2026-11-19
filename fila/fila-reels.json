@@ -7606,7 +7606,8 @@
         "asset": "reel-7365015f5b-Do-Mil-ao-Milhao-03---Investir-ou-apostar.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-7365015f5b-Do-Mil-ao-Milhao-03---Investir-ou-apostar.mp4",
         "sha256": "7365015f5bec6571a34c613efb566a3fc6667c07da7e09e4e764a45cd7bc355e",
-        "tamanho_bytes": 10767010
+        "tamanho_bytes": 10767010,
+        "removido_da_release_em": "2026-11-19T17:28:41.205326-03:00"
       },
       "instagram": {
         "legenda": "Você tá investindo ou só apostando no preço?\n\nO livro Do Mil ao Milhão separa as duas com uma ideia de Benjamin Graham.\n\nCom uma coluna pro motivo de cada investimento.\n\nQuando o preço cai, você lê o motivo antes de vender por impulso.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
