@@ -2625,7 +2625,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
             "sha256": "ae9236ecfaa96c28f109ba935968a3ac847cd177ea65df50c4eae3fdebfd1c79",
             "tamanho_bytes": 11150152,
-            "duracao_segundos": 30.9
+            "duracao_segundos": 30.9,
+            "removido_da_release_em": "2026-11-19T09:34:09.776414-03:00"
           },
           "instagram": {
             "status": "publicado",
