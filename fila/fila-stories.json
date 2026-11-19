@@ -2609,7 +2609,7 @@
       "id": "story-20261119-ae9236ecfa",
       "data": "2026-11-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
         "sha256": "ae9236ecfaa96c28f109ba935968a3ac847cd177ea65df50c4eae3fdebfd1c79",
@@ -2619,7 +2619,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ae9236ecfa-Pai-Rico-18---O-timido-que-foi-vender.mp4",
@@ -2628,13 +2628,30 @@
             "duracao_segundos": 30.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154823926534618",
+            "publish_iniciado_em": "2026-11-19T09:33:10-03:00",
+            "id": "17996961873050678",
+            "publicado_em": "2026-11-19T09:33:18-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2025403694839140",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-19T09:33:25-03:00",
+            "post_id_candidato": "2241129093118084",
+            "finish_em": "2026-11-19T09:33:30-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIyNDExMjkwOTY0NTE0MTc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2241129093118084",
+            "publicado_em": "2026-11-19T09:34:06-03:00"
+          },
+          "concluido_em": "2026-11-19T09:34:06-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-19T09:34:06-03:00"
     },
     {
       "id": "story-20261120-60ceb458fb",
