@@ -7627,7 +7627,7 @@
       "id": "reel-20261119-2000-aae4528629",
       "data": "2026-11-19",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 03 - Largou treze mil por mes.mp4",
         "sha256": "aae4528629767282a2d83d70e61b95075cecbf9cf77fae78dac519b08ee270d1"
@@ -7640,12 +7640,17 @@
       },
       "instagram": {
         "legenda": "Ela ganhava treze mil reais por mês como repórter de TV.\n\nEm dois mil e quinze, pediu demissão pra se dedicar só a um canal de finanças.\n\nEssa lição está no livro Me Poupe!\n\nCom custo de vida de três mil por mês, são trinta e seis mil reais.\n\nPouco tempo depois, veio o primeiro milhão investido.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17960406348266391",
+        "publicado_em": "2026-11-19T23:35:34.902003-03:00"
       },
       "facebook": {
         "legenda": "Ela ganhava treze mil reais por mês como repórter de TV.\n\nEm dois mil e quinze, pediu demissão pra se dedicar só a um canal de finanças.\n\nEssa lição está no livro Me Poupe!\n\nCom custo de vida de três mil por mês, são trinta e seis mil reais.\n\nPouco tempo depois, veio o primeiro milhão investido.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1792448118507660",
+        "publicado_em": "2026-11-19T23:35:47.323554-03:00"
+      },
+      "concluido_em": "2026-11-19T23:35:47.335663-03:00"
     },
     {
       "id": "reel-20261120-0800-676345ce5b",
