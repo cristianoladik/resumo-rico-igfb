@@ -7717,7 +7717,7 @@
       "id": "reel-20261120-1400-9c84c3e988",
       "data": "2026-11-20",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 03 - So o X enriquece.mp4",
         "sha256": "9c84c3e988240e70332e9b9bd463a967ffee349af526ae65b81371160d6d3aed"
@@ -7730,12 +7730,17 @@
       },
       "instagram": {
         "legenda": "Qual sinal da matemática deixa alguém rico?\n\nO livro Os Códigos do Milhão responde: só o X.\n\nPra crescer de verdade, precisa de juro composto, de alavanca.\n\nPrecisa do X.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17984529126126087",
+        "publicado_em": "2026-11-20T15:45:13.316507-03:00"
       },
       "facebook": {
         "legenda": "Qual sinal da matemática deixa alguém rico?\n\nO livro Os Códigos do Milhão responde: só o X.\n\nPra crescer de verdade, precisa de juro composto, de alavanca.\n\nPrecisa do X.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2178873039379441",
+        "publicado_em": "2026-11-20T15:45:30.247608-03:00"
+      },
+      "concluido_em": "2026-11-20T15:45:30.259763-03:00"
     },
     {
       "id": "reel-20261120-1700-2de3eb58d7",
