@@ -2674,7 +2674,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-60ceb458fb-Babilonia-19---Desejo-definido.mp4",
             "sha256": "60ceb458fb0810365d600e4de59e50ccff03491a31c099226bca8bc5343d7c29",
             "tamanho_bytes": 11068500,
-            "duracao_segundos": 31.067
+            "duracao_segundos": 31.067,
+            "removido_da_release_em": "2026-11-20T09:33:36.316283-03:00"
           },
           "instagram": {
             "status": "publicado",
