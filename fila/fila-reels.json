@@ -7687,7 +7687,7 @@
       "id": "reel-20261120-1100-70031044c5",
       "data": "2026-11-20",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Poder do Habito 03 - Sem memoria e sem se perder.mp4",
         "sha256": "70031044c5c80b959901e4400a3e2b04ae119b171ed6b1460894c77f8b13de9c"
@@ -7700,12 +7700,17 @@
       },
       "instagram": {
         "legenda": "Um vírus atacou o cérebro de um senhor americano, Eugene Pauly.\n\nEle não guardava nada novo por mais de um minuto.\n\nEssa lição está no livro O Poder do Hábito.\n\nA parte do cérebro que guarda os hábitos estava inteira: os gânglios da base.\n\nO hábito funciona mesmo quando a memória consciente não funciona mais.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18146995873720107",
+        "publicado_em": "2026-11-20T12:22:38.978356-03:00"
       },
       "facebook": {
         "legenda": "Um vírus atacou o cérebro de um senhor americano, Eugene Pauly.\n\nEle não guardava nada novo por mais de um minuto.\n\nEssa lição está no livro O Poder do Hábito.\n\nA parte do cérebro que guarda os hábitos estava inteira: os gânglios da base.\n\nO hábito funciona mesmo quando a memória consciente não funciona mais.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2452521531948209",
+        "publicado_em": "2026-11-20T12:22:51.717551-03:00"
+      },
+      "concluido_em": "2026-11-20T12:22:51.725817-03:00"
     },
     {
       "id": "reel-20261120-1400-9c84c3e988",
