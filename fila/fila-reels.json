@@ -7747,7 +7747,7 @@
       "id": "reel-20261120-1700-2de3eb58d7",
       "data": "2026-11-20",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 03 - O tecnico demitido.mp4",
         "sha256": "2de3eb58d7b8400838f1624ad10024cd1b6f742d3d209df818fcb0227d0c1b9c"
@@ -7760,12 +7760,17 @@
       },
       "instagram": {
         "legenda": "Um técnico pegou um time que só perdia, deixou ele forte, e mesmo assim foi mandado embora.\n\nA história tá no livro O Poder do Hábito, e o final vale a espera.\n\nEntão se o seu hábito novo some no dia difícil, não é falta de força.\n\nTalvez falte você acreditar que ele funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18400150801204736",
+        "publicado_em": "2026-11-20T18:43:50.168036-03:00"
       },
       "facebook": {
         "legenda": "Um técnico pegou um time que só perdia, deixou ele forte, e mesmo assim foi mandado embora.\n\nA história tá no livro O Poder do Hábito, e o final vale a espera.\n\nEntão se o seu hábito novo some no dia difícil, não é falta de força.\n\nTalvez falte você acreditar que ele funciona.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1500760642115702",
+        "publicado_em": "2026-11-20T18:44:03.251211-03:00"
+      },
+      "concluido_em": "2026-11-20T18:44:03.260598-03:00"
     },
     {
       "id": "reel-20261120-2000-dfae43ca03",
