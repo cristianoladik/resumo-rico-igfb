@@ -7867,7 +7867,7 @@
       "id": "reel-20261121-1400-57146336ac",
       "data": "2026-11-21",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Codigos do Milhao 04 - Uma hora de estudo vinte de pratica.mp4",
         "sha256": "57146336aca4f4ec2c5034509dab938f5f4f411e583109b0ae1a8537294a3ffb"
@@ -7880,12 +7880,17 @@
       },
       "instagram": {
         "legenda": "Estudar demais pode estar te deixando pra trás.\n\nParece estranho, mas quem defende isso é Os Códigos do Milhão.\n\nEla ficou parada no jeito antigo e sumiu, enquanto quem se adaptou cresceu.\n\nPega a última coisa que você aprendeu e coloca em prática ainda hoje.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18181373563390402",
+        "publicado_em": "2026-11-21T15:43:09.912034-03:00"
       },
       "facebook": {
         "legenda": "Estudar demais pode estar te deixando pra trás.\n\nParece estranho, mas quem defende isso é Os Códigos do Milhão.\n\nEla ficou parada no jeito antigo e sumiu, enquanto quem se adaptou cresceu.\n\nPega a última coisa que você aprendeu e coloca em prática ainda hoje.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1150284484155711",
+        "publicado_em": "2026-11-21T15:43:23.395218-03:00"
+      },
+      "concluido_em": "2026-11-21T15:43:23.407638-03:00"
     },
     {
       "id": "reel-20261121-1700-abf451483a",
