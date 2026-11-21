@@ -7897,7 +7897,7 @@
       "id": "reel-20261121-1700-abf451483a",
       "data": "2026-11-21",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dezesseis Leis do Sucesso 04 - Fazer mais do que o combinado.mp4",
         "sha256": "abf451483a664106cc82dffeffc3b09540b50397c09af683b6c8f66f44893256"
@@ -7910,12 +7910,17 @@
       },
       "instagram": {
         "legenda": "Tem um hábito que faz você ser lembrado quando aparece uma vaga melhor.\n\nE quase ninguém faz, porque não está escrito no contrato.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nO pequeno comércio que capricha no atendimento ganha cliente fiel.\n\nDica minha: escolhe uma coisa pequena pra fazer além amanhã, uma só.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17891718498687080",
+        "publicado_em": "2026-11-21T17:25:10.378118-03:00"
       },
       "facebook": {
         "legenda": "Tem um hábito que faz você ser lembrado quando aparece uma vaga melhor.\n\nE quase ninguém faz, porque não está escrito no contrato.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nO pequeno comércio que capricha no atendimento ganha cliente fiel.\n\nDica minha: escolhe uma coisa pequena pra fazer além amanhã, uma só.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1729839255476749",
+        "publicado_em": "2026-11-21T17:25:26.367010-03:00"
+      },
+      "concluido_em": "2026-11-21T17:25:26.379397-03:00"
     },
     {
       "id": "reel-20261121-2000-3ead8da8a3",
