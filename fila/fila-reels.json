@@ -7777,7 +7777,7 @@
       "id": "reel-20261120-2000-dfae43ca03",
       "data": "2026-11-20",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Quem Pensa Enriquece 03 - Ford e os botoes da mesa.mp4",
         "sha256": "dfae43ca0396539e5a85510a77c0205abeeee00dc6bdf732f12452066f206749"
@@ -7790,12 +7790,17 @@
       },
       "instagram": {
         "legenda": "Um jornal chamou um dos homens mais ricos do mundo de ignorante.\n\nE ele levou o jornal pro tribunal.\n\nEssa lição está no livro Quem Pensa Enriquece.\n\nNinguém enriquece sabendo um pouquinho de tudo.\n\nEnriquece quem usa bem o que sabe e sabe a quem pedir o resto.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17976343727948308",
+        "publicado_em": "2026-11-20T21:19:31.875037-03:00"
       },
       "facebook": {
         "legenda": "Um jornal chamou um dos homens mais ricos do mundo de ignorante.\n\nE ele levou o jornal pro tribunal.\n\nEssa lição está no livro Quem Pensa Enriquece.\n\nNinguém enriquece sabendo um pouquinho de tudo.\n\nEnriquece quem usa bem o que sabe e sabe a quem pedir o resto.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4346526218990105",
+        "publicado_em": "2026-11-20T21:19:43.671900-03:00"
+      },
+      "concluido_em": "2026-11-20T21:19:43.679656-03:00"
     },
     {
       "id": "reel-20261121-0800-56c5817d92",
