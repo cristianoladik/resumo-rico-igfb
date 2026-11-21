@@ -2707,7 +2707,7 @@
       "id": "story-20261121-ee3a20eb06",
       "data": "2026-11-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
         "sha256": "ee3a20eb06e03f19b8085e0620d2d5d95c47d6e2a9bcd102e711c5d8eb2ed58f",
@@ -2717,7 +2717,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
@@ -2726,13 +2726,30 @@
             "duracao_segundos": 36.0
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155260582534618",
+            "publish_iniciado_em": "2026-11-21T09:32:04-03:00",
+            "id": "18082536464760372",
+            "publicado_em": "2026-11-21T09:32:13-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1527299005907533",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-21T09:32:22-03:00",
+            "post_id_candidato": "2938018299894883",
+            "finish_em": "2026-11-21T09:32:27-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjI5MzgwMTgzMDk4OTQ4ODI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2938018299894883",
+            "publicado_em": "2026-11-21T09:33:04-03:00"
+          },
+          "concluido_em": "2026-11-21T09:33:04-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-21T09:33:04-03:00"
     },
     {
       "id": "story-20261122-a3a03304c5",
