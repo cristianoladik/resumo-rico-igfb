@@ -7807,7 +7807,7 @@
       "id": "reel-20261121-0800-56c5817d92",
       "data": "2026-11-21",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Salomao 03 - A caixa registradora.mp4",
         "sha256": "56c5817d92dfadc591de4e03b67e29e392777d464d9fa9fa7e7328e66fa6a056"
@@ -7820,12 +7820,17 @@
       },
       "instagram": {
         "legenda": "O homem que inventou a caixa registradora quase não ganhou nada com ela.\n\nQuem conta é o livro Salomão, o Homem Mais Rico que Já Existiu.\n\nA mesma invenção.\n\nDois donos.\n\nDois destinos.\n\nO livro chama essa diferença de visão: saber aonde quer chegar antes de dar o primeiro passo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18172792423476848",
+        "publicado_em": "2026-11-21T09:30:59.422175-03:00"
       },
       "facebook": {
         "legenda": "O homem que inventou a caixa registradora quase não ganhou nada com ela.\n\nQuem conta é o livro Salomão, o Homem Mais Rico que Já Existiu.\n\nA mesma invenção.\n\nDois donos.\n\nDois destinos.\n\nO livro chama essa diferença de visão: saber aonde quer chegar antes de dar o primeiro passo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1490872296252358",
+        "publicado_em": "2026-11-21T09:31:09.795063-03:00"
+      },
+      "concluido_em": "2026-11-21T09:31:09.807707-03:00"
     },
     {
       "id": "reel-20261121-1100-4a8126f946",
