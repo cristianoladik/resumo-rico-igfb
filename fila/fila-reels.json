@@ -7837,7 +7837,7 @@
       "id": "reel-20261121-1100-4a8126f946",
       "data": "2026-11-21",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 04 - Tirar em vez de somar.mp4",
         "sha256": "4a8126f9463cfe0a4a8d9e61cacd231f9e3cb37153753471dc52dcd9c7978cd0"
@@ -7850,12 +7850,17 @@
       },
       "instagram": {
         "legenda": "Às vezes o melhor jeito de ficar mais forte é tirar alguma coisa, não colocar.\n\nO livro Antifrágil chama isso de via negativa.\n\nE tem um motivo simples: descobrir o que te derruba é bem mais fácil do que acertar o que vai te salvar.\n\nPega um papel hoje e escreve uma coisa só pra cortar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17911021317332564",
+        "publicado_em": "2026-11-21T11:34:25.355382-03:00"
       },
       "facebook": {
         "legenda": "Às vezes o melhor jeito de ficar mais forte é tirar alguma coisa, não colocar.\n\nO livro Antifrágil chama isso de via negativa.\n\nE tem um motivo simples: descobrir o que te derruba é bem mais fácil do que acertar o que vai te salvar.\n\nPega um papel hoje e escreve uma coisa só pra cortar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1178402944857018",
+        "publicado_em": "2026-11-21T11:34:45.587295-03:00"
+      },
+      "concluido_em": "2026-11-21T11:34:45.600319-03:00"
     },
     {
       "id": "reel-20261121-1400-57146336ac",
