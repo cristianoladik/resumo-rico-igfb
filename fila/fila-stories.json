@@ -2723,7 +2723,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-ee3a20eb06-Mente-Milionaria-19---Dinheiro-que-trabalha.mp4",
             "sha256": "ee3a20eb06e03f19b8085e0620d2d5d95c47d6e2a9bcd102e711c5d8eb2ed58f",
             "tamanho_bytes": 14388640,
-            "duracao_segundos": 36.0
+            "duracao_segundos": 36.0,
+            "removido_da_release_em": "2026-11-21T09:33:06.663483-03:00"
           },
           "instagram": {
             "status": "publicado",
