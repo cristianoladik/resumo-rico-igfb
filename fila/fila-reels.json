@@ -7957,7 +7957,7 @@
       "id": "reel-20261122-0800-3337d77976",
       "data": "2026-11-22",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mais Esperto que o Diabo 04 - Andar a deriva.mp4",
         "sha256": "3337d77976e67aef69cf94465d659657be01da4e26a8ad0b85d6b6c61193a00a"
@@ -7970,12 +7970,17 @@
       },
       "instagram": {
         "legenda": "Noventa e oito de cada cem pessoas estão nas mãos dele.\n\nPelo menos é o que ele diz.\n\nEle, no caso, é o Diabo do livro Mais Esperto que o Diabo.\n\nUma decisão firme funciona como alguém voltando a segurar o leme.\n\nA correnteza continua lá.\n\nMas agora quem escolhe o caminho é você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121173958996233",
+        "publicado_em": "2026-11-22T09:31:06.879032-03:00"
       },
       "facebook": {
         "legenda": "Noventa e oito de cada cem pessoas estão nas mãos dele.\n\nPelo menos é o que ele diz.\n\nEle, no caso, é o Diabo do livro Mais Esperto que o Diabo.\n\nUma decisão firme funciona como alguém voltando a segurar o leme.\n\nA correnteza continua lá.\n\nMas agora quem escolhe o caminho é você.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2110385182929105",
+        "publicado_em": "2026-11-22T09:31:18.705452-03:00"
+      },
+      "concluido_em": "2026-11-22T09:31:18.717850-03:00"
     },
     {
       "id": "reel-20261122-1100-13810cf032",
