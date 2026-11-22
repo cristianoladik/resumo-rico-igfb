@@ -7927,7 +7927,7 @@
       "id": "reel-20261121-2000-3ead8da8a3",
       "data": "2026-11-21",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 04 - Os seis sacrificios.mp4",
         "sha256": "3ead8da8a3b5edab2b865d2353ff7c9d786e2291c884ba16ef0545d0e24913a0"
@@ -7940,12 +7940,17 @@
       },
       "instagram": {
         "legenda": "Querer ficar rico não basta.\n\nTem seis sacrifícios no caminho.\n\nEssa lista abre o livro Do Mil ao Milhão, do Thiago Nigro.\n\nSexto: o perfeccionismo, que trava quem espera a hora perfeita.\n\nRepara: nenhum deles fala de dinheiro.\n\nTodos falam de comportamento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18104263166436864",
+        "publicado_em": "2026-11-21T22:12:29.116966-03:00"
       },
       "facebook": {
         "legenda": "Querer ficar rico não basta.\n\nTem seis sacrifícios no caminho.\n\nEssa lista abre o livro Do Mil ao Milhão, do Thiago Nigro.\n\nSexto: o perfeccionismo, que trava quem espera a hora perfeita.\n\nRepara: nenhum deles fala de dinheiro.\n\nTodos falam de comportamento.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1688713372786345",
+        "publicado_em": "2026-11-21T22:12:38.757780-03:00"
+      },
+      "concluido_em": "2026-11-21T22:12:38.768039-03:00"
     },
     {
       "id": "reel-20261122-0800-3337d77976",
