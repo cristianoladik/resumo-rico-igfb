@@ -7987,7 +7987,7 @@
       "id": "reel-20261122-1100-13810cf032",
       "data": "2026-11-22",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 04 - O no na garganta.mp4",
         "sha256": "13810cf03213c000f82e72c397640a8cbe45ae30b2e54bb00e0c0ab2108076d4"
@@ -8000,12 +8000,17 @@
       },
       "instagram": {
         "legenda": "Você sente vergonha de pedir desconto?\n\nMedo de falar com o parceiro sobre quem paga o quê?\n\nEssa lição está no livro Me Poupe!\n\nSilêncio sobre dinheiro não protege a família.\n\nSó adia a conta.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18096878477267279",
+        "publicado_em": "2026-11-22T11:29:17.007377-03:00"
       },
       "facebook": {
         "legenda": "Você sente vergonha de pedir desconto?\n\nMedo de falar com o parceiro sobre quem paga o quê?\n\nEssa lição está no livro Me Poupe!\n\nSilêncio sobre dinheiro não protege a família.\n\nSó adia a conta.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1551878731333057",
+        "publicado_em": "2026-11-22T11:29:27.518067-03:00"
+      },
+      "concluido_em": "2026-11-22T11:29:27.530238-03:00"
     },
     {
       "id": "reel-20261122-1400-7d6052d6c1",
