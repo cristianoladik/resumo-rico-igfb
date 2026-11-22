@@ -2756,7 +2756,7 @@
       "id": "story-20261122-a3a03304c5",
       "data": "2026-11-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
         "sha256": "a3a03304c56511cf1a2c55edd7f4452704894d7f2fe7af83823e3a32bc302289",
@@ -2766,7 +2766,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
@@ -2775,13 +2775,30 @@
             "duracao_segundos": 30.633
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155484094534618",
+            "publish_iniciado_em": "2026-11-22T09:32:01-03:00",
+            "id": "18192180988422592",
+            "publicado_em": "2026-11-22T09:32:10-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1866496871020700",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-22T09:32:17-03:00",
+            "post_id_candidato": "2027903654563021",
+            "finish_em": "2026-11-22T09:32:22-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIwMjc5MDM2NTc4OTYzNTQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2027903654563021",
+            "publicado_em": "2026-11-22T09:32:59-03:00"
+          },
+          "concluido_em": "2026-11-22T09:32:59-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-22T09:32:59-03:00"
     },
     {
       "id": "story-20261123-1ac13377a2",
