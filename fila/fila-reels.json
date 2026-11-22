@@ -8047,7 +8047,7 @@
       "id": "reel-20261122-1700-01711b446b",
       "data": "2026-11-22",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Poder do Habito 04 - O rato no labirinto.mp4",
         "sha256": "01711b446bad7cbd314c45eefdb02f9b538517248625e42d25d357a73655f8f6"
@@ -8060,12 +8060,17 @@
       },
       "instagram": {
         "legenda": "Você já chegou em casa dirigindo e nem lembrava do caminho?\n\nTem explicação.\n\nEssa lição está no livro O Poder do Hábito.\n\nSegundo um estudo citado no livro, mais de quarenta por cento do seu dia é hábito.\n\nSe o hábito decide tanto, escolher os hábitos é escolher a vida.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18054480305604730",
+        "publicado_em": "2026-11-22T17:38:14.783166-03:00"
       },
       "facebook": {
         "legenda": "Você já chegou em casa dirigindo e nem lembrava do caminho?\n\nTem explicação.\n\nEssa lição está no livro O Poder do Hábito.\n\nSegundo um estudo citado no livro, mais de quarenta por cento do seu dia é hábito.\n\nSe o hábito decide tanto, escolher os hábitos é escolher a vida.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1841406826997858",
+        "publicado_em": "2026-11-22T17:38:27.690579-03:00"
+      },
+      "concluido_em": "2026-11-22T17:38:27.698396-03:00"
     },
     {
       "id": "reel-20261122-2000-0ea586fc84",
