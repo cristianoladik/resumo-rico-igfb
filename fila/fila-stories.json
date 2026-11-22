@@ -2772,7 +2772,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a3a03304c5-Pai-Rico-19---Paga-voce-primeiro.mp4",
             "sha256": "a3a03304c56511cf1a2c55edd7f4452704894d7f2fe7af83823e3a32bc302289",
             "tamanho_bytes": 12007170,
-            "duracao_segundos": 30.633
+            "duracao_segundos": 30.633,
+            "removido_da_release_em": "2026-11-22T09:33:02.083150-03:00"
           },
           "instagram": {
             "status": "publicado",
