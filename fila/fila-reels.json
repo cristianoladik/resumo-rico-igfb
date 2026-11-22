@@ -8017,7 +8017,7 @@
       "id": "reel-20261122-1400-7d6052d6c1",
       "data": "2026-11-22",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria As 16 Leis do Sucesso 04 - O colega de oficina do Ford.mp4",
         "sha256": "7d6052d6c16f538417a25ad8d7f2d0321213ddb25e87a365251a84301f4bb68d"
@@ -8030,12 +8030,17 @@
       },
       "instagram": {
         "legenda": "Um homem trabalhava na mesma oficina que o Henry Ford.\n\nFazia o mesmo serviço.\n\nDiziam que fazia até melhor.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nPor isso o livro pede pra escrever o propósito num papel, com o plano.\n\nTipo: juntar trinta mil reais em três anos pra entrada de um imóvel.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18144021076619845",
+        "publicado_em": "2026-11-22T16:02:55.274713-03:00"
       },
       "facebook": {
         "legenda": "Um homem trabalhava na mesma oficina que o Henry Ford.\n\nFazia o mesmo serviço.\n\nDiziam que fazia até melhor.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nPor isso o livro pede pra escrever o propósito num papel, com o plano.\n\nTipo: juntar trinta mil reais em três anos pra entrada de um imóvel.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "901473226325004",
+        "publicado_em": "2026-11-22T16:03:11.707406-03:00"
+      },
+      "concluido_em": "2026-11-22T16:03:11.717590-03:00"
     },
     {
       "id": "reel-20261122-1700-01711b446b",
