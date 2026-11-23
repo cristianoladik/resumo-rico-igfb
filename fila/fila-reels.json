@@ -8077,7 +8077,7 @@
       "id": "reel-20261122-2000-0ea586fc84",
       "data": "2026-11-22",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 04 - Meio vezes meio.mp4",
         "sha256": "0ea586fc84203b21c8910cfac9ba9708a0d75c91ca805e2ce39e4962d4726e2f"
@@ -8090,12 +8090,17 @@
       },
       "instagram": {
         "legenda": "Meio vezes meio dá quanto?\n\nDá um quarto.\n\nAs duas metades juntas ficaram menores.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nPode ser tempo, uma habilidade ou um objeto parado em casa.\n\nO livro pergunta: o que você tem hoje que dá pra virar renda?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17992345824084651",
+        "publicado_em": "2026-11-22T23:04:26.112913-03:00"
       },
       "facebook": {
         "legenda": "Meio vezes meio dá quanto?\n\nDá um quarto.\n\nAs duas metades juntas ficaram menores.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nPode ser tempo, uma habilidade ou um objeto parado em casa.\n\nO livro pergunta: o que você tem hoje que dá pra virar renda?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1606956004075913",
+        "publicado_em": "2026-11-22T23:04:44.351968-03:00"
+      },
+      "concluido_em": "2026-11-22T23:04:44.364197-03:00"
     },
     {
       "id": "reel-20261123-0800-5d75bb2d1c",
