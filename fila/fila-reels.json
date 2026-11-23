@@ -8197,7 +8197,7 @@
       "id": "reel-20261123-1700-1a4c3d0616",
       "data": "2026-11-23",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 05 - O problema do peru.mp4",
         "sha256": "1a4c3d061645cad246f231cb10a314d0678a72337d16793eb766dfaa25be2d44"
@@ -8210,12 +8210,17 @@
       },
       "instagram": {
         "legenda": "Mil dias de comida boa.\n\nNo dia mil e um, o fim.\n\nEssa é a história mais famosa do livro Antifrágil.\n\nE começar a perguntar: se isso acabar amanhã, eu aguento?\n\nSe a resposta for não, é hora de se proteger antes da festa chegar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18103892396388381",
+        "publicado_em": "2026-11-23T19:15:45.240441-03:00"
       },
       "facebook": {
         "legenda": "Mil dias de comida boa.\n\nNo dia mil e um, o fim.\n\nEssa é a história mais famosa do livro Antifrágil.\n\nE começar a perguntar: se isso acabar amanhã, eu aguento?\n\nSe a resposta for não, é hora de se proteger antes da festa chegar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1198069562884952",
+        "publicado_em": "2026-11-23T19:15:54.792139-03:00"
+      },
+      "concluido_em": "2026-11-23T19:15:54.799714-03:00"
     },
     {
       "id": "reel-20261123-2000-b8020c25ed",
