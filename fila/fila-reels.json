@@ -8107,7 +8107,7 @@
       "id": "reel-20261123-0800-5d75bb2d1c",
       "data": "2026-11-23",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 04 - O homem sem memoria.mp4",
         "sha256": "5d75bb2d1c2d13f227e801c8a79bd57068419b6f893dc096301e05a3bcd4954c"
@@ -8120,12 +8120,17 @@
       },
       "instagram": {
         "legenda": "Um homem perdeu quase toda a memória e mesmo assim achava a cozinha sozinho.\n\nO caso é real e tá no livro O Poder do Hábito.\n\nA lembrança tinha sumido.\n\nO hábito continuava inteiro.\n\nÉ por isso que tanta coisa no seu dia acontece sem você decidir.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18357576166267946",
+        "publicado_em": "2026-11-23T09:32:47.116522-03:00"
       },
       "facebook": {
         "legenda": "Um homem perdeu quase toda a memória e mesmo assim achava a cozinha sozinho.\n\nO caso é real e tá no livro O Poder do Hábito.\n\nA lembrança tinha sumido.\n\nO hábito continuava inteiro.\n\nÉ por isso que tanta coisa no seu dia acontece sem você decidir.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1145157411810077",
+        "publicado_em": "2026-11-23T09:32:58.449568-03:00"
+      },
+      "concluido_em": "2026-11-23T09:32:58.459080-03:00"
     },
     {
       "id": "reel-20261123-1100-b014523bbd",
