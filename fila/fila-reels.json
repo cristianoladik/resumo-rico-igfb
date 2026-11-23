@@ -8227,7 +8227,7 @@
       "id": "reel-20261123-2000-b8020c25ed",
       "data": "2026-11-23",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Codigos do Milhao 05 - Dia mes e ano.mp4",
         "sha256": "b8020c25edd58fb4ca56b10c23577414b9b48b8e7911d6a74251085c3cda1530"
@@ -8240,12 +8240,17 @@
       },
       "instagram": {
         "legenda": "Ficar rico um dia não é plano.\n\nÉ desejo.\n\nO livro Os Códigos do Milhão chama o remédio disso de super data.\n\nE todo ano você confere se ainda tá no caminho.\n\nPega um papel e escreve a sua data hoje.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18157514059530615",
+        "publicado_em": "2026-11-23T20:24:23.602700-03:00"
       },
       "facebook": {
         "legenda": "Ficar rico um dia não é plano.\n\nÉ desejo.\n\nO livro Os Códigos do Milhão chama o remédio disso de super data.\n\nE todo ano você confere se ainda tá no caminho.\n\nPega um papel e escreve a sua data hoje.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4786110108376835",
+        "publicado_em": "2026-11-23T20:24:35.842238-03:00"
+      },
+      "concluido_em": "2026-11-23T20:24:35.854298-03:00"
     },
     {
       "id": "reel-20261124-0800-631a3b9530",
