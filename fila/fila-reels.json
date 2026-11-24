@@ -8287,7 +8287,7 @@
       "id": "reel-20261124-1100-6978b6a8c9",
       "data": "2026-11-24",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 05 - As quatro fases do dinheiro.mp4",
         "sha256": "6978b6a8c9fb621dab7ad951c094bb6f6204681bb7ab16185f594ea79d0c6d35"
@@ -8300,18 +8300,23 @@
       },
       "instagram": {
         "legenda": "Existem quatro fases na vida financeira.\n\nEm qual você tá?\n\nElas estão no livro Do Mil ao Milhão, do Thiago Nigro.\n\nÉ quando o que os seus investimentos rendem paga todos os seus gastos.\n\nNinguém pula fase.\n\nCada degrau prepara o próximo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17913989991577585",
+        "publicado_em": "2026-11-24T14:34:41.832409-03:00"
       },
       "facebook": {
         "legenda": "Existem quatro fases na vida financeira.\n\nEm qual você tá?\n\nElas estão no livro Do Mil ao Milhão, do Thiago Nigro.\n\nÉ quando o que os seus investimentos rendem paga todos os seus gastos.\n\nNinguém pula fase.\n\nCada degrau prepara o próximo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "30080090621680393",
+        "publicado_em": "2026-11-24T14:34:52.425887-03:00"
+      },
+      "concluido_em": "2026-11-24T14:34:52.436207-03:00"
     },
     {
       "id": "reel-20261124-1400-d155a3f5c1",
       "data": "2026-11-24",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mais Esperto que o Diabo 05 - A deriva no celular.mp4",
         "sha256": "d155a3f5c16d37ab8d69f54c577dec18be761d2ac6ca441ee6ecaba10a7713ef"
@@ -8324,12 +8329,17 @@
       },
       "instagram": {
         "legenda": "Você já pegou o celular hoje sem nem perceber que tinha pegado?\n\nUm livro de quase noventa anos atrás já tinha nome pra isso.\n\nEssa lição está no livro Mais Esperto que o Diabo.\n\nNinguém escolhe ficar à deriva.\n\nA gente só esquece de escolher.\n\nTeste rápido: amanhã, antes de abrir qualquer aplicativo, anota uma coisa que você vai fazer no dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18137505493664837",
+        "publicado_em": "2026-11-24T14:35:39.078928-03:00"
       },
       "facebook": {
         "legenda": "Você já pegou o celular hoje sem nem perceber que tinha pegado?\n\nUm livro de quase noventa anos atrás já tinha nome pra isso.\n\nEssa lição está no livro Mais Esperto que o Diabo.\n\nNinguém escolhe ficar à deriva.\n\nA gente só esquece de escolher.\n\nTeste rápido: amanhã, antes de abrir qualquer aplicativo, anota uma coisa que você vai fazer no dia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1164237972758478",
+        "publicado_em": "2026-11-24T14:35:50.420515-03:00"
+      },
+      "concluido_em": "2026-11-24T14:35:50.430253-03:00"
     },
     {
       "id": "reel-20261124-1700-8c5981d5c4",
