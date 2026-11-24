@@ -8377,7 +8377,7 @@
       "id": "reel-20261124-2000-b979e7c9d6",
       "data": "2026-11-24",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria As 16 Leis do Sucesso 05 - O cego e o sem pernas.mp4",
         "sha256": "b979e7c9d6b7d7232e4011b92226c974c6ccaff60cfe892f81bd66cfc77e1a04"
@@ -8390,12 +8390,17 @@
       },
       "instagram": {
         "legenda": "Um homem sem pernas encontrou um homem cego e propôs um acordo.\n\nMe carrega nas costas.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nGrupo que vive brigando não vira mente mestra.\n\nVira reunião cansativa.\n\nNa prática: duas ou três pessoas que sabem o que você não sabe, uma conversa por mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18088331684718017",
+        "publicado_em": "2026-11-24T20:25:35.885436-03:00"
       },
       "facebook": {
         "legenda": "Um homem sem pernas encontrou um homem cego e propôs um acordo.\n\nMe carrega nas costas.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nGrupo que vive brigando não vira mente mestra.\n\nVira reunião cansativa.\n\nNa prática: duas ou três pessoas que sabem o que você não sabe, uma conversa por mês.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3364087690449816",
+        "publicado_em": "2026-11-24T20:25:47.753041-03:00"
+      },
+      "concluido_em": "2026-11-24T20:25:47.765331-03:00"
     },
     {
       "id": "reel-20261125-0800-855e0b74cf",
