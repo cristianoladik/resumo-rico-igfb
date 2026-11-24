@@ -8347,7 +8347,7 @@
       "id": "reel-20261124-1700-8c5981d5c4",
       "data": "2026-11-24",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 05 - As 4 fases da dinheirofobia.mp4",
         "sha256": "8c5981d5c4c6f2695ac38f40880bacab2d7c0dcf2f7171c15c22bd2beba288e7"
@@ -8360,12 +8360,17 @@
       },
       "instagram": {
         "legenda": "O medo de dinheiro não aparece do nada.\n\nEle avança em quatro fases.\n\nQuem explica é o livro Me Poupe!, da Nathalia Arcuri.\n\nRepara: ninguém chega na fase quatro de uma vez.\n\nÉ um caminho.\n\nPensa aí: qual frase sobre dinheiro você mais ouvia em casa?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18105945086756778",
+        "publicado_em": "2026-11-24T18:56:03.512500-03:00"
       },
       "facebook": {
         "legenda": "O medo de dinheiro não aparece do nada.\n\nEle avança em quatro fases.\n\nQuem explica é o livro Me Poupe!, da Nathalia Arcuri.\n\nRepara: ninguém chega na fase quatro de uma vez.\n\nÉ um caminho.\n\nPensa aí: qual frase sobre dinheiro você mais ouvia em casa?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2895149774202093",
+        "publicado_em": "2026-11-24T18:56:16.108422-03:00"
+      },
+      "concluido_em": "2026-11-24T18:56:16.120739-03:00"
     },
     {
       "id": "reel-20261124-2000-b979e7c9d6",
