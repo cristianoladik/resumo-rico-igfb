@@ -2870,7 +2870,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
             "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd",
             "tamanho_bytes": 14264260,
-            "duracao_segundos": 39.233
+            "duracao_segundos": 39.233,
+            "removido_da_release_em": "2026-11-24T09:33:18.623561-03:00"
           },
           "instagram": {
             "status": "publicado",
