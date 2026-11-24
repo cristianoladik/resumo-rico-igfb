@@ -2854,7 +2854,7 @@
       "id": "story-20261124-fc4ce2a95e",
       "data": "2026-11-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 20 - Os 6 potes.mp4",
         "sha256": "fc4ce2a95ea73db33902c54252b978000deb540dfffd9148700d01f25a5e75cd",
@@ -2864,7 +2864,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-fc4ce2a95e-Mente-Milionaria-20---Os-6-potes.mp4",
@@ -2873,13 +2873,30 @@
             "duracao_segundos": 39.233
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155903140534618",
+            "publish_iniciado_em": "2026-11-24T09:32:19-03:00",
+            "id": "18120199388038923",
+            "publicado_em": "2026-11-24T09:32:27-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1905101497589952",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-24T09:32:35-03:00",
+            "post_id_candidato": "1829736638063122",
+            "finish_em": "2026-11-24T09:32:39-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE4Mjk3MzY2NDQ3Mjk3ODg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1829736638063122",
+            "publicado_em": "2026-11-24T09:33:15-03:00"
+          },
+          "concluido_em": "2026-11-24T09:33:15-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-24T09:33:15-03:00"
     },
     {
       "id": "story-20261125-a3772d6f48",
