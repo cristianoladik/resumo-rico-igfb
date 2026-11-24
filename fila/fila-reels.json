@@ -8257,7 +8257,7 @@
       "id": "reel-20261124-0800-631a3b9530",
       "data": "2026-11-24",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dezesseis Leis do Sucesso 05 - Nao espere mandarem.mp4",
         "sha256": "631a3b9530f8bee169322481a94b74b7a70e032d1e5e3f91e663926ecdaf928b"
@@ -8270,12 +8270,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que vê a lixeira transbordando e espera alguém mandar esvaziar.\n\nE depois reclama que ninguém repara no trabalho dela.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nO momento perfeito não vem.\n\nQuem fica esperando por ele continua esperando.\n\nO que você vai resolver hoje sem esperar ninguém mandar?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18103968680392966",
+        "publicado_em": "2026-11-24T09:31:01.457245-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que vê a lixeira transbordando e espera alguém mandar esvaziar.\n\nE depois reclama que ninguém repara no trabalho dela.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nO momento perfeito não vem.\n\nQuem fica esperando por ele continua esperando.\n\nO que você vai resolver hoje sem esperar ninguém mandar?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3076773479337858",
+        "publicado_em": "2026-11-24T09:31:13.276804-03:00"
+      },
+      "concluido_em": "2026-11-24T09:31:13.289007-03:00"
     },
     {
       "id": "reel-20261124-1100-6978b6a8c9",
