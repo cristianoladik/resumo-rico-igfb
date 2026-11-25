@@ -2919,7 +2919,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
             "sha256": "a3772d6f4874efc421269d79a331554ce9360aaefd3c187cdfc4ed6675072988",
             "tamanho_bytes": 8154656,
-            "duracao_segundos": 32.867
+            "duracao_segundos": 32.867,
+            "removido_da_release_em": "2026-11-25T09:32:19.774156-03:00"
           },
           "instagram": {
             "status": "publicado",
