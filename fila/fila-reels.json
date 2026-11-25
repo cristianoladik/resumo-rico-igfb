@@ -8407,7 +8407,7 @@
       "id": "reel-20261125-0800-855e0b74cf",
       "data": "2026-11-25",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Poder do Habito 05 - O formigamento da pasta.mp4",
         "sha256": "855e0b74cf12ee47d50e82c8ab5c2600422909c0a9b50d71cee1f6f2ff43398b"
@@ -8420,12 +8420,17 @@
       },
       "instagram": {
         "legenda": "Sabe aquele formigamento na boca depois de escovar os dentes?\n\nEle tem uma história.\n\nEssa lição está no livro O Poder do Hábito.\n\nO formigamento virou a prova de que a boca estava limpa.\n\nSem ele, parecia faltar alguma coisa.\n\nO livro chama isso de ânsia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18185955319439025",
+        "publicado_em": "2026-11-25T08:52:55.490605-03:00"
       },
       "facebook": {
         "legenda": "Sabe aquele formigamento na boca depois de escovar os dentes?\n\nEle tem uma história.\n\nEssa lição está no livro O Poder do Hábito.\n\nO formigamento virou a prova de que a boca estava limpa.\n\nSem ele, parecia faltar alguma coisa.\n\nO livro chama isso de ânsia.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3687214231455446",
+        "publicado_em": "2026-11-25T08:53:10.017097-03:00"
+      },
+      "concluido_em": "2026-11-25T08:53:10.027703-03:00"
     },
     {
       "id": "reel-20261125-1100-ba86ce6cb6",
