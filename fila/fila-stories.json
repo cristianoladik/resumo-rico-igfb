@@ -2903,7 +2903,7 @@
       "id": "story-20261125-a3772d6f48",
       "data": "2026-11-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
         "sha256": "a3772d6f4874efc421269d79a331554ce9360aaefd3c187cdfc4ed6675072988",
@@ -2913,7 +2913,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-a3772d6f48-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
@@ -2922,13 +2922,30 @@
             "duracao_segundos": 32.867
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156097348534618",
+            "publish_iniciado_em": "2026-11-25T09:31:22-03:00",
+            "id": "18067857170545011",
+            "publicado_em": "2026-11-25T09:31:29-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1745673240554157",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-25T09:31:36-03:00",
+            "post_id_candidato": "1138246725682805",
+            "finish_em": "2026-11-25T09:31:40-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjExMzgyNDY3MzIzNDk0NzE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1138246725682805",
+            "publicado_em": "2026-11-25T09:32:17-03:00"
+          },
+          "concluido_em": "2026-11-25T09:32:17-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-25T09:32:17-03:00"
     },
     {
       "id": "story-20261126-7441996e8b",
