@@ -8497,7 +8497,7 @@
       "id": "reel-20261125-1700-87ecccd7c9",
       "data": "2026-11-25",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Quem Pensa Enriquece 05 - O filho que nasceu sem orelhas.mp4",
         "sha256": "87ecccd7c9c95a58d4ffd1f8c4f7eb9f79954bed8121bb538fc0ca29e5061235"
@@ -8510,12 +8510,17 @@
       },
       "instagram": {
         "legenda": "Os médicos disseram: esse menino nunca vai ouvir.\n\nO pai não aceitou.\n\nEssa lição está no livro Quem Pensa Enriquece.\n\nPro autor, foi a prova de que um desejo teimoso muda o que parecia decidido.\n\nE você, que limite aceitou sem nem testar?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17992168712875108",
+        "publicado_em": "2026-11-25T17:49:22.220105-03:00"
       },
       "facebook": {
         "legenda": "Os médicos disseram: esse menino nunca vai ouvir.\n\nO pai não aceitou.\n\nEssa lição está no livro Quem Pensa Enriquece.\n\nPro autor, foi a prova de que um desejo teimoso muda o que parecia decidido.\n\nE você, que limite aceitou sem nem testar?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1130984103138292",
+        "publicado_em": "2026-11-25T17:49:33.465722-03:00"
+      },
+      "concluido_em": "2026-11-25T17:49:33.476432-03:00"
     },
     {
       "id": "reel-20261125-2000-842c969607",
