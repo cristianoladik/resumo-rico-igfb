@@ -8437,7 +8437,7 @@
       "id": "reel-20261125-1100-ba86ce6cb6",
       "data": "2026-11-25",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 05 - Os tres palestrantes.mp4",
         "sha256": "ba86ce6cb64e582344bdb0c0229331c62511dbb630fbddd6a43cc1f962830a60"
@@ -8450,18 +8450,23 @@
       },
       "instagram": {
         "legenda": "Três palestrantes de finanças subiram no palco, um atrás do outro.\n\nO primeiro disse: pra ficar rico, você vai precisar de dez anos.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nE a crença mais cara é esta: eu sou ruim com dinheiro.\n\nNão sabe lidar com dinheiro ainda?\n\nVai estudar.\n\nNinguém nasce sabendo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121303331084443",
+        "publicado_em": "2026-11-25T14:06:45.384313-03:00"
       },
       "facebook": {
         "legenda": "Três palestrantes de finanças subiram no palco, um atrás do outro.\n\nO primeiro disse: pra ficar rico, você vai precisar de dez anos.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nE a crença mais cara é esta: eu sou ruim com dinheiro.\n\nNão sabe lidar com dinheiro ainda?\n\nVai estudar.\n\nNinguém nasce sabendo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1670780754396309",
+        "publicado_em": "2026-11-25T14:07:00.769931-03:00"
+      },
+      "concluido_em": "2026-11-25T14:07:00.777606-03:00"
     },
     {
       "id": "reel-20261125-1400-86b0548ab9",
       "data": "2026-11-25",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 05 - A caneta no Egito.mp4",
         "sha256": "86b0548ab9881c1c4716270575b55d181f9bcc84b16cf0ccc85f8b10f79a6acb"
@@ -8474,12 +8479,17 @@
       },
       "instagram": {
         "legenda": "Ela acordou no escuro, pegou o que achou que era um cigarro, e acendeu uma caneta.\n\nFoi esse susto que virou a vida dela do avesso.\n\nEssa lição está no livro O Poder do Hábito.\n\nEntão, se for mudar algo este ano, escolhe um hábito só, o que puxa os outros.\n\nE trabalha nele até ficar automático.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17931715419186350",
+        "publicado_em": "2026-11-25T14:08:21.044338-03:00"
       },
       "facebook": {
         "legenda": "Ela acordou no escuro, pegou o que achou que era um cigarro, e acendeu uma caneta.\n\nFoi esse susto que virou a vida dela do avesso.\n\nEssa lição está no livro O Poder do Hábito.\n\nEntão, se for mudar algo este ano, escolhe um hábito só, o que puxa os outros.\n\nE trabalha nele até ficar automático.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1171328691981747",
+        "publicado_em": "2026-11-25T14:08:38.244027-03:00"
+      },
+      "concluido_em": "2026-11-25T14:08:38.252210-03:00"
     },
     {
       "id": "reel-20261125-1700-87ecccd7c9",
