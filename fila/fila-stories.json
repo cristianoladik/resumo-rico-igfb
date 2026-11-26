@@ -2952,7 +2952,7 @@
       "id": "story-20261126-7441996e8b",
       "data": "2026-11-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 01 - A tacada no rosto.mp4",
         "sha256": "7441996e8b865c8ed7583ac8011cc6d498af37c8b3294e40233a818931aa6729",
@@ -2962,7 +2962,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7441996e8b-Habitos-Atomicos-01---A-tacada-no-rosto.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7441996e8b-Habitos-Atomicos-01---A-tacada-no-rosto.mp4",
@@ -2971,13 +2971,30 @@
             "duracao_segundos": 45.033
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156299461534618",
+            "publish_iniciado_em": "2026-11-26T09:33:11-03:00",
+            "id": "18146342060491438",
+            "publicado_em": "2026-11-26T09:33:19-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2264012644177805",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-26T09:33:26-03:00",
+            "post_id_candidato": "1463584539216653",
+            "finish_em": "2026-11-26T09:33:32-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE0NjM1ODQ1NDI1NDk5ODY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1463584539216653",
+            "publicado_em": "2026-11-26T09:34:08-03:00"
+          },
+          "concluido_em": "2026-11-26T09:34:08-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-26T09:34:08-03:00"
     },
     {
       "id": "story-20261127-474b7f0058",
