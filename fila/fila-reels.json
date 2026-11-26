@@ -8527,7 +8527,7 @@
       "id": "reel-20261125-2000-842c969607",
       "data": "2026-11-25",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Salomao 05 - O pelotao que treinava o dobro.mp4",
         "sha256": "842c969607128d256acedea54b339f7c4f1858c387f0a32fa32a9443e2d8cd2e"
@@ -8540,12 +8540,17 @@
       },
       "instagram": {
         "legenda": "Duzentos e oitenta e sete contra cento e sessenta e oito.\n\nE o favorito era o outro time.\n\nTá contado no livro Salomão, o Homem Mais Rico que Já Existiu.\n\nE não confunda com se matar de trabalhar.\n\nÉ fazer do jeito certo, com capricho e sem enrolação, enquanto os outros só vão levando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18103702583420198",
+        "publicado_em": "2026-11-26T00:17:44.422934-03:00"
       },
       "facebook": {
         "legenda": "Duzentos e oitenta e sete contra cento e sessenta e oito.\n\nE o favorito era o outro time.\n\nTá contado no livro Salomão, o Homem Mais Rico que Já Existiu.\n\nE não confunda com se matar de trabalhar.\n\nÉ fazer do jeito certo, com capricho e sem enrolação, enquanto os outros só vão levando.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1453388543624594",
+        "publicado_em": "2026-11-26T00:17:57.756955-03:00"
+      },
+      "concluido_em": "2026-11-26T00:17:57.769146-03:00"
     },
     {
       "id": "reel-20261126-0800-035cc4f814",
