@@ -8566,7 +8566,8 @@
         "asset": "reel-035cc4f814-Antifragil-06---Conselho-de-quem-nao-perde-nada.mp4",
         "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/reel-035cc4f814-Antifragil-06---Conselho-de-quem-nao-perde-nada.mp4",
         "sha256": "035cc4f8141a1e80a316b3979ad81243053f4ada7f82b3dc5834ec5d5fbcc6b3",
-        "tamanho_bytes": 16196886
+        "tamanho_bytes": 16196886,
+        "removido_da_release_em": "2026-11-26T09:32:06.441870-03:00"
       },
       "instagram": {
         "legenda": "Nunca aceite conselho de dinheiro de quem não perde nada se der errado.\n\nEssa é uma das regras mais duras do livro Antifrágil.\n\nBasta perguntar: se esse conselho der errado, quanto perde quem me deu?\n\nSe não perde, desconfia em dobro.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
