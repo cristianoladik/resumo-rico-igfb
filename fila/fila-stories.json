@@ -2968,7 +2968,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-7441996e8b-Habitos-Atomicos-01---A-tacada-no-rosto.mp4",
             "sha256": "7441996e8b865c8ed7583ac8011cc6d498af37c8b3294e40233a818931aa6729",
             "tamanho_bytes": 16177296,
-            "duracao_segundos": 45.033
+            "duracao_segundos": 45.033,
+            "removido_da_release_em": "2026-11-26T09:34:11.709204-03:00"
           },
           "instagram": {
             "status": "publicado",
