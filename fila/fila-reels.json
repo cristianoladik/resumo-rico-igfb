@@ -8617,7 +8617,7 @@
       "id": "reel-20261126-1400-cb1185a6bf",
       "data": "2026-11-26",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Do Mil ao Milhao 06 - O check-up do dinheiro.mp4",
         "sha256": "cb1185a6bfa5d76d55bdc0b6debd711697b3d21fe95e106712755076b287c252"
@@ -8630,18 +8630,23 @@
       },
       "instagram": {
         "legenda": "Sete perguntas mostram se o seu dinheiro tá saudável.\n\nO check-up é do livro Do Mil ao Milhão.\n\nE quando cai um dinheiro inesperado, você investe ou gasta?\n\nCada não é um ponto pra consertar, e não um motivo pra se culpar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18045579497837266",
+        "publicado_em": "2026-11-26T17:56:20.182918-03:00"
       },
       "facebook": {
         "legenda": "Sete perguntas mostram se o seu dinheiro tá saudável.\n\nO check-up é do livro Do Mil ao Milhão.\n\nE quando cai um dinheiro inesperado, você investe ou gasta?\n\nCada não é um ponto pra consertar, e não um motivo pra se culpar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1185443727283593",
+        "publicado_em": "2026-11-26T17:56:35.248999-03:00"
+      },
+      "concluido_em": "2026-11-26T17:56:35.257211-03:00"
     },
     {
       "id": "reel-20261126-1700-8a63f7e58c",
       "data": "2026-11-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mais Esperto que o Diabo 06 - A ameaca que travou um ano.mp4",
         "sha256": "8a63f7e58cbe83c7a2be8a7f515e3954f3b8f24c5759539010222924a0b6a89d"
@@ -8654,12 +8659,17 @@
       },
       "instagram": {
         "legenda": "Mais de um ano travado.\n\nPor causa de uma ameaça.\n\nE quem travou foi o autor de um dos livros de sucesso mais vendidos do mundo.\n\nEssa lição está no livro Mais Esperto que o Diabo.\n\nSentir medo é normal.\n\nO problema é deixar ele assinar as suas decisões.\n\nHoje, que decisão sua está sendo assinada pelo medo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18126585703936728",
+        "publicado_em": "2026-11-26T17:57:17.550057-03:00"
       },
       "facebook": {
         "legenda": "Mais de um ano travado.\n\nPor causa de uma ameaça.\n\nE quem travou foi o autor de um dos livros de sucesso mais vendidos do mundo.\n\nEssa lição está no livro Mais Esperto que o Diabo.\n\nSentir medo é normal.\n\nO problema é deixar ele assinar as suas decisões.\n\nHoje, que decisão sua está sendo assinada pelo medo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1185001913950945",
+        "publicado_em": "2026-11-26T17:57:29.807458-03:00"
+      },
+      "concluido_em": "2026-11-26T17:57:29.815290-03:00"
     },
     {
       "id": "reel-20261126-2000-3c70c75386",
