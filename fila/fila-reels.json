@@ -8557,7 +8557,7 @@
       "id": "reel-20261126-0800-035cc4f814",
       "data": "2026-11-26",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 06 - Conselho de quem nao perde nada.mp4",
         "sha256": "035cc4f8141a1e80a316b3979ad81243053f4ada7f82b3dc5834ec5d5fbcc6b3"
@@ -8570,12 +8570,17 @@
       },
       "instagram": {
         "legenda": "Nunca aceite conselho de dinheiro de quem não perde nada se der errado.\n\nEssa é uma das regras mais duras do livro Antifrágil.\n\nBasta perguntar: se esse conselho der errado, quanto perde quem me deu?\n\nSe não perde, desconfia em dobro.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18132911650699343",
+        "publicado_em": "2026-11-26T09:31:48.914072-03:00"
       },
       "facebook": {
         "legenda": "Nunca aceite conselho de dinheiro de quem não perde nada se der errado.\n\nEssa é uma das regras mais duras do livro Antifrágil.\n\nBasta perguntar: se esse conselho der errado, quanto perde quem me deu?\n\nSe não perde, desconfia em dobro.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1220052754038224",
+        "publicado_em": "2026-11-26T09:32:03.157878-03:00"
+      },
+      "concluido_em": "2026-11-26T09:32:03.165512-03:00"
     },
     {
       "id": "reel-20261126-1100-6b2bae29f3",
