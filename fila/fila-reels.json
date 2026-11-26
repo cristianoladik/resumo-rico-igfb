@@ -8587,7 +8587,7 @@
       "id": "reel-20261126-1100-6b2bae29f3",
       "data": "2026-11-26",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Codigos do Milhao 06 - Dinheiro emprestado que se paga.mp4",
         "sha256": "6b2bae29f3c3e2a3bceeaf757626724348a66d256ac03e5eb4e8ddf728be9066"
@@ -8600,12 +8600,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que cresce com dinheiro emprestado, e tem gente que quebra com ele.\n\nA diferença tá numa conta que o livro Os Códigos do Milhão ensina.\n\nÉ só a regra do livro, explicada.\n\nAntes de qualquer dívida, faz a conta no papel e pensa no pior cenário.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17942919645404124",
+        "publicado_em": "2026-11-26T13:47:58.574896-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que cresce com dinheiro emprestado, e tem gente que quebra com ele.\n\nA diferença tá numa conta que o livro Os Códigos do Milhão ensina.\n\nÉ só a regra do livro, explicada.\n\nAntes de qualquer dívida, faz a conta no papel e pensa no pior cenário.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2657951877987271",
+        "publicado_em": "2026-11-26T13:48:11.005850-03:00"
+      },
+      "concluido_em": "2026-11-26T13:48:11.018231-03:00"
     },
     {
       "id": "reel-20261126-1400-cb1185a6bf",
