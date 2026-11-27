@@ -8677,7 +8677,7 @@
       "id": "reel-20261126-2000-3c70c75386",
       "data": "2026-11-26",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Me Poupe 06 - A taxa que ninguem quer entender.mp4",
         "sha256": "3c70c7538696511949ff0cac69aea4a6984a7662895dc48e5b4ae10967f26cab"
@@ -8690,12 +8690,17 @@
       },
       "instagram": {
         "legenda": "Muita gente foge de entender a taxa Selic.\n\nAcha que é coisa de economista e passa longe.\n\nEssa lição está no livro Me Poupe!\n\nO assunto chato era justamente o que ia pesar no bolso.\n\nPor isso o livro começa pedindo pra falar de dinheiro sem medo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17890066965622933",
+        "publicado_em": "2026-11-27T01:18:15.455198-03:00"
       },
       "facebook": {
         "legenda": "Muita gente foge de entender a taxa Selic.\n\nAcha que é coisa de economista e passa longe.\n\nEssa lição está no livro Me Poupe!\n\nO assunto chato era justamente o que ia pesar no bolso.\n\nPor isso o livro começa pedindo pra falar de dinheiro sem medo.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1128468426465225",
+        "publicado_em": "2026-11-27T01:18:27.885922-03:00"
+      },
+      "concluido_em": "2026-11-27T01:18:27.896251-03:00"
     },
     {
       "id": "reel-20261127-0800-da8a4e1247",
