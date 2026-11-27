@@ -3017,7 +3017,8 @@
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-474b7f0058-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "sha256": "474b7f0058d014f3bdceb6dec611d243dba0209066fd4ac0e5d6b47e8db5ed99",
             "tamanho_bytes": 20890214,
-            "duracao_segundos": 58.367
+            "duracao_segundos": 58.367,
+            "removido_da_release_em": "2026-11-27T09:33:44.918656-03:00"
           },
           "instagram": {
             "status": "publicado",
