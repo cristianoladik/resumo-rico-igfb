@@ -8737,7 +8737,7 @@
       "id": "reel-20261127-1100-a8b878ab43",
       "data": "2026-11-27",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Poder do Habito 06 - A dona de casa e o cassino.mp4",
         "sha256": "a8b878ab435c9996f2cfa5b5d3c24043feef5256e59fcff94bb81ad4f4169807"
@@ -8750,12 +8750,17 @@
       },
       "instagram": {
         "legenda": "Uma dona de casa herdou cerca de um milhão de dólares e perdeu praticamente tudo num cassino.\n\nAngie Bachmann se sentia sozinha e começou a ir ao cassino pra se distrair.\n\nEssa lição está no livro O Poder do Hábito.\n\nPro autor, ela conhecia o próprio hábito havia anos.\n\nDepois que você enxerga um hábito, mudar passa a ser responsabilidade sua.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18338284099263357",
+        "publicado_em": "2026-11-27T11:05:23.404851-03:00"
       },
       "facebook": {
         "legenda": "Uma dona de casa herdou cerca de um milhão de dólares e perdeu praticamente tudo num cassino.\n\nAngie Bachmann se sentia sozinha e começou a ir ao cassino pra se distrair.\n\nEssa lição está no livro O Poder do Hábito.\n\nPro autor, ela conhecia o próprio hábito havia anos.\n\nDepois que você enxerga um hábito, mudar passa a ser responsabilidade sua.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1173245302051855",
+        "publicado_em": "2026-11-27T11:05:35.462831-03:00"
+      },
+      "concluido_em": "2026-11-27T11:05:35.473022-03:00"
     },
     {
       "id": "reel-20261127-1400-49b6f0572d",
