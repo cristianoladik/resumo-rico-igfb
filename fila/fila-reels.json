@@ -8767,7 +8767,7 @@
       "id": "reel-20261127-1400-49b6f0572d",
       "data": "2026-11-27",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Os Codigos do Milhao 06 - A caixa dagua que transborda.mp4",
         "sha256": "49b6f0572daf4107f2e21b6be527466cc5c08203f48efcf407ab7c553f3de4fc"
@@ -8780,18 +8780,23 @@
       },
       "instagram": {
         "legenda": "Tem caixa d'água que vive transbordando por cima.\n\nE tem caixa que perde água por baixo, pelo ladrão, e nunca enche.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nA regra dele: erra muito, mas nunca o mesmo erro.\n\nE se a porta não abriu, é porque você desistiu cedo demais.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17970963657211748",
+        "publicado_em": "2026-11-27T17:42:11.854294-03:00"
       },
       "facebook": {
         "legenda": "Tem caixa d'água que vive transbordando por cima.\n\nE tem caixa que perde água por baixo, pelo ladrão, e nunca enche.\n\nEssa lição está no livro Os Códigos do Milhão.\n\nA regra dele: erra muito, mas nunca o mesmo erro.\n\nE se a porta não abriu, é porque você desistiu cedo demais.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29406507238969125",
+        "publicado_em": "2026-11-27T17:42:23.260189-03:00"
+      },
+      "concluido_em": "2026-11-27T17:42:23.270468-03:00"
     },
     {
       "id": "reel-20261127-1700-a7177d0354",
       "data": "2026-11-27",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 06 - O cheiro que ninguem sentia.mp4",
         "sha256": "a7177d0354c3fb2da3d43ceb96a68f8b8d6621ff0ea0be8c6e92783710b79f44"
@@ -8804,12 +8809,17 @@
       },
       "instagram": {
         "legenda": "Uma empresa gigante criou um produto que tirava qualquer cheiro ruim, e ninguém comprou.\n\nO fracasso tá contado no livro O Poder do Hábito.\n\nAs vendas decolaram.\n\nO produto era o mesmo.\n\nMudou o momento de usar e a recompensa no fim.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18648643165060774",
+        "publicado_em": "2026-11-27T17:43:02.882690-03:00"
       },
       "facebook": {
         "legenda": "Uma empresa gigante criou um produto que tirava qualquer cheiro ruim, e ninguém comprou.\n\nO fracasso tá contado no livro O Poder do Hábito.\n\nAs vendas decolaram.\n\nO produto era o mesmo.\n\nMudou o momento de usar e a recompensa no fim.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "965469389763045",
+        "publicado_em": "2026-11-27T17:43:14.044523-03:00"
+      },
+      "concluido_em": "2026-11-27T17:43:14.054590-03:00"
     },
     {
       "id": "reel-20261127-2000-2fd53e9aa0",
