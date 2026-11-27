@@ -3001,7 +3001,7 @@
       "id": "story-20261127-474b7f0058",
       "data": "2026-11-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "474b7f0058d014f3bdceb6dec611d243dba0209066fd4ac0e5d6b47e8db5ed99",
@@ -3011,7 +3011,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-474b7f0058-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-474b7f0058-Tamanho-1m00---Babilonia-01---As-muralhas-da-Babilonia.mp4",
@@ -3020,13 +3020,30 @@
             "duracao_segundos": 58.367
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156499414534618",
+            "publish_iniciado_em": "2026-11-27T09:32:47-03:00",
+            "id": "17914213224589380",
+            "publicado_em": "2026-11-27T09:32:55-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1138083888828538",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-27T09:33:02-03:00",
+            "post_id_candidato": "1501610136363325",
+            "finish_em": "2026-11-27T09:33:06-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjE1MDE2MTAxNDYzNjMzMjQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1501610136363325",
+            "publicado_em": "2026-11-27T09:33:42-03:00"
+          },
+          "concluido_em": "2026-11-27T09:33:42-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-27T09:33:42-03:00"
     },
     {
       "id": "story-20261128-bd78b140cb",
