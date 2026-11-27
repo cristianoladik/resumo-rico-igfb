@@ -8707,7 +8707,7 @@
       "id": "reel-20261127-0800-da8a4e1247",
       "data": "2026-11-27",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria As 16 Leis do Sucesso 06 - Os 12 impossiveis.mp4",
         "sha256": "da8a4e1247daae149bff9fdcd22232476874e86a916fbf9d46c10f3ec55901fd"
@@ -8720,12 +8720,17 @@
       },
       "instagram": {
         "legenda": "Um vendedor tímido fez uma lista só com os clientes que ninguém convencia.\n\nDoze comerciantes.\n\nOs impossíveis.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nE o rapaz respondeu: o senhor foi o meu professor.\n\nO comerciante comprou o anúncio.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18381308251214916",
+        "publicado_em": "2026-11-27T09:31:30.714182-03:00"
       },
       "facebook": {
         "legenda": "Um vendedor tímido fez uma lista só com os clientes que ninguém convencia.\n\nDoze comerciantes.\n\nOs impossíveis.\n\nEssa lição está no livro As 16 Leis do Sucesso.\n\nE o rapaz respondeu: o senhor foi o meu professor.\n\nO comerciante comprou o anúncio.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3630570930432849",
+        "publicado_em": "2026-11-27T09:31:41.871946-03:00"
+      },
+      "concluido_em": "2026-11-27T09:31:41.879910-03:00"
     },
     {
       "id": "reel-20261127-1100-a8b878ab43",
