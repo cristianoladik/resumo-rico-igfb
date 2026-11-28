@@ -8887,7 +8887,7 @@
       "id": "reel-20261128-1100-4bf93190d5",
       "data": "2026-11-28",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 07 - O que dura mais tempo.mp4",
         "sha256": "4bf93190d5e2f4cab0dfc2824ee6bd35d27f81f2577281ab552209a7fdefbfdb"
@@ -8900,12 +8900,17 @@
       },
       "instagram": {
         "legenda": "Quer saber quanto tempo uma coisa ainda vai durar?\n\nOlha quanto ela já durou.\n\nParece estranho, mas é o efeito Lindy, uma das ideias do livro Antifrágil.\n\nO que passou por várias crises e continua de pé provou alguma coisa.\n\nEntão, antes de se empolgar com a novidade do momento, pergunta: isso já passou pelo teste do tempo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17981723247138247",
+        "publicado_em": "2026-11-28T12:26:07.935544-03:00"
       },
       "facebook": {
         "legenda": "Quer saber quanto tempo uma coisa ainda vai durar?\n\nOlha quanto ela já durou.\n\nParece estranho, mas é o efeito Lindy, uma das ideias do livro Antifrágil.\n\nO que passou por várias crises e continua de pé provou alguma coisa.\n\nEntão, antes de se empolgar com a novidade do momento, pergunta: isso já passou pelo teste do tempo?\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3014564285560258",
+        "publicado_em": "2026-11-28T12:26:20.164877-03:00"
+      },
+      "concluido_em": "2026-11-28T12:26:20.172744-03:00"
     },
     {
       "id": "reel-20261128-1400-77ead905a5",
