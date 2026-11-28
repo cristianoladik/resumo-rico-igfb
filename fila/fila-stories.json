@@ -3050,7 +3050,7 @@
       "id": "story-20261128-bd78b140cb",
       "data": "2026-11-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "bd78b140cb66bde7e8e49125433a5044b72e479da47711ac88371daf3ba213e4",
@@ -3060,7 +3060,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-bd78b140cb-Tamanho-1m00---Pai-Rico-04---Trabalhando-de-graca.mp4",
             "url_publica": "https://github.com/cristianoladik/resumo-rico-igfb/releases/download/fila-instagram-facebook/story-bd78b140cb-Tamanho-1m00---Pai-Rico-04---Trabalhando-de-graca.mp4",
@@ -3069,13 +3069,30 @@
             "duracao_segundos": 58.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156697612534618",
+            "publish_iniciado_em": "2026-11-28T09:32:41-03:00",
+            "id": "18224051797349563",
+            "publicado_em": "2026-11-28T09:32:52-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1169158395567865",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-28T09:33:06-03:00",
+            "post_id_candidato": "2209836473254113",
+            "finish_em": "2026-11-28T09:33:15-03:00",
+            "url": "https://facebook.com/stories/122093044977503582/UzpfSVNDOjIyMDk4MzY0ODMyNTQxMTI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2209836473254113",
+            "publicado_em": "2026-11-28T09:33:51-03:00"
+          },
+          "concluido_em": "2026-11-28T09:33:51-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-28T09:33:51-03:00"
     },
     {
       "id": "story-20261129-67f1a72551",
