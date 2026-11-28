@@ -8827,7 +8827,7 @@
       "id": "reel-20261127-2000-2fd53e9aa0",
       "data": "2026-11-27",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Quem Pensa Enriquece 06 - A chaleira que virou fortuna.mp4",
         "sha256": "2fd53e9aa08df1868433bc7f17b52aafc1a704c63af010dcd85314f00c1abe09"
@@ -8840,12 +8840,17 @@
       },
       "instagram": {
         "legenda": "Uma chaleira velha virou uma das marcas mais valiosas do planeta.\n\nParece lenda, mas o livro Quem Pensa Enriquece conta como foi.\n\nO que falta é alguém que olhe pra ela do ângulo certo.\n\nPro livro, uma ideia só vale quando alguém coloca ela pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18180153526453407",
+        "publicado_em": "2026-11-28T01:12:37.417245-03:00"
       },
       "facebook": {
         "legenda": "Uma chaleira velha virou uma das marcas mais valiosas do planeta.\n\nParece lenda, mas o livro Quem Pensa Enriquece conta como foi.\n\nO que falta é alguém que olhe pra ela do ângulo certo.\n\nPro livro, uma ideia só vale quando alguém coloca ela pra trabalhar.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3527837944065159",
+        "publicado_em": "2026-11-28T01:12:48.370241-03:00"
+      },
+      "concluido_em": "2026-11-28T01:12:48.380883-03:00"
     },
     {
       "id": "reel-20261128-0800-0268222855",
