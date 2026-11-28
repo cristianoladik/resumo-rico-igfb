@@ -8857,7 +8857,7 @@
       "id": "reel-20261128-0800-0268222855",
       "data": "2026-11-28",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Salomao 06 - Dinheiro que chega correndo.mp4",
         "sha256": "0268222855247b1084febb661e38fd7ec326b59b3baae76e85ba4173e96811e4"
@@ -8870,12 +8870,17 @@
       },
       "instagram": {
         "legenda": "Dinheiro que chega correndo costuma sair correndo também.\n\nÉ um dos avisos mais antigos do livro Salomão, o Homem Mais Rico que Já Existiu.\n\nPor isso o livro manda fugir de quem promete riqueza rápida e garantida.\n\nQuase sempre é armadilha.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17875759668640692",
+        "publicado_em": "2026-11-28T09:30:57.697111-03:00"
       },
       "facebook": {
         "legenda": "Dinheiro que chega correndo costuma sair correndo também.\n\nÉ um dos avisos mais antigos do livro Salomão, o Homem Mais Rico que Já Existiu.\n\nPor isso o livro manda fugir de quem promete riqueza rápida e garantida.\n\nQuase sempre é armadilha.\n\nSegue a página pra ver mais livros assim: @resumoricobr",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1688691763047937",
+        "publicado_em": "2026-11-28T09:31:08.227692-03:00"
+      },
+      "concluido_em": "2026-11-28T09:31:08.237584-03:00"
     },
     {
       "id": "reel-20261128-1100-4bf93190d5",
